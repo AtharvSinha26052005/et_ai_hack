@@ -1,0 +1,117 @@
+/* Maintenance Page CSS */
+
+.maintenance-page { display: flex; flex-direction: column; gap: var(--space-xl); }
+
+.rca-input-section { padding: var(--space-xl); }
+.rca-input-section h3 { margin-bottom: var(--space-xs); }
+.rca-input-section > p { font-size: 0.8125rem; margin-bottom: var(--space-md); }
+
+.rca-form { display: flex; gap: var(--space-md); }
+.rca-form .input { max-width: 400px; }
+
+/* Tabs */
+.maint-tabs {
+  display: flex; gap: 2px;
+  background: var(--color-bg-secondary);
+  border-radius: var(--radius-lg);
+  padding: 3px;
+  border: 1px solid var(--color-border);
+}
+
+.tab-btn {
+  display: flex; align-items: center; gap: var(--space-sm);
+  padding: 0.625rem 1rem;
+  background: none; border: none;
+  color: var(--color-text-muted);
+  font-family: var(--font-sans); font-size: 0.8125rem; font-weight: 500;
+  border-radius: var(--radius-md); cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.tab-btn:hover { color: var(--color-text-primary); background: var(--color-bg-hover); }
+
+.tab-btn.active {
+  color: var(--color-text-primary);
+  background: var(--color-bg-elevated);
+  box-shadow: var(--shadow-sm);
+}
+
+/* Content */
+.tab-content { min-height: 300px; }
+
+.recommendations-list, .patterns-list, .rca-results {
+  display: flex; flex-direction: column; gap: var(--space-md);
+}
+
+.recommendation-card, .pattern-card, .rca-item { padding: var(--space-lg); }
+
+.rec-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: var(--space-sm); }
+
+.rec-equipment { display: flex; align-items: center; gap: var(--space-sm); color: var(--color-text-primary); }
+.rec-name { color: var(--color-text-secondary); font-size: 0.875rem; }
+.rec-text { font-size: 0.875rem; color: var(--color-text-secondary); margin-bottom: var(--space-md); }
+
+.rec-footer {
+  display: flex; align-items: center; gap: var(--space-md); flex-wrap: wrap;
+}
+
+.rec-last { font-size: 0.75rem; color: var(--color-text-muted); }
+
+.pattern-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: var(--space-sm); }
+.pattern-code { font-size: 0.75rem; color: var(--color-text-muted); display: block; margin-bottom: 0.25rem; }
+.pattern-header h4 { font-size: 0.9375rem; }
+
+.pattern-equipment { display: flex; align-items: center; gap: var(--space-sm); flex-wrap: wrap; margin-top: var(--space-sm); }
+.pattern-label { font-size: 0.75rem; color: var(--color-text-muted); }
+
+.mono { font-family: var(--font-mono); }
+
+/* Timeline */
+.timeline-title { margin-bottom: var(--space-lg); }
+
+.timeline-list { position: relative; padding-left: var(--space-xl); }
+
+.timeline-list::before {
+  content: ''; position: absolute; left: 10px; top: 0; bottom: 0;
+  width: 2px; background: var(--color-border);
+}
+
+.timeline-item {
+  position: relative; margin-bottom: var(--space-md);
+}
+
+.timeline-dot {
+  position: absolute; left: calc(-1 * var(--space-xl) + 6px); top: var(--space-lg);
+  width: 10px; height: 10px; border-radius: 50%;
+  background: var(--color-accent-blue);
+  border: 2px solid var(--color-bg-primary);
+  z-index: 1;
+}
+
+.timeline-content { padding: var(--space-md) var(--space-lg); }
+
+.timeline-header { display: flex; align-items: center; gap: var(--space-sm); margin-bottom: var(--space-xs); flex-wrap: wrap; }
+.timeline-date { font-size: 0.75rem; color: var(--color-text-muted); margin-left: auto; }
+.timeline-content p { font-size: 0.875rem; color: var(--color-text-secondary); }
+
+.timeline-detail {
+  font-size: 0.75rem; color: var(--color-text-muted); margin-top: var(--space-xs);
+}
+
+/* RCA */
+.rca-stats {
+  display: flex; align-items: center; gap: var(--space-md); margin-bottom: var(--space-lg);
+}
+
+.rca-time { font-size: 0.75rem; color: var(--color-text-muted); }
+
+.rca-item-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: var(--space-sm); }
+.rca-item p { font-size: 0.875rem; color: var(--color-text-secondary); }
+
+.rca-mitigations {
+  margin-top: var(--space-sm); font-size: 0.8125rem;
+  padding: var(--space-sm) var(--space-md);
+  background: rgba(16, 185, 129, 0.05);
+  border-radius: var(--radius-md);
+  color: var(--color-accent-emerald-light);
+}

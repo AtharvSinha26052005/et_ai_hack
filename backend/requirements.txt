@@ -1,0 +1,48 @@
+# Core
+fastapi==0.115.12
+uvicorn[standard]==0.34.3
+python-dotenv==1.1.1
+pydantic==2.11.3
+pydantic-settings==2.9.1
+
+# Database
+sqlalchemy==2.0.41
+aiosqlite==0.21.0
+
+# Neo4j
+neo4j==5.28.1
+langchain-neo4j==0.4.2
+
+# Vector Store
+chromadb==0.6.3
+
+# LangChain + LangGraph
+langchain==0.3.25
+langchain-core==0.3.59
+langchain-google-genai==2.1.5
+langchain-community==0.3.24
+langgraph==0.4.8
+
+# Document Processing
+pymupdf==1.27.2.3
+python-docx==1.1.2
+openpyxl==3.1.5
+
+# OCR
+pytesseract==0.3.13
+
+# NLP / Entity Extraction
+spacy==3.8.7
+gliner==0.2.18
+
+# Embeddings
+sentence-transformers==4.1.0
+
+# API utilities
+python-multipart==0.0.20
+websockets==15.0.1
+aiofiles==24.1.0
+
+# Testing
+pytest==8.3.5
+httpx==0.28.1
