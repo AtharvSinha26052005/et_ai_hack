@@ -1,0 +1,213 @@
+LOCKOUT/TAGOUT (LOTO) PROCEDURE
+================================
+Document No: SOP-LOTO-001
+Revision: Rev 4
+Effective Date: 2024-04-01
+Next Review: 2025-04-01
+Approved By: Vikram Reddy (Plant Manager)
+
+1. PURPOSE
+==========
+This procedure establishes requirements for the lockout/tagout (LOTO) of energy
+sources to ensure that equipment and machinery are properly isolated and
+de-energized before maintenance, servicing, or inspection activities. This
+procedure is mandatory for all personnel performing work that requires isolation
+of hazardous energy sources.
+
+2. SCOPE
+========
+This procedure applies to:
+- All rotating equipment (pumps, compressors, motors, fans)
+- All pressure equipment (vessels, heat exchangers, piping systems)
+- Electrical equipment (switchgear, MCCs, transformers, UPS systems)
+- Automated valves and control systems
+- Hydraulic and pneumatic systems
+- Thermal energy sources (steam, hot oil, hot water)
+- Chemical energy sources (process fluids, hazardous materials)
+
+Exceptions:
+- Minor servicing that does not require removal of guards or exposure to
+  hazardous energy (e.g., minor adjustments, filter changes with block valves
+  already isolated) — requires supervisor approval
+- Hot tap operations under approved procedure SOP-HOT-TAP-001
+
+3. REFERENCES
+=============
+- OISD-STD-105: Work Permit System
+- Factory Act 1948, Section 21: Fencing of Machinery
+- IS 3646 Part 1: Code of Practice for Interior Illumination (emergency)
+- ISO 45001: Occupational Health & Safety Management Systems
+
+4. DEFINITIONS
+==============
+Lockout:    Placement of a lock on an energy-isolating device to ensure that
+            the device cannot be operated until the lock is removed.
+Tagout:     Placement of a tag on an energy-isolating device to indicate that
+            the device must not be operated until the tag is removed.
+Affected Employee: An employee who operates or uses equipment on which servicing
+            or maintenance is being performed under LOTO.
+Authorized Employee: An employee who locks out/tags out equipment to perform
+            servicing or maintenance. Must be trained and certified.
+Energy Isolating Device: A mechanical device that physically prevents the
+            transmission or release of energy (e.g., circuit breaker, block
+            valve, blind flange, disconnect switch).
+
+5. RESPONSIBILITIES
+===================
+5.1 Plant Manager / Occupier
+    - Overall responsibility for LOTO program implementation
+    - Ensure adequate locks, tags, and devices are available
+    - Approve group lockout procedures
+
+5.2 Maintenance Manager (Srinivas Reddy, EMP-037)
+    - Ensure all maintenance personnel are trained on LOTO
+    - Maintain LOTO training records
+    - Review LOTO procedure annually
+
+5.3 Shift Supervisor (Ravi Shankar, EMP-012 / Rohit Saxena, EMP-027)
+    - Authorize LOTO application
+    - Verify energy isolation before work begins
+    - Coordinate LOTO removal after work completion
+    - Maintain LOTO log register
+
+5.4 Authorized Employees (All maintenance technicians)
+    - Apply personal locks and tags
+    - Verify zero energy state before starting work
+    - Remove own locks upon work completion
+    - NEVER operate equipment under LOTO
+
+5.5 Safety Officer (Deepak Verma, EMP-006)
+    - Conduct LOTO audits (quarterly)
+    - Investigate LOTO violations
+    - Maintain incident records
+
+6. ENERGY ISOLATION PROCEDURES
+================================
+
+6.1 STEP 1: PREPARATION
+   a. Identify all energy sources for the equipment:
+      □ Electrical (motor power, control power, UPS backup)
+      □ Mechanical (stored energy — springs, counterweights)
+      □ Hydraulic (pressurized oil lines)
+      □ Pneumatic (instrument air, plant air)
+      □ Thermal (steam, hot oil, hot surfaces)
+      □ Chemical (process fluids, hazardous materials)
+      □ Gravitational (suspended loads, elevated platforms)
+   b. Identify all energy-isolating devices (refer to equipment isolation
+      schematic — available in DCS/control room)
+   c. Obtain Work Permit (SOP-PTW-001) — signed by area authority
+   d. Notify all affected employees
+
+6.2 STEP 2: SHUTDOWN
+   a. Follow normal shutdown procedure for the equipment
+      - Pumps: SOP-PUMP-STOP-001
+      - Compressors: SOP-COMP-START-001 (shutdown section)
+      - Boilers: SOP-BOILER-STOP-001
+   b. Bring equipment to zero energy state
+   c. Confirm shutdown with DCS operator (EMP-018 / EMP-034)
+
+6.3 STEP 3: ISOLATION
+   a. Operate each energy-isolating device to the ISOLATED position:
+      - Electrical: Open circuit breaker, rack out to TEST position, remove
+        fuses where applicable
+      - Mechanical: Close and lock block valves on suction and discharge.
+        Install spectacle blinds (SOP-BLINDING-001) for positive isolation
+      - Pneumatic: Close instrument air supply valve, bleed air from actuators
+      - Thermal: Close steam/hot oil isolation valves, install blinds if
+        temperature > 60°C
+   b. Verify isolation:
+      - Attempt to start equipment from LOCAL control station — must NOT start
+      - Check pressure gauges read ZERO on isolated sections
+      - Check temperature within acceptable limits for work
+      - For electrical: Use voltage tester to confirm DEAD at equipment terminals
+
+6.4 STEP 4: LOCKOUT & TAGOUT
+   a. Apply PERSONAL lock (red padlock with name tag) on each energy-isolating
+      device
+   b. Each worker applies their OWN lock — no sharing of locks
+   c. Attach DANGER tag with:
+      - Name of authorized employee
+      - Date and time of lockout
+      - Reason for lockout
+      - Expected completion time
+      - Work permit number
+   d. Keys remain with the INDIVIDUAL who applied the lock — no key box
+   e. For group lockout: Group LOTO coordinator applies master lock. Each
+      individual then applies personal lock to group lockbox.
+
+6.5 STEP 5: VERIFY ZERO ENERGY STATE
+   a. After lockout, attempt to restart equipment from DCS — must fail
+   b. Verify all stored energy is dissipated:
+      - Pressure gauges at zero
+      - Springs/counterweights blocked
+      - Capacitors discharged
+      - Elevated components supported/blocked
+   c. Only after verification can work begin
+
+6.6 STEP 6: PERFORM WORK
+   a. Proceed with maintenance/servicing activity
+   b. If additional energy sources are discovered during work, STOP work
+      and apply additional LOTO before continuing
+
+6.7 STEP 7: RESTORATION
+   a. Work complete — area cleaned, tools accounted for
+   b. All guards and safety devices reinstalled
+   c. Notify all affected employees that LOTO will be removed
+   d. Verify all personnel clear of equipment
+   e. Remove personal locks and tags — each person removes ONLY their own lock
+   f. Restore energy-isolating devices to NORMAL position
+   g. Remove blinds (record in blind register)
+   h. Test equipment (trial run) under controlled conditions
+   i. Return equipment to operations — close work permit
+
+7. SPECIAL SITUATIONS
+=====================
+7.1 Shift Change During LOTO
+    - Outgoing shift worker removes their lock
+    - Incoming shift worker immediately applies their lock
+    - Transfer must be direct — no gap between locks
+    - Document transfer in LOTO register
+
+7.2 Lost Key / Absent Employee
+    - Only Plant Manager can authorize lock cutting
+    - Requires physical verification that employee is NOT in/on equipment
+    - Two-person witness for lock cutting
+    - Replacement lock applied immediately
+    - Incident report filed
+
+7.3 Group Lockout (More than 6 workers)
+    - LOTO coordinator designated
+    - Group lockbox with individual locks
+    - Coordinator maintains master log
+    - ALL individual locks must be removed before master lock is removed
+
+8. TRAINING REQUIREMENTS
+=========================
+- Initial LOTO training: 8 hours (before any maintenance work assignment)
+- Annual refresher: 4 hours
+- Retraining after any LOTO violation or near-miss
+- Training records maintained by HR and Safety Department
+
+9. VIOLATION CONSEQUENCES
+==========================
+- First violation: Written warning + retraining
+- Second violation: 1-week suspension + retraining
+- Third violation: Termination
+- Any violation that results in injury: Immediate investigation per
+  SOP-INCIDENT-001, potential termination and legal action
+
+10. FORMS AND REGISTERS
+========================
+- LOTO Application Form (Form-LOTO-01)
+- LOTO Register (maintained at control room)
+- Group LOTO Log (Form-LOTO-02)
+- LOTO Audit Checklist (Form-LOTO-03)
+
+REVISION HISTORY
+=================
+Rev  Date        Author           Description
+---  ----        ------           -----------
+1    2019-04-01  Deepak Verma     Initial release
+2    2021-03-15  Deepak Verma     Added group LOTO requirements
+3    2023-01-10  Anita Desai      Updated for ISO 45001 alignment
+4    2024-04-01  Deepak Verma     Added shift change and lost key procedures

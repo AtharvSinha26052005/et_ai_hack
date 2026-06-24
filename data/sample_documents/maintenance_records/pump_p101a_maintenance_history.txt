@@ -1,0 +1,245 @@
+MAINTENANCE HISTORY REPORT — FEED WATER PUMP P-101A
+=====================================================
+Report Period: January 2023 to December 2025
+Equipment Tag: P-101A
+Equipment Name: Feed Water Pump A
+Type: Centrifugal Pump (Grundfos CR 64-3-2)
+Location: Unit-1 / Pump House / Bay-A
+Criticality Rating: A (Critical — no installed spare online)
+Prepared By: Kavitha Rajan, Reliability Engineer (EMP-009)
+Date: 2025-12-28
+
+EQUIPMENT SUMMARY
+==================
+Install Date: 2019-03-15
+Running Hours (as of Dec 2025): 42,580 hrs
+Motor: ABB M3BP 315 SMC 4, 55 kW, 415V, 1480 RPM
+Seal Type: Cartridge Mechanical Seal (John Crane Type 5610, SiC/SiC/EPDM)
+Bearings: DE - SKF 6316, NDE - SKF 6314
+Coupling: Rexnord Omega E40 (elastomeric)
+Lubricant: SKF LGMT 2 (grease for bearings)
+
+MAINTENANCE SUMMARY (3-Year)
+==============================
+Work Order Type     Count    Total Cost (INR)    Total Downtime (hrs)
+--------------      -----    ----------------    --------------------
+PM (Preventive)     12       4,85,000            96
+CM (Corrective)     5        8,72,000            142
+EM (Emergency)      2        4,15,000            68
+PdM (Predictive)    3        1,95,000            36
+--------------      --       ----------          ---
+TOTAL               22       19,67,000           342
+
+MEAN TIME BETWEEN FAILURES (MTBF): 4,265 hrs (based on CM+EM events)
+MEAN TIME TO REPAIR (MTTR): 30 hrs (average for CM+EM events)
+AVAILABILITY: 97.2% (342 hrs downtime / 12,264 running hrs planned)
+
+DETAILED WORK ORDER HISTORY
+=============================
+
+WO-2023-0015 | PM | 2023-01-22 | Completed
+Description: Q1 PM — Vibration survey. Overall: DE 2.8 mm/s, NDE 2.1 mm/s.
+Bearing temp: DE 62°C, NDE 55°C. Seal: no visible leak. All normal.
+Personnel: Suresh Patel (EMP-002)
+Duration: 4 hrs | Cost: INR 8,500
+
+WO-2023-0089 | PM | 2023-04-15 | Completed
+Description: Q2 PM — Vibration survey. Overall: DE 3.1 mm/s, NDE 2.4 mm/s.
+Slight increase in DE bearing vibration — trending noted. Bearing temp: DE 65°C.
+Motor current: 78A (normal). Coupling spider checked — satisfactory.
+Personnel: Suresh Patel (EMP-002), Vijay Prakash (EMP-031)
+Duration: 6 hrs | Cost: INR 12,000
+
+WO-2023-0156 | CM | 2023-06-12 | Completed
+Description: Mechanical seal replacement. Reported by operator — visible spray
+from seal housing (~20 drops/min). Investigation: shaft runout measured 0.08mm
+(exceeds 0.05mm limit). Shaft sleeve scored. Replaced: mechanical seal assembly
+(John Crane 5610), shaft sleeve, and O-rings. Shaft polished. Post-repair:
+no visible leakage.
+Root Cause: Dry running during tank cleaning — suction ran dry for ~3 minutes.
+CAPA: Added low suction pressure trip at 0.5 bar (gauge) to DCS logic.
+Failure Mode: FM-SEAL-LEAK
+Personnel: Suresh Patel (EMP-002), Sanjay Gupta (EMP-008)
+Duration: 28 hrs | Cost: INR 1,85,000
+Parts Used: John Crane 5610 seal (96525490), shaft sleeve (96344390), O-ring kit
+
+WO-2023-0201 | PM | 2023-07-18 | Completed
+Description: Q3 PM — Vibration: DE 2.2 mm/s, NDE 2.0 mm/s (good post-seal repair).
+Bearing temp normal. Alignment rechecked after seal repair — 0.04mm angular,
+0.02mm offset (within spec).
+Personnel: Vijay Prakash (EMP-031)
+Duration: 4 hrs | Cost: INR 9,000
+
+WO-2023-0278 | PM | 2023-10-20 | Completed
+Description: Q4 PM — Vibration: DE 2.5 mm/s, NDE 2.2 mm/s. Normal trend.
+Foundation bolts torque-checked — all satisfactory. Oil level in bearing
+housing correct. Motor fan cover clean.
+Personnel: Suresh Patel (EMP-002)
+Duration: 5 hrs | Cost: INR 10,500
+
+WO-2024-0034 | PM | 2024-01-15 | Completed
+Description: Q1 PM + Annual overhaul. Pump disassembled for annual inspection.
+Impeller: minor cavitation pitting on inlet vanes (< 1mm depth) — acceptable
+for continued service. Wear rings: 0.35mm clearance (new: 0.25mm, max: 0.50mm)
+— acceptable. Bearings: DE bearing inner race shows light fretting marks,
+replaced precautionarily. NDE bearing satisfactory — reused. New mechanical
+seal installed (scheduled replacement at annual). Laser alignment: angular
+0.03mm, offset 0.02mm. Performance test: head 118m, flow 31 m³/hr at 82A —
+matches pump curve.
+Personnel: Suresh Patel (EMP-002), Sanjay Gupta (EMP-008), Dinesh Yadav (EMP-021)
+Duration: 48 hrs | Cost: INR 3,25,000
+Parts Used: John Crane 5610 seal, SKF 6316 bearing, O-ring kit, coupling spider
+
+WO-2024-0098 | PM | 2024-04-12 | Completed
+Description: Q2 PM — Vibration: DE 1.8 mm/s, NDE 1.6 mm/s (excellent post-overhaul).
+Bearing temp: DE 58°C, NDE 52°C. Seal: dry (zero leakage). Motor current: 80A.
+Amp clamp on all three phases: R=80A, Y=81A, B=79A (balanced).
+Personnel: Vijay Prakash (EMP-031)
+Duration: 4 hrs | Cost: INR 8,500
+
+WO-2024-0167 | PdM | 2024-06-05 | Completed
+Description: Oil analysis flagged high iron content (Fe: 85 ppm, normal <50 ppm)
+in bearing housing oil. Vibration still normal (DE 2.4 mm/s). Decision: change
+oil and retest in 30 days. Retest: Fe 35 ppm — normalized. Source was likely
+residual contamination from annual overhaul. No bearing damage.
+Personnel: Kavitha Rajan (EMP-009)
+Duration: 6 hrs | Cost: INR 15,000
+
+WO-2024-0189 | PM | 2024-07-15 | Completed
+Description: Q3 PM — Vibration: DE 2.6 mm/s, NDE 2.0 mm/s. Bearing temp:
+DE 63°C, NDE 54°C. All within normal. Foundation bolts checked. Coupling
+guard secure. Motor fan cover clean.
+Personnel: Suresh Patel (EMP-002)
+Duration: 4 hrs | Cost: INR 9,000
+
+WO-2024-0256 | CM | 2024-09-22 | Completed
+Description: Coupling spider failure. Operator reported unusual noise during
+night shift. Vibration checked — DE overall 8.5 mm/s (alarm 7.1 mm/s).
+Pump stopped. Coupling guard removed — found elastomeric spider completely
+disintegrated (fragments in guard). Coupling hubs undamaged. Spider replaced
+(Rexnord Omega E40). Alignment rechecked — satisfactory (0.04/0.03mm).
+Root Cause: Spider material degradation (exceeded 4-year replacement interval;
+should replace every 3 years or 25,000 hrs per manufacturer recommendation).
+CAPA: Added coupling spider to 3-year replacement schedule in SAP PM plan.
+Failure Mode: FM-COUPLING-FAIL
+Personnel: Suresh Patel (EMP-002), Sanjay Gupta (EMP-008)
+Duration: 18 hrs | Cost: INR 45,000
+Parts Used: Rexnord Omega E40 spider (2 nos.)
+
+WO-2024-0298 | PM | 2024-10-18 | Completed
+Description: Q4 PM — Vibration: DE 2.0 mm/s, NDE 1.8 mm/s (good post-coupling).
+All parameters normal.
+Personnel: Vijay Prakash (EMP-031)
+Duration: 4 hrs | Cost: INR 8,500
+
+WO-2025-0001 | EM | 2025-01-08 | Completed
+Description: EMERGENCY — Pump tripped on high motor current (105A, trip at 105A).
+Found: discharge line pressure relief valve PSV-101 leaking, causing pump to
+operate at run-out flow (~42 m³/hr vs rated 30). Motor overloaded. PSV-101
+sent for bench test — found seat damaged, popping at 15 bar instead of 18 bar.
+PSV-101 overhauled and recalibrated. Pump restarted — current normalized to 82A.
+Root Cause: PSV-101 seat damage from previous pop event (likely thermal cycling).
+Failure Mode: FM-MOTOR-OVH, FM-SAFETY-VALVE-LEAK
+Personnel: Rajesh Kumar Sharma (EMP-001), Sanjay Gupta (EMP-008), Suresh Patel (EMP-002)
+Duration: 36 hrs | Cost: INR 2,65,000
+
+WO-2025-0045 | PM | 2025-01-20 | Completed
+Description: Q1 PM — Vibration: DE 2.2 mm/s, NDE 1.9 mm/s. Bearing temp:
+DE 60°C, NDE 53°C. Seal: dry. Motor current: 81A. Post-emergency restart
+check satisfactory.
+Personnel: Suresh Patel (EMP-002)
+Duration: 5 hrs | Cost: INR 10,000
+
+WO-2025-0112 | PdM | 2025-03-18 | Completed
+Description: Thermography survey identified hot spot on NDE bearing housing
+(78°C surface, normally 55-60°C). Vibration still normal (2.3 mm/s). Oil
+analysis: normal wear metals. Decision: increase monitoring frequency to weekly.
+After 4 weeks: temperature stabilized at 65°C. Probable cause: recent ambient
+temperature increase (summer onset). No action required.
+Personnel: Vijay Prakash (EMP-031), Kavitha Rajan (EMP-009)
+Duration: 8 hrs | Cost: INR 12,000
+
+WO-2025-0178 | PM | 2025-04-15 | Completed
+Description: Q2 PM — Vibration: DE 2.8 mm/s, NDE 2.3 mm/s. Slight increase
+from previous quarter — monitored. Bearing temp: DE 64°C, NDE 58°C. Motor
+current: 83A. Seal: dry. All within acceptable limits but trending upward
+on DE position.
+Personnel: Vijay Prakash (EMP-031)
+Duration: 5 hrs | Cost: INR 9,500
+
+WO-2025-0234 | CM | 2025-06-10 | Completed
+Description: DE bearing replacement. Vibration trend showed steady increase
+over 3 quarters: 1.8 → 2.6 → 2.8 → 3.8 mm/s. Spectrum analysis showed
+BPFO (Ball Pass Frequency Outer race) at 112 Hz with harmonics — confirmed
+outer race defect. Bearing replaced (SKF 6316 C3). Post-replacement vibration:
+1.5 mm/s. Root cause: normal fatigue (bearing life achieved 26,000 hrs vs
+L10 life of 28,000 hrs). No secondary damage.
+Failure Mode: FM-BEARING-FAIL
+Personnel: Suresh Patel (EMP-002), Sanjay Gupta (EMP-008)
+Duration: 22 hrs | Cost: INR 85,000
+Parts Used: SKF 6316/C3 bearing
+
+WO-2025-0267 | EM | 2025-07-15 | Completed
+Description: EMERGENCY — Seal catastrophic failure. During thunderstorm,
+power dip caused pump to momentarily lose prime (suction tank level dropped
+due to simultaneous DM plant trip). Seal ran dry for ~45 seconds before
+operator could stop pump. Severe damage to both seal faces. Shaft sleeve
+heavily scored. Emergency switchover to P-101B (standby) successful.
+P-101A: seal assembly replaced, shaft sleeve replaced, all O-rings replaced.
+Post-repair performance test satisfactory.
+Root Cause: Power dip → DM plant trip → low suction tank level → loss of prime → dry running
+CAPA: (1) Install suction pressure switch with 3-second delay trip (PSL-101A)
+      (2) Add auto-start logic for P-101B on P-101A trip
+      (3) Review UPS coverage for DM plant RO system
+Failure Mode: FM-SEAL-LEAK
+Personnel: Rajesh Kumar Sharma (EMP-001), Suresh Patel (EMP-002), Sanjay Gupta (EMP-008), Amit Singh (EMP-003)
+Duration: 32 hrs | Cost: INR 1,50,000
+Parts Used: John Crane 5610 seal, shaft sleeve, O-ring kit, coupling spider (precautionary)
+
+WO-2025-0301 | PM | 2025-07-28 | Completed
+Description: Post-emergency PM. Full vibration baseline established after repairs.
+DE 1.4 mm/s, NDE 1.3 mm/s. Bearing temp: DE 55°C, NDE 50°C. Motor current: 79A.
+All excellent.
+Personnel: Vijay Prakash (EMP-031)
+Duration: 6 hrs | Cost: INR 12,000
+
+WO-2025-0345 | PM | 2025-10-15 | Completed
+Description: Q4 PM — Vibration: DE 1.8 mm/s, NDE 1.5 mm/s. All normal.
+Coupling spider checked — 6 months old, satisfactory condition. Foundation
+bolts tight. Motor megger: R=1200MΩ, Y=1350MΩ, B=1180MΩ, PI=3.8 — excellent.
+Personnel: Suresh Patel (EMP-002), Vijay Prakash (EMP-031)
+Duration: 6 hrs | Cost: INR 15,000
+
+WO-2025-0389 | PdM | 2025-11-20 | Completed
+Description: Annual oil analysis. All parameters within limits:
+Fe=28ppm, Cu=12ppm, Cr=3ppm, water=0.02%, TAN=0.8 mgKOH/g.
+Oil grade correct (ISO VG 46). No action required. Next analysis: May 2026.
+Personnel: Kavitha Rajan (EMP-009)
+Duration: 2 hrs | Cost: INR 5,000
+
+FAILURE ANALYSIS SUMMARY (3-Year)
+===================================
+Failure Mode          Occurrences    MTBF (hrs)    Root Cause Category
+-----------           -----------    ----------    -------------------
+FM-SEAL-LEAK          3              14,193        Operational (dry running): 2
+                                                   Design (shaft sleeve): 1
+FM-BEARING-FAIL       1              42,580        Normal fatigue: 1
+FM-COUPLING-FAIL      1              42,580        Aging (spider degradation): 1
+FM-MOTOR-OVH          1              42,580        External (PSV leak): 1
+
+RELIABILITY RECOMMENDATIONS
+=============================
+1. SEAL RELIABILITY: Two of three seal failures caused by dry running.
+   CAPA actions (suction PSL trip + auto-start standby) should prevent recurrence.
+   Monitor effectiveness over next 12 months.
+
+2. BEARING LIFE: Single bearing failure at 26,000 hrs — close to expected L10 life.
+   Recommend proactive bearing replacement every 24,000 hrs (annual overhaul).
+
+3. COUPLING: Add coupling spider to 3-year replacement schedule (done in WO-2024-0256 CAPA).
+
+4. OVERALL: P-101A availability of 97.2% is acceptable for a critical pump.
+   With the implemented CAPAs, target availability of 99% is achievable.
+
+5. SPARES: Current spares stock is adequate. Reorder shaft sleeve (consumed both
+   units in stock). Lead time 6 weeks — order by 2026-01-15.

@@ -1,0 +1,216 @@
+EMERGENCY RESPONSE PLAN — FIRE EMERGENCY
+==========================================
+Document No: SOP-ERP-001
+Revision: Rev 7
+Effective Date: 2024-06-01
+Classification: SAFETY CRITICAL
+Approved By: Vikram Reddy (Plant Manager)
+Reviewed By: Deepak Verma (Safety Officer), Naveen Joshi (Fire & Safety Officer)
+
+1. PURPOSE
+==========
+This Emergency Response Plan (ERP) establishes procedures for responding to fire
+emergencies at the IntelliPlant industrial facility. It defines roles, responsibilities,
+communication protocols, and action steps to minimize injury, loss of life, property
+damage, and environmental impact during a fire event.
+
+2. SCOPE
+========
+This ERP covers fire emergencies including:
+- Process area fires (hydrocarbon, chemical)
+- Electrical fires (transformers, switchgear, cable galleries)
+- Storage tank fires (atmospheric and pressure vessels)
+- Building fires (control room, admin, workshop)
+- Vehicle fires (loading/unloading areas)
+
+3. EMERGENCY ORGANIZATION
+===========================
+
+3.1 Emergency Director: Plant Manager (Vikram Reddy, EMP-005)
+    - Overall command authority during emergency
+    - Authorizes emergency shutdown of plant
+    - Interfaces with external agencies (fire department, DISH, police)
+    - Authorizes press statements
+
+3.2 Site Incident Commander: Shift Supervisor on duty
+    - First responder coordination
+    - Initial emergency assessment and classification
+    - Activates fire team and mutual aid
+    - Controls emergency scene
+
+3.3 Fire Team Leader: Naveen Joshi (EMP-015)
+    - Directs firefighting operations
+    - Coordinates fire water system operation
+    - Manages foam application
+    - Interfaces with municipal fire brigade
+
+3.4 Safety Coordinator: Deepak Verma (EMP-006)
+    - Personnel accounting (headcount)
+    - Coordinates rescue operations
+    - Manages PPE and SCBA distribution
+    - Environmental monitoring (gas detection)
+
+3.5 Medical Coordinator: Plant Medical Officer
+    - Triage and first aid
+    - Coordinates hospital transfer
+    - Maintains emergency medical supplies
+
+3.6 Utility Coordinator: Boiler Operator on duty (Ashok Pillai, EMP-028)
+    - Manages steam curtain activation
+    - Coordinates fire water pump operation
+    - DG set startup (if main power lost)
+    - Process utility isolation
+
+4. EMERGENCY CLASSIFICATION
+=============================
+
+Level 1 — MINOR (Local Emergency)
+   Definition: Small fire that can be controlled by area personnel using
+   portable extinguishers. No threat to personnel or equipment outside
+   immediate area.
+   Actions: Area response only. No plant alarm. Report to shift supervisor.
+   Example: Small spill fire, trash fire, electrical short circuit.
+
+Level 2 — MAJOR (Site Emergency)
+   Definition: Fire that requires fire team response and may threaten adjacent
+   areas. Potential for escalation. Process area involvement.
+   Actions: Fire alarm sounded. Fire team mobilized. Non-essential personnel
+   evacuate to assembly points. Mutual aid on standby.
+   Example: Pump seal fire, heat exchanger leak fire, transformer fire.
+
+Level 3 — DISASTER (Off-Site Emergency)
+   Definition: Large-scale fire with potential off-site impact. Tank fire,
+   major unit fire, multiple fire fronts.
+   Actions: Full plant evacuation. Mutual aid activated. Government agencies
+   notified (DISH, PESO, Factories Inspector). Community warning.
+   Example: Tank farm fire, uncontrolled process fire, explosion.
+
+5. FIRE DETECTION & ALARM SYSTEM
+==================================
+Detection Equipment:
+- UV/IR flame detectors in process areas (77 units)
+- Heat detectors in electrical rooms and cable galleries (42 units)
+- Smoke detectors in control room, admin building (28 units)
+- Manual call points at strategic locations (32 units)
+- CCTV coverage of tank farm, process areas, loading bay
+
+Alarm Sequence:
+1. Fire detected → Fire alarm panel in control room activates
+2. DCS operator verifies alarm (CCTV/field check) within 60 seconds
+3. If confirmed fire:
+   - Continuous siren (3 minutes) for Level 2/3
+   - PA announcement: "ATTENTION: FIRE ALARM — [LOCATION]. ALL PERSONNEL
+     PROCEED TO ASSEMBLY POINTS. FIRE TEAM REPORT TO [LOCATION]."
+4. All-clear: Intermittent siren (30 seconds on, 30 seconds off, 3 cycles)
+
+6. FIREFIGHTING SYSTEMS
+=========================
+
+6.1 Fire Water System
+   - Fire water tank: V-501 (500 m³ capacity, 4-hour supply at design rate)
+   - Fire water pumps:
+     * P-501 (Jockey): 15 kW, auto-start on pressure drop below 7 bar
+     * P-502 (Main Electric): 125 kW, auto-start on pressure drop below 6 bar
+     * P-503 (Main Diesel): 125 kW, auto-start on pressure drop below 5 bar
+   - Fire water ring main: 250 mm dia, looped around plant
+   - Design flow rate: 125 m³/hr at 7 bar residual pressure
+   - Hydrant spacing: maximum 45 m (per OISD-STD-116)
+   - Total hydrants: 24 (double-headed, with 63mm outlets)
+
+6.2 Foam System
+   - Foam concentrate storage: 10,000 liters (3% AFFF)
+   - Fixed foam pourers on storage tanks V-301, V-302 (2 per tank)
+   - Foam monitors at tank farm (4 units, 1900 LPM each)
+   - Portable foam equipment: 4 x proportioners with 200L foam drums
+
+6.3 Deluge Systems
+   - V-201 (Reactor): Medium velocity water spray (MVWS), auto-actuated on
+     fusible plug/manual
+   - T-201 (Column): MVWS on lower 5 meters
+   - C-201, C-202 (Compressors): MVWS coverage
+   - TR-101 (Transformer): Dedicated deluge system
+
+6.4 Portable Equipment
+   - DCP extinguishers: 120 units (9 kg) throughout plant
+   - CO2 extinguishers: 40 units (6.5 kg) in electrical areas
+   - Foam trolley units: 4 (50 liter capacity)
+   - Fire hose boxes: 24 (with 63mm x 15m lay-flat hose + branch pipe)
+
+7. EVACUATION PROCEDURES
+==========================
+
+7.1 Assembly Points
+   Assembly Point A: Main gate parking area (for Admin, Stores, Workshop)
+   Assembly Point B: North boundary open area (for Unit-1, Unit-2, Utility)
+   Assembly Point C: East boundary road (for Unit-3, Tank Farm, Loading Bay)
+   Wind sock locations: 4 (one at each boundary corner)
+   Rule: Evacuate UPWIND and CROSSWIND from fire. Check wind direction.
+
+7.2 Evacuation Routes
+   - Primary escape routes marked with photoluminescent signs
+   - Emergency exits: minimum 2 per building, outward-opening
+   - Emergency lighting: battery-backed (30-minute minimum)
+   - Stairways: fireproof enclosures with self-closing doors
+   - Assembly point signs: illuminated, visible from 50m
+
+7.3 Headcount
+   - All personnel must report to assembly point within 5 minutes
+   - Area wardens conduct headcount using daily attendance register
+   - Report headcount to Safety Coordinator within 10 minutes
+   - Any missing person: initiate search and rescue protocol
+
+8. EMERGENCY SHUTDOWN PROCEDURES
+==================================
+Level 2/3 fire may require:
+a. Emergency shutdown of affected unit(s)
+b. DCS operator executes ESD from control room
+c. Manual field actions per unit-specific ESD checklist
+d. Priorities:
+   1. STOP feeds to fire-affected equipment
+   2. DEPRESSURIZE vessels via blowdown system
+   3. ISOLATE fuel sources (block valves, fire-safe SDVs)
+   4. MAINTAIN cooling water to non-affected equipment
+   5. STEAM curtain activation around fire perimeter
+
+9. COMMUNICATION PROTOCOL
+===========================
+Internal:
+- PA system (primary)
+- Two-way radios: Channel 1 (Emergency), Channel 2 (Operations)
+- Telephone (landline backup)
+
+External (Emergency Director authorizes):
+- Fire Brigade: 101 (Municipal) + Mutual Aid partners
+- Ambulance: 108 + Plant medical
+- Police: 100
+- DISH (District Inspector of Safety & Health): [Contact on file]
+- PESO (Regional Controller): [Contact on file]
+- Factories Inspector: [Contact on file]
+- Environmental Authority (SPCB): [Contact on file]
+
+10. POST-EMERGENCY ACTIONS
+============================
+a. Fire-out confirmed by Fire Team Leader
+b. Cooling continued for minimum 6 hours for hydrocarbon fires
+c. Area declared safe for re-entry by Safety Officer (gas-free certificate)
+d. Incident investigation initiated within 24 hours (SOP-INCIDENT-001)
+e. Regulatory reporting: within 4 hours (fatal), 12 hours (serious)
+f. Insurance notification: within 24 hours
+g. Lessons learned shared within 1 week
+
+11. EMERGENCY DRILLS
+=====================
+- Full-scale evacuation drill: every 6 months
+- Table-top exercise: every quarter
+- Fire team drill (specific scenario): monthly
+- Fire pump test run: weekly (P-501 auto, P-502 auto, P-503 diesel start)
+- Foam system functional test: annually
+- Drill records maintained by Safety Department for 5 years
+
+COMPLIANCE REFERENCES
+======================
+- OISD-STD-116: Fire Protection for Onshore Installations
+- OISD-GDN-206: Guidelines on Safety Management System
+- ISO 45001: Clause 8.2 — Emergency Preparedness and Response
+- Factories Act 1948: Section 38 — Fire Safety
+- NBC 2016: Part 4 — Fire and Life Safety

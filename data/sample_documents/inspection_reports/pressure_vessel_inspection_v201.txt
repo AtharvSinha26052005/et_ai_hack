@@ -1,0 +1,184 @@
+PRESSURE VESSEL INSPECTION REPORT
+===================================
+Report No: INS-PV-2025-003
+Equipment Tag: V-201 (Reactor Vessel R-201)
+Type: Pressure Reactor
+Manufacturer: Larsen & Toubro
+Year of Manufacture: 2017
+Design Code: ASME Section VIII Division 1
+Registration No: IBR/PV/MH/2018/4521
+
+INSPECTION DETAILS
+==================
+Inspection Type: Internal + External (Scheduled)
+Inspection Date: 2025-03-15 to 2025-03-18
+Inspector: Sunita Rao (EMP-014), Inspection Engineer, QC Department
+Certifications: API-510, API-570, API-653, ASNT Level II
+Supervised By: Mohan Das (EMP-010), Welding Inspector
+
+DESIGN DATA
+============
+Parameter                    Value
+---------                    -----
+Design Pressure              45 bar @ 280°C
+MAWP (Current)               45 bar @ 280°C
+Design Temperature           280°C
+Operating Pressure           30-40 bar
+Operating Temperature        180-280°C
+Shell Material               SA516 Gr.70 (Normalized)
+Cladding                     SS321 (3mm nominal)
+Shell Thickness (Design)     38 mm + 3 mm clad
+Head Type                    2:1 Ellipsoidal (both ends)
+Head Thickness (Design)      32 mm + 3 mm clad
+Internal Diameter            1800 mm
+Tan-to-Tan Length            3500 mm
+Corrosion Allowance          3 mm (shell), 0 mm (clad)
+Joint Efficiency             1.0 (Full RT)
+Hydro Test Pressure          58.5 bar (1.3 x MAWP)
+
+INSPECTION PREPARATION
+=======================
+1. Vessel isolated per SOP-LOTO-001 — LOTO applied by Rajesh Kumar (EMP-001)
+2. Vessel drained, steamed out, and ventilated for 48 hours
+3. Gas test: O2 = 20.9%, LEL = 0%, H2S = 0 ppm — SAFE for entry
+4. Confined space entry permit issued (Permit No: CSE-2025-0042)
+5. Scaffolding erected inside vessel for upper head access
+6. Rescue team on standby (Naveen Joshi, EMP-015)
+
+CONDITION MONITORING LOCATIONS (CMLs)
+======================================
+CML No.  Location                        Original  Previous   Current    Corrosion Rate
+                                          (mm)      (2023)     (2025)     (mm/yr)
+------   --------                        --------  --------   -------    --------------
+CML-01   Shell Course 1, 0°              38.0      37.6       37.3       0.15
+CML-02   Shell Course 1, 90°             38.0      37.7       37.4       0.15
+CML-03   Shell Course 1, 180°            38.0      37.5       37.1       0.20
+CML-04   Shell Course 1, 270°            38.0      37.8       37.5       0.15
+CML-05   Shell Course 2, 0°              38.0      37.4       37.0       0.20
+CML-06   Shell Course 2, 90°             38.0      37.6       37.2       0.20
+CML-07   Shell Course 2, 180°            38.0      37.3       36.8       0.25
+CML-08   Shell Course 2, 270°            38.0      37.5       37.1       0.20
+CML-09   Top Head, Crown                 32.0      31.8       31.6       0.10
+CML-10   Top Head, Knuckle 0°            32.0      31.7       31.5       0.10
+CML-11   Top Head, Knuckle 180°          32.0      31.6       31.3       0.15
+CML-12   Bottom Head, Crown              32.0      31.5       31.2       0.15
+CML-13   Bottom Head, Knuckle 0°         32.0      31.4       31.0       0.20
+CML-14   Bottom Head, Knuckle 180°       32.0      31.3       30.9       0.20
+CML-15   Nozzle N1 (Feed Inlet) neck     18.0      17.6       17.3       0.15
+CML-16   Nozzle N2 (Product Outlet) neck 18.0      17.5       17.1       0.20
+CML-17   Nozzle N3 (Manhole) neck        22.0      21.8       21.6       0.10
+CML-18   Shell-to-Head Weld (Top)        38.0      37.5       37.2       0.15
+
+MINIMUM REQUIRED THICKNESS (per ASME VIII Div.1)
+=================================================
+Component     t_required    t_min measured    Remaining Life
+---------     ----------    ---------------    ---------------
+Shell         28.2 mm       36.8 mm            34.4 years
+Top Head      22.4 mm       31.3 mm            59.3 years
+Bottom Head   22.4 mm       30.9 mm            42.5 years
+Nozzle N1     12.1 mm       17.3 mm            26.0 years
+Nozzle N2     12.1 mm       17.1 mm            25.0 years
+
+INTERNAL INSPECTION FINDINGS
+==============================
+Finding 1 (MAJOR):
+   Location: Bottom head, 6 o'clock position near drain nozzle
+   Description: Cladding disbondment observed over approximately 200mm x 150mm area.
+   SS321 cladding lifted from base metal. Underlying SA516 shows surface corrosion.
+   UT spot check on base metal shows 37.0mm (within limits).
+   Recommendation: Weld overlay repair per approved WPS during next turnaround.
+   Regulation Reference: API-510, ASME Section VIII
+
+Finding 2 (MINOR):
+   Location: Shell Course 2, 180° position
+   Description: Higher corrosion rate (0.25 mm/yr) compared to other locations.
+   Possible localized flow impingement from inlet nozzle N1. Cladding intact.
+   Recommendation: Add CML-07 to enhanced monitoring — re-measure in 12 months.
+   No immediate action required.
+
+Finding 3 (MINOR):
+   Location: Manhole gasket seating surface
+   Description: Light scoring marks on raised face. Depth < 0.5mm.
+   Recommendation: Use spiral wound gasket with inner ring (Type R) at reassembly.
+   Surface acceptable per ASME PCC-1 guidelines.
+
+Finding 4 (OBSERVATION):
+   Location: Internal baffles
+   Description: Slight bowing of baffle plates observed (max 5mm deflection).
+   Does not affect vessel integrity. Flow distribution may be marginally affected.
+   Recommendation: Monitor during next inspection. No action required.
+
+EXTERNAL INSPECTION FINDINGS
+==============================
+Finding 5 (MINOR):
+   Location: Support saddle region, underside of vessel
+   Description: Paint coating deterioration at saddle-to-shell contact area.
+   No corrosion of base metal detected. UT spot check: 37.8mm (satisfactory).
+   Recommendation: Repaint during next available opportunity (minimum SSPC-SP6
+   surface preparation + 2-coat epoxy system, 250 microns DFT).
+
+Finding 6 (OBSERVATION):
+   Location: External insulation, upper section
+   Description: Two areas of damaged aluminum jacketing identified (total ~0.5m²).
+   No moisture ingress detected (confirmed by UT from external surface).
+   Recommendation: Replace jacketing and seal with silicone sealant to prevent CUI.
+
+NDE EXAMINATION SUMMARY
+========================
+Method             Locations Examined    Findings
+------             -------------------    --------
+UT Thickness        18 CMLs              All above minimum required thickness
+UT Spot Check       6 additional points   No anomalies
+MT (Magnetic        All shell-to-head      No crack indications
+Particle Testing)   welds, nozzle welds
+PT (Dye Penetrant)  Cladding disbondment   Confirmed 200x150mm area at bottom head
+                    area
+Visual (VT)         100% internal + ext.   See findings above
+Hardness Testing    Shell, head, welds     All readings within acceptable range
+                                           (BHN 130-180 for SA516 Gr.70)
+
+SAFETY VALVE VERIFICATION
+===========================
+PSV-201 (Reactor Relief Valve):
+   Set Pressure: 49.5 bar
+   Last Bench Test Date: 2024-09-10 (within certification period)
+   Next Test Due: 2025-09-10
+   Status: SATISFACTORY — certificate verified
+
+RECOMMENDATIONS SUMMARY
+========================
+Priority    Description                                        Due Date
+--------    -----------                                        --------
+HIGH        Cladding repair — bottom head disbondment area      Next Turnaround (2026-Q1)
+MEDIUM      Enhanced UT monitoring at CML-07 (12-month)         2026-03-15
+LOW         Repaint support saddle area                         Next opportunity
+LOW         Replace damaged insulation jacketing                Next opportunity
+INFO        Next internal inspection due per API-510:           2027-03-15
+            (Interval = half remaining life = 17 years, max 10 years)
+
+NEXT INSPECTION SCHEDULE
+=========================
+Type                Interval        Next Due
+----                --------        --------
+Internal            5 years         2030-03-15 (or per RBI recommendation)
+External Visual     2.5 years       2027-09-15
+On-Stream UT        Annual          2026-03-15
+
+CERTIFICATION
+==============
+This report has been prepared in accordance with API-510 Pressure Vessel
+Inspection Code and ASME Section VIII Division 1. All measurements were
+taken using calibrated instruments (calibration certificates on file).
+
+Inspector: ________________________________
+           Sunita Rao, Inspection Engineer
+           API-510 Certified (Cert #: 62487)
+           Date: 2025-03-18
+
+Reviewed By: ________________________________
+             Rajesh Kumar Sharma, Sr. Maintenance Engineer
+             Date: 2025-03-20
+
+Approved By: ________________________________
+             Vikram Reddy, Plant Manager
+             Date: 2025-03-22

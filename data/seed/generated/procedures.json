@@ -1,0 +1,362 @@
+[
+  {
+    "procedure_id": "SOP-PUMP-START-001",
+    "title": "Centrifugal Pump Startup Procedure",
+    "type": "SOP",
+    "revision": "Rev 4",
+    "status": "approved",
+    "effective_date": "2024-01-15",
+    "next_review": "2026-01-15"
+  },
+  {
+    "procedure_id": "SOP-PUMP-STOP-001",
+    "title": "Centrifugal Pump Normal Shutdown Procedure",
+    "type": "SOP",
+    "revision": "Rev 4",
+    "status": "approved",
+    "effective_date": "2024-01-15",
+    "next_review": "2026-01-15"
+  },
+  {
+    "procedure_id": "SOP-PUMP-EMSTOP-001",
+    "title": "Centrifugal Pump Emergency Shutdown Procedure",
+    "type": "Emergency",
+    "revision": "Rev 3",
+    "status": "approved",
+    "effective_date": "2024-06-01",
+    "next_review": "2025-06-01"
+  },
+  {
+    "procedure_id": "SOP-HX-CLEAN-001",
+    "title": "Shell & Tube Heat Exchanger Cleaning (CIP) Procedure",
+    "type": "SOP",
+    "revision": "Rev 3",
+    "status": "approved",
+    "effective_date": "2024-03-10",
+    "next_review": "2026-03-10"
+  },
+  {
+    "procedure_id": "SOP-HX-CLEAN-002",
+    "title": "Plate Heat Exchanger Disassembly & Cleaning Procedure",
+    "type": "SOP",
+    "revision": "Rev 2",
+    "status": "approved",
+    "effective_date": "2024-03-10",
+    "next_review": "2026-03-10"
+  },
+  {
+    "procedure_id": "SOP-VESSEL-ENTRY-001",
+    "title": "Confined Space Entry Procedure",
+    "type": "Safety",
+    "revision": "Rev 5",
+    "status": "approved",
+    "effective_date": "2024-04-01",
+    "next_review": "2025-04-01"
+  },
+  {
+    "procedure_id": "SOP-HOT-WORK-001",
+    "title": "Hot Work Permit & Procedure",
+    "type": "Safety",
+    "revision": "Rev 6",
+    "status": "approved",
+    "effective_date": "2024-04-01",
+    "next_review": "2025-04-01"
+  },
+  {
+    "procedure_id": "SOP-LOTO-001",
+    "title": "Lockout/Tagout (LOTO) Procedure",
+    "type": "Safety",
+    "revision": "Rev 4",
+    "status": "approved",
+    "effective_date": "2024-04-01",
+    "next_review": "2025-04-01"
+  },
+  {
+    "procedure_id": "SOP-ERP-001",
+    "title": "Emergency Response Plan - Fire",
+    "type": "Emergency",
+    "revision": "Rev 7",
+    "status": "approved",
+    "effective_date": "2024-06-01",
+    "next_review": "2025-06-01"
+  },
+  {
+    "procedure_id": "SOP-ERP-002",
+    "title": "Emergency Response Plan - Chemical Spill",
+    "type": "Emergency",
+    "revision": "Rev 5",
+    "status": "approved",
+    "effective_date": "2024-06-01",
+    "next_review": "2025-06-01"
+  },
+  {
+    "procedure_id": "SOP-ERP-003",
+    "title": "Emergency Response Plan - Gas Leak / Toxic Release",
+    "type": "Emergency",
+    "revision": "Rev 4",
+    "status": "approved",
+    "effective_date": "2024-06-01",
+    "next_review": "2025-06-01"
+  },
+  {
+    "procedure_id": "SOP-VALVE-MAINT-001",
+    "title": "Control Valve Maintenance & Calibration Procedure",
+    "type": "SOP",
+    "revision": "Rev 3",
+    "status": "approved",
+    "effective_date": "2024-02-15",
+    "next_review": "2026-02-15"
+  },
+  {
+    "procedure_id": "SOP-PSV-TEST-001",
+    "title": "Safety Valve Testing & Reseat Procedure",
+    "type": "SOP",
+    "revision": "Rev 4",
+    "status": "approved",
+    "effective_date": "2024-03-01",
+    "next_review": "2025-03-01"
+  },
+  {
+    "procedure_id": "SOP-COMP-START-001",
+    "title": "Reciprocating Compressor Startup Procedure",
+    "type": "SOP",
+    "revision": "Rev 3",
+    "status": "approved",
+    "effective_date": "2024-01-20",
+    "next_review": "2026-01-20"
+  },
+  {
+    "procedure_id": "SOP-BOILER-START-001",
+    "title": "Steam Boiler Cold Start Procedure",
+    "type": "SOP",
+    "revision": "Rev 5",
+    "status": "approved",
+    "effective_date": "2024-05-01",
+    "next_review": "2025-05-01"
+  },
+  {
+    "procedure_id": "SOP-BOILER-STOP-001",
+    "title": "Steam Boiler Normal Shutdown Procedure",
+    "type": "SOP",
+    "revision": "Rev 4",
+    "status": "approved",
+    "effective_date": "2024-05-01",
+    "next_review": "2025-05-01"
+  },
+  {
+    "procedure_id": "PM-PUMP-QTRLY-001",
+    "title": "Quarterly Preventive Maintenance — Centrifugal Pumps",
+    "type": "PM",
+    "revision": "Rev 4",
+    "status": "approved",
+    "effective_date": "2024-01-01",
+    "next_review": "2025-12-31"
+  },
+  {
+    "procedure_id": "PM-PUMP-ANNUAL-001",
+    "title": "Annual Overhaul Procedure — Centrifugal Pumps",
+    "type": "PM",
+    "revision": "Rev 3",
+    "status": "approved",
+    "effective_date": "2024-01-01",
+    "next_review": "2025-12-31"
+  },
+  {
+    "procedure_id": "PM-MOTOR-ANNUAL-001",
+    "title": "Annual Motor Inspection & Insulation Testing Procedure",
+    "type": "PM",
+    "revision": "Rev 3",
+    "status": "approved",
+    "effective_date": "2024-01-01",
+    "next_review": "2025-12-31"
+  },
+  {
+    "procedure_id": "PM-MOTOR-QTRLY-001",
+    "title": "Quarterly Motor Greasing & Vibration Check",
+    "type": "PM",
+    "revision": "Rev 3",
+    "status": "approved",
+    "effective_date": "2024-01-01",
+    "next_review": "2025-12-31"
+  },
+  {
+    "procedure_id": "PM-COMP-6MONTH-001",
+    "title": "Six-Monthly Compressor Valve Inspection",
+    "type": "PM",
+    "revision": "Rev 2",
+    "status": "approved",
+    "effective_date": "2024-01-01",
+    "next_review": "2025-12-31"
+  },
+  {
+    "procedure_id": "PM-HX-ANNUAL-001",
+    "title": "Annual Heat Exchanger Inspection Procedure",
+    "type": "PM",
+    "revision": "Rev 2",
+    "status": "approved",
+    "effective_date": "2024-01-01",
+    "next_review": "2025-12-31"
+  },
+  {
+    "procedure_id": "PM-VALVE-ANNUAL-001",
+    "title": "Annual Control Valve Overhaul & Calibration",
+    "type": "PM",
+    "revision": "Rev 2",
+    "status": "approved",
+    "effective_date": "2024-01-01",
+    "next_review": "2025-12-31"
+  },
+  {
+    "procedure_id": "PM-DG-MONTHLY-001",
+    "title": "Monthly Diesel Generator Testing & Inspection",
+    "type": "PM",
+    "revision": "Rev 3",
+    "status": "approved",
+    "effective_date": "2024-01-01",
+    "next_review": "2025-12-31"
+  },
+  {
+    "procedure_id": "PM-BOILER-ANNUAL-001",
+    "title": "Annual Boiler IBR Inspection Preparation Procedure",
+    "type": "PM",
+    "revision": "Rev 3",
+    "status": "approved",
+    "effective_date": "2024-01-01",
+    "next_review": "2025-12-31"
+  },
+  {
+    "procedure_id": "PM-CT-ANNUAL-001",
+    "title": "Annual Cooling Tower Inspection & Fill Cleaning",
+    "type": "PM",
+    "revision": "Rev 2",
+    "status": "approved",
+    "effective_date": "2024-01-01",
+    "next_review": "2025-12-31"
+  },
+  {
+    "procedure_id": "PM-TRANSFORMER-ANNUAL-001",
+    "title": "Annual Transformer Oil Testing & Inspection",
+    "type": "PM",
+    "revision": "Rev 2",
+    "status": "approved",
+    "effective_date": "2024-01-01",
+    "next_review": "2025-12-31"
+  },
+  {
+    "procedure_id": "PM-UPS-QTRLY-001",
+    "title": "Quarterly UPS Battery Testing & Inspection",
+    "type": "PM",
+    "revision": "Rev 2",
+    "status": "approved",
+    "effective_date": "2024-01-01",
+    "next_review": "2025-12-31"
+  },
+  {
+    "procedure_id": "SOP-CHEM-HANDLE-001",
+    "title": "Hazardous Chemical Handling & Storage Procedure",
+    "type": "Safety",
+    "revision": "Rev 4",
+    "status": "approved",
+    "effective_date": "2024-04-01",
+    "next_review": "2025-04-01"
+  },
+  {
+    "procedure_id": "SOP-HEIGHT-WORK-001",
+    "title": "Working at Height Procedure",
+    "type": "Safety",
+    "revision": "Rev 3",
+    "status": "approved",
+    "effective_date": "2024-04-01",
+    "next_review": "2025-04-01"
+  },
+  {
+    "procedure_id": "SOP-EXCAVATION-001",
+    "title": "Excavation & Trenching Procedure",
+    "type": "Safety",
+    "revision": "Rev 2",
+    "status": "approved",
+    "effective_date": "2024-04-01",
+    "next_review": "2025-04-01"
+  },
+  {
+    "procedure_id": "SOP-RADIOGRAPHY-001",
+    "title": "Radiographic Testing (RT) Safety Procedure",
+    "type": "Safety",
+    "revision": "Rev 3",
+    "status": "approved",
+    "effective_date": "2024-04-01",
+    "next_review": "2025-04-01"
+  },
+  {
+    "procedure_id": "SOP-SCAFFOLDING-001",
+    "title": "Scaffolding Erection & Inspection Procedure",
+    "type": "Safety",
+    "revision": "Rev 3",
+    "status": "approved",
+    "effective_date": "2024-04-01",
+    "next_review": "2025-04-01"
+  },
+  {
+    "procedure_id": "SOP-BLINDING-001",
+    "title": "Line/Equipment Blinding Procedure (Spade/Spectacle Blind)",
+    "type": "Safety",
+    "revision": "Rev 3",
+    "status": "approved",
+    "effective_date": "2024-04-01",
+    "next_review": "2025-04-01"
+  },
+  {
+    "procedure_id": "SOP-MOC-001",
+    "title": "Management of Change (MOC) Procedure",
+    "type": "Management",
+    "revision": "Rev 4",
+    "status": "approved",
+    "effective_date": "2024-03-01",
+    "next_review": "2025-03-01"
+  },
+  {
+    "procedure_id": "SOP-INCIDENT-001",
+    "title": "Incident Investigation & Reporting Procedure",
+    "type": "Management",
+    "revision": "Rev 5",
+    "status": "approved",
+    "effective_date": "2024-06-01",
+    "next_review": "2025-06-01"
+  },
+  {
+    "procedure_id": "SOP-PTW-001",
+    "title": "Permit to Work (PTW) System — General",
+    "type": "Safety",
+    "revision": "Rev 6",
+    "status": "approved",
+    "effective_date": "2024-04-01",
+    "next_review": "2025-04-01"
+  },
+  {
+    "procedure_id": "SOP-HYDRO-TEST-001",
+    "title": "Hydrostatic Testing Procedure for Piping & Vessels",
+    "type": "SOP",
+    "revision": "Rev 3",
+    "status": "approved",
+    "effective_date": "2024-02-01",
+    "next_review": "2026-02-01"
+  },
+  {
+    "procedure_id": "SOP-ALIGNMENT-001",
+    "title": "Pump-Motor Shaft Alignment Procedure (Laser)",
+    "type": "SOP",
+    "revision": "Rev 2",
+    "status": "approved",
+    "effective_date": "2024-01-15",
+    "next_review": "2026-01-15"
+  },
+  {
+    "procedure_id": "SOP-CRANE-OPS-001",
+    "title": "Crane Operation & Lifting Plan Procedure",
+    "type": "Safety",
+    "revision": "Rev 4",
+    "status": "approved",
+    "effective_date": "2024-04-01",
+    "next_review": "2025-04-01"
+  }
+]

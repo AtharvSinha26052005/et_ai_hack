@@ -1,0 +1,202 @@
+[
+  {
+    "standard_id": "OISD-STD-105",
+    "title": "Work Permit System",
+    "body": "Establishes a mandatory work permit system for all petroleum industry installations. Covers cold work permits, hot work permits, confined space entry permits, electrical isolation permits, and excavation permits. Requires identification of hazards, precautions, PPE requirements, and authorization levels for each permit type. Mandates permit validity periods, monitoring requirements, and closure procedures.",
+    "version": "2024",
+    "status": "active",
+    "category": "Safety"
+  },
+  {
+    "standard_id": "OISD-STD-116",
+    "title": "Fire Protection for Onshore Hydrocarbon Installations",
+    "body": "Comprehensive standard for fire protection facilities at petroleum refineries, gas processing plants, and petrochemical complexes. Specifies minimum water storage requirements (4 hours at design rate), hydrant spacing (max 45m), foam system design for atmospheric and pressure storage tanks, fire water pump redundancy (min 2 pumps, one diesel-driven), deluge systems for critical equipment, and fire detection/alarm requirements.",
+    "version": "2023",
+    "status": "active",
+    "category": "Fire Safety"
+  },
+  {
+    "standard_id": "OISD-STD-117",
+    "title": "Fire Protection for Terminals and Depots",
+    "body": "Specifies fire protection requirements for petroleum storage terminals and depots including tank-to-tank spacing, dyke wall design, foam pourer sizing for fixed/semi-fixed systems, fire water ring main design, and emergency response organization. Requires periodic mock drills and equipment testing schedules.",
+    "version": "2023",
+    "status": "active",
+    "category": "Fire Safety"
+  },
+  {
+    "standard_id": "OISD-STD-118",
+    "title": "Layout for Oil and Gas Installations",
+    "body": "Specifies minimum separation distances between process units, storage tanks, flares, buildings, and plant boundaries. Defines block-in valve requirements, emergency access road widths (min 6m), and clearances from overhead power lines. Includes API RP 752 blast zone considerations for occupied buildings.",
+    "version": "2022",
+    "status": "active",
+    "category": "Layout & Design"
+  },
+  {
+    "standard_id": "OISD-STD-144",
+    "title": "Petroleum Industry Safety in Electrical Installations",
+    "body": "Covers hazardous area classification (Zone 0, 1, 2 for gas/vapour; Zone 20, 21, 22 for dust) per IS/IEC 60079 series. Specifies selection of explosion-proof, increased safety, and intrinsically safe electrical equipment. Mandates periodic inspection of Ex equipment, cable gland integrity, earthing/bonding requirements, and lightning protection.",
+    "version": "2022",
+    "status": "active",
+    "category": "Electrical Safety"
+  },
+  {
+    "standard_id": "OISD-STD-154",
+    "title": "Safety Aspects in Functional Design",
+    "body": "Covers safety requirements during functional design of process plants. Includes HAZOP study requirements, SIL assessment criteria, safety instrumented system (SIS) design per IEC 61511, relief system sizing, flare system design, and blowdown philosophy. Mandates independent safety layers including BPCS, SIS, and mechanical protection.",
+    "version": "2021",
+    "status": "active",
+    "category": "Design Safety"
+  },
+  {
+    "standard_id": "OISD-GDN-206",
+    "title": "Guidelines on Safety Management System",
+    "body": "Comprehensive SMS framework covering 15 elements: leadership and commitment, policy, organization and competency, risk identification and assessment, design and operations, change management, emergency preparedness, investigation and reporting, audit and review, documentation, contractor safety, occupation health, process safety information, mechanical integrity, and management review. Aligned with OSHA PSM 29 CFR 1910.119.",
+    "version": "2024",
+    "status": "active",
+    "category": "Management System"
+  },
+  {
+    "standard_id": "OISD-STD-137",
+    "title": "Inspection of Cross Country Pipelines",
+    "body": "Covers inspection methods for hydrocarbon cross-country pipelines including intelligent pigging (MFL, caliper, geometry tools), hydrostatic testing, cathodic protection survey, coating condition assessment, and pipeline integrity management systems (PIMS). Defines inspection intervals based on risk.",
+    "version": "2023",
+    "status": "active",
+    "category": "Inspection"
+  },
+  {
+    "standard_id": "FACTORY-ACT-1948",
+    "title": "The Factories Act, 1948",
+    "body": "Central legislation governing occupational safety, health, and welfare in factories employing 10+ workers (with power) or 20+ workers (without power). Key chapters: Chapter III (Health) - cleanliness, ventilation, lighting, drinking water; Chapter IV (Safety) - fencing of machinery, pressure plant registration, lifting equipment testing, fire exits; Chapter V (Welfare) - first aid, canteens, restrooms; Chapter VI (Working Hours) - 48 hrs/week, overtime, weekly holidays; Chapter VII (Employment of Young Persons). Amended multiple times, latest major amendment in 2016.",
+    "version": "2016-amendment",
+    "status": "active",
+    "category": "Indian Law"
+  },
+  {
+    "standard_id": "FACTORY-RULES-STATE",
+    "title": "State Factory Rules (Model)",
+    "body": "State-level rules implementing the Factories Act, 1948. Cover specific requirements for boiler inspections, pressure vessel registration, annual factory license renewal, occupier/manager responsibilities, accident reporting timelines (within 4 hours for fatal, 12 hours for serious), and factory inspector powers.",
+    "version": "2020",
+    "status": "active",
+    "category": "Indian Law"
+  },
+  {
+    "standard_id": "IS-2825",
+    "title": "Code for Unfired Pressure Vessels",
+    "body": "Bureau of Indian Standards code for design, fabrication, inspection, and testing of unfired pressure vessels. Covers material selection (carbon steel, alloy steel, stainless steel), design by rule calculations, welding procedures and qualifications per IS 28/ASME Sec IX, post-weld heat treatment requirements, NDE acceptance criteria, hydrostatic test procedures (1.5x design pressure for 30 min minimum), and nameplate stamping requirements.",
+    "version": "2021",
+    "status": "active",
+    "category": "Design Standard"
+  },
+  {
+    "standard_id": "IS-803",
+    "title": "Code of Practice for Industrial Lighting",
+    "body": "Prescribes minimum illumination levels for different industrial areas: process areas (200 lux), control rooms (500 lux), workshops (300-500 lux), storage areas (100 lux), outdoor walkways (20 lux), emergency lighting (10% of normal). Covers glare limitation, uniformity ratios, color rendering requirements, and emergency lighting with battery backup duration.",
+    "version": "2019",
+    "status": "active",
+    "category": "Facility Standard"
+  },
+  {
+    "standard_id": "API-570",
+    "title": "Piping Inspection Code - In-service",
+    "body": "In-service inspection, rating, repair, and alteration of piping systems. Defines inspection intervals based on corrosion rates and remaining life: maximum 10 years or half remaining life (whichever is less) for general inspection, maximum 5 years for thickness measurement locations. Covers CML (Condition Monitoring Location) selection, corrosion rate calculation methods (short-term, long-term, next inspection rate), minimum remaining thickness calculations per ASME B31.3, and fitness-for-service assessments per API 579.",
+    "version": "2020",
+    "status": "active",
+    "category": "Inspection"
+  },
+  {
+    "standard_id": "API-510",
+    "title": "Pressure Vessel Inspection Code - In-service",
+    "body": "In-service inspection, rating, repair, and alteration of pressure vessels built to ASME Section VIII. Defines maximum inspection intervals: internal/on-stream — 10 years or half remaining life; external visual — 5 years. Covers MAWP recalculation, retirement thickness determination, repair/alteration requirements including welding requalification, fitness-for-service evaluation per API 579, and pressure testing requirements after repairs.",
+    "version": "2020",
+    "status": "active",
+    "category": "Inspection"
+  },
+  {
+    "standard_id": "API-653",
+    "title": "Tank Inspection, Repair, Alteration and Reconstruction",
+    "body": "Covers in-service inspection of aboveground storage tanks built to API 650 or API 12C. Specifies shell thickness evaluation, bottom plate scanning requirements, settlement surveys, floating roof seal inspection, tank internal inspection intervals (max 20 years with RBI), external inspection every 5 years, and robotic/NDT methods for in-service bottom plate assessment.",
+    "version": "2021",
+    "status": "active",
+    "category": "Inspection"
+  },
+  {
+    "standard_id": "ASME-B31.3",
+    "title": "Process Piping",
+    "body": "ASME code for design, materials, fabrication, assembly, erection, examination, inspection, and testing of process piping systems. Covers pressure design calculations for straight pipe, branch connections, and expansion joints. Specifies allowable stresses for materials at temperature, weld joint efficiency factors, NDE requirements per fluid category (Category D, Normal, Category M), and leak/hydrostatic test requirements.",
+    "version": "2022",
+    "status": "active",
+    "category": "Design Standard"
+  },
+  {
+    "standard_id": "ASME-SEC-VIII-D1",
+    "title": "ASME Boiler & Pressure Vessel Code, Section VIII Division 1",
+    "body": "Rules for construction of pressure vessels. Covers design by rule for shells, heads, nozzles, and supports. Specifies material requirements, welding qualifications per ASME Sec IX, post-weld heat treatment, NDE requirements based on joint category and efficiency, hydrostatic testing (min 1.3x MAWP), and U-stamp certification requirements.",
+    "version": "2023",
+    "status": "active",
+    "category": "Design Standard"
+  },
+  {
+    "standard_id": "NFPA-30",
+    "title": "Flammable and Combustible Liquids Code",
+    "body": "NFPA standard covering storage, handling, and use of flammable (flash point <100°F) and combustible (flash point ≥100°F) liquids. Classifies liquids as Class I (IA, IB, IC), II, IIIA, IIIB. Specifies storage requirements: tank spacing, venting, overflow protection, secondary containment (110% of largest tank), piping materials, and fire protection for storage areas.",
+    "version": "2021",
+    "status": "active",
+    "category": "Fire Safety"
+  },
+  {
+    "standard_id": "ISO-45001",
+    "title": "Occupational Health and Safety Management Systems",
+    "body": "International standard for OH&S management systems replacing OHSAS 18001. Based on Annex SL high-level structure with Plan-Do-Check-Act. Key clauses: 4 (Context of organization), 5 (Leadership and worker participation), 6 (Planning — hazard identification, risk assessment, legal requirements), 7 (Support — competence, awareness, communication), 8 (Operation — hierarchy of controls, emergency preparedness, procurement, contractor management), 9 (Performance evaluation — monitoring, audit, management review), 10 (Improvement — incident investigation, corrective actions, continual improvement).",
+    "version": "2018",
+    "status": "active",
+    "category": "Management System"
+  },
+  {
+    "standard_id": "ISO-14001",
+    "title": "Environmental Management Systems",
+    "body": "Specifies requirements for establishing, implementing, maintaining, and improving an environmental management system. Covers environmental aspects and impacts identification, legal compliance obligations, environmental objectives and targets, operational controls for significant aspects, emergency preparedness and response, monitoring and measurement, compliance evaluation, and management review.",
+    "version": "2015",
+    "status": "active",
+    "category": "Management System"
+  },
+  {
+    "standard_id": "PESO-RULES",
+    "title": "Petroleum and Explosives Safety Organization Rules",
+    "body": "Rules governing storage, transport, and handling of petroleum products and explosives in India under PESO (formerly CCOE — Chief Controller of Explosives). Covers storage license requirements, tank design approvals, overfill protection, vapor recovery systems, tank truck loading/unloading safety, and periodic inspection requirements. License renewal every 5 years.",
+    "version": "2023",
+    "status": "active",
+    "category": "Indian Law"
+  },
+  {
+    "standard_id": "IBR-1950",
+    "title": "Indian Boiler Regulations, 1950",
+    "body": "Regulations governing design, construction, inspection, and operation of boilers in India. Mandates annual IBR inspection by competent person (state boiler inspector or insurance company surveyor), boiler registration and certificate of fitness, operator competency certificate requirements, and boiler attendant staffing based on boiler capacity. Covers safety valve testing, water level indicator testing, and steam pressure gauge calibration requirements.",
+    "version": "2023-amendment",
+    "status": "active",
+    "category": "Indian Law"
+  },
+  {
+    "standard_id": "IS-3589",
+    "title": "Specification for Electrically Welded Steel Pipes for Water, Gas and Sewage",
+    "body": "BIS standard specifying requirements for ERW and SAW steel pipes for utility services. Covers pipe dimensions, material grades (IS 2062 Fe410/Fe490), weld inspection requirements, hydrostatic test pressure, protective coating (bituminous or epoxy), and cement mortar lining for water service.",
+    "version": "2018",
+    "status": "active",
+    "category": "Material Standard"
+  },
+  {
+    "standard_id": "IEC-61511",
+    "title": "Safety Instrumented Systems for the Process Industry",
+    "body": "International standard for design, installation, operation, and maintenance of safety instrumented systems (SIS) in the process industry. Defines Safety Integrity Level (SIL) requirements: SIL 1 (RRF 10-100), SIL 2 (RRF 100-1000), SIL 3 (RRF 1000-10000). Covers SIS lifecycle, proof test requirements, diagnostic coverage, common cause failure analysis, and periodic functional testing intervals based on SIL level.",
+    "version": "2023",
+    "status": "active",
+    "category": "Instrumentation"
+  },
+  {
+    "standard_id": "API-RP-580",
+    "title": "Risk-Based Inspection",
+    "body": "Recommended practice for risk-based inspection (RBI) methodology. Defines probability of failure (PoF) based on damage mechanisms, corrosion rates, and inspection effectiveness. Consequence of failure (CoF) assessment includes flammable/toxic release scenarios, business impact, and environmental impact. Risk matrix (5x5) determines inspection priority and interval. Covers RBI reassessment triggers including process changes, incidents, and new damage mechanism identification.",
+    "version": "2022",
+    "status": "active",
+    "category": "Inspection"
+  }
+]

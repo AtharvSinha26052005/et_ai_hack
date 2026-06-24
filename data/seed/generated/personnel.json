@@ -1,0 +1,322 @@
+[
+  {
+    "employee_id": "EMP-001",
+    "name": "Rajesh Kumar Sharma",
+    "role": "Senior Maintenance Engineer",
+    "department": "Maintenance",
+    "certification": "API-510, API-570",
+    "experience_years": 18
+  },
+  {
+    "employee_id": "EMP-002",
+    "name": "Suresh Patel",
+    "role": "Mechanical Fitter (Senior)",
+    "department": "Maintenance",
+    "certification": "ITI Fitter, Rigging Level-2",
+    "experience_years": 15
+  },
+  {
+    "employee_id": "EMP-003",
+    "name": "Amit Kumar Singh",
+    "role": "Electrical Technician (Senior)",
+    "department": "Electrical",
+    "certification": "Electrical Supervisor Certificate of Competency",
+    "experience_years": 12
+  },
+  {
+    "employee_id": "EMP-004",
+    "name": "Priya Sharma",
+    "role": "Process Engineer",
+    "department": "Operations",
+    "certification": "B.Tech Chemical Engineering",
+    "experience_years": 8
+  },
+  {
+    "employee_id": "EMP-005",
+    "name": "Vikram Reddy",
+    "role": "Plant Manager",
+    "department": "Management",
+    "certification": "M.Tech Chemical, MBA",
+    "experience_years": 25
+  },
+  {
+    "employee_id": "EMP-006",
+    "name": "Deepak Verma",
+    "role": "Safety Officer",
+    "department": "HSE",
+    "certification": "ADIS (Advanced Diploma in Industrial Safety)",
+    "experience_years": 14
+  },
+  {
+    "employee_id": "EMP-007",
+    "name": "Arun Nair",
+    "role": "Instrument Technician (Senior)",
+    "department": "Instrumentation",
+    "certification": "ISA CCST Level II",
+    "experience_years": 11
+  },
+  {
+    "employee_id": "EMP-008",
+    "name": "Sanjay Gupta",
+    "role": "Rotating Equipment Specialist",
+    "department": "Maintenance",
+    "certification": "Vibration Analyst Cat-III (ISO 18436-2)",
+    "experience_years": 20
+  },
+  {
+    "employee_id": "EMP-009",
+    "name": "Kavitha Rajan",
+    "role": "Reliability Engineer",
+    "department": "Maintenance",
+    "certification": "CMRP (Certified Maintenance & Reliability Professional)",
+    "experience_years": 10
+  },
+  {
+    "employee_id": "EMP-010",
+    "name": "Mohan Das",
+    "role": "Welding Inspector",
+    "department": "QC",
+    "certification": "CSWIP 3.1, ASNT Level II (RT/UT/MT/PT)",
+    "experience_years": 16
+  },
+  {
+    "employee_id": "EMP-011",
+    "name": "Anita Desai",
+    "role": "Compliance & Regulatory Officer",
+    "department": "HSE",
+    "certification": "NEBOSH IGC, ISO 45001 Lead Auditor",
+    "experience_years": 12
+  },
+  {
+    "employee_id": "EMP-012",
+    "name": "Ravi Shankar",
+    "role": "Shift Supervisor (Operations)",
+    "department": "Operations",
+    "certification": "B.Sc Chemistry, Process Safety Mgmt Training",
+    "experience_years": 16
+  },
+  {
+    "employee_id": "EMP-013",
+    "name": "Bharat Mehta",
+    "role": "Planning Engineer (Maintenance)",
+    "department": "Planning",
+    "certification": "SAP PM Module Certified",
+    "experience_years": 9
+  },
+  {
+    "employee_id": "EMP-014",
+    "name": "Sunita Rao",
+    "role": "Inspection Engineer",
+    "department": "QC",
+    "certification": "API-510, API-570, API-653, ASNT Level II",
+    "experience_years": 14
+  },
+  {
+    "employee_id": "EMP-015",
+    "name": "Naveen Joshi",
+    "role": "Fire & Safety Officer",
+    "department": "HSE",
+    "certification": "B.E. Fire Engineering, Sub Divisional Fire Officer Certificate",
+    "experience_years": 13
+  },
+  {
+    "employee_id": "EMP-016",
+    "name": "Pooja Iyer",
+    "role": "Environmental Engineer",
+    "department": "HSE",
+    "certification": "M.Sc Environmental Science, ISO 14001 LA",
+    "experience_years": 7
+  },
+  {
+    "employee_id": "EMP-017",
+    "name": "Ramesh Chandra Tiwari",
+    "role": "Store Keeper (Technical)",
+    "department": "Stores",
+    "certification": "SAP MM Module",
+    "experience_years": 20
+  },
+  {
+    "employee_id": "EMP-018",
+    "name": "Kiran Babu",
+    "role": "DCS Operator (Panel)",
+    "department": "Operations",
+    "certification": "DCS Operation Training (Honeywell Experion)",
+    "experience_years": 8
+  },
+  {
+    "employee_id": "EMP-019",
+    "name": "Manoj Tiwari",
+    "role": "Crane Operator",
+    "department": "Operations",
+    "certification": "Crane Operator License (PESO)",
+    "experience_years": 15
+  },
+  {
+    "employee_id": "EMP-020",
+    "name": "Lakshmi Nair",
+    "role": "Lab Analyst (Senior)",
+    "department": "Quality",
+    "certification": "M.Sc Analytical Chemistry",
+    "experience_years": 10
+  },
+  {
+    "employee_id": "EMP-021",
+    "name": "Dinesh Yadav",
+    "role": "Mechanical Fitter",
+    "department": "Maintenance",
+    "certification": "ITI Fitter",
+    "experience_years": 6
+  },
+  {
+    "employee_id": "EMP-022",
+    "name": "Vinod Kumar",
+    "role": "Helper (Mechanical)",
+    "department": "Maintenance",
+    "certification": "10th Pass, OJT",
+    "experience_years": 4
+  },
+  {
+    "employee_id": "EMP-023",
+    "name": "Gopal Krishna",
+    "role": "Instrument Technician",
+    "department": "Instrumentation",
+    "certification": "Diploma Instrumentation",
+    "experience_years": 5
+  },
+  {
+    "employee_id": "EMP-024",
+    "name": "Arjun Mishra",
+    "role": "Electrical Technician",
+    "department": "Electrical",
+    "certification": "ITI Electrician",
+    "experience_years": 7
+  },
+  {
+    "employee_id": "EMP-025",
+    "name": "Sandeep Kulkarni",
+    "role": "Process Engineer (Senior)",
+    "department": "Operations",
+    "certification": "M.Tech Chemical, Six Sigma Green Belt",
+    "experience_years": 15
+  },
+  {
+    "employee_id": "EMP-026",
+    "name": "Meera Krishnan",
+    "role": "HSE Coordinator",
+    "department": "HSE",
+    "certification": "IOSH Managing Safely, First Aid Trainer",
+    "experience_years": 8
+  },
+  {
+    "employee_id": "EMP-027",
+    "name": "Rohit Saxena",
+    "role": "Shift Supervisor (Operations)",
+    "department": "Operations",
+    "certification": "Diploma Chemical Engineering",
+    "experience_years": 18
+  },
+  {
+    "employee_id": "EMP-028",
+    "name": "Ashok Pillai",
+    "role": "Boiler Operator (1st Class)",
+    "department": "Utility",
+    "certification": "First Class Boiler Attendant Certificate",
+    "experience_years": 22
+  },
+  {
+    "employee_id": "EMP-029",
+    "name": "Pramod Shetty",
+    "role": "Welder (Special Class)",
+    "department": "Maintenance",
+    "certification": "IBR Welder, 6G Qualified (SMAW/GTAW)",
+    "experience_years": 14
+  },
+  {
+    "employee_id": "EMP-030",
+    "name": "Nandini Rao",
+    "role": "Safety Trainer",
+    "department": "HSE",
+    "certification": "NEBOSH International Diploma, OSHA 511",
+    "experience_years": 11
+  },
+  {
+    "employee_id": "EMP-031",
+    "name": "Vijay Prakash",
+    "role": "Condition Monitoring Technician",
+    "department": "Maintenance",
+    "certification": "Vibration Analyst Cat-II, Thermography Level-I",
+    "experience_years": 9
+  },
+  {
+    "employee_id": "EMP-032",
+    "name": "Harish Bhat",
+    "role": "NDT Technician (Senior)",
+    "department": "QC",
+    "certification": "ASNT Level II (UT, RT, MT, PT, TOFD)",
+    "experience_years": 13
+  },
+  {
+    "employee_id": "EMP-033",
+    "name": "Sunil Jha",
+    "role": "Piping Engineer",
+    "department": "Engineering",
+    "certification": "B.Tech Mechanical, CAESAR II Certified",
+    "experience_years": 10
+  },
+  {
+    "employee_id": "EMP-034",
+    "name": "Rakesh Pandey",
+    "role": "DCS Operator (Field)",
+    "department": "Operations",
+    "certification": "Diploma Instrumentation",
+    "experience_years": 6
+  },
+  {
+    "employee_id": "EMP-035",
+    "name": "Asha Devi",
+    "role": "Lab Analyst",
+    "department": "Quality",
+    "certification": "B.Sc Chemistry",
+    "experience_years": 4
+  },
+  {
+    "employee_id": "EMP-036",
+    "name": "Praveen Kumar",
+    "role": "Electrician (HT)",
+    "department": "Electrical",
+    "certification": "HT Switching Authorization",
+    "experience_years": 12
+  },
+  {
+    "employee_id": "EMP-037",
+    "name": "Srinivas Reddy",
+    "role": "Maintenance Manager",
+    "department": "Maintenance",
+    "certification": "B.Tech Mechanical, CMRP, Six Sigma Black Belt",
+    "experience_years": 22
+  },
+  {
+    "employee_id": "EMP-038",
+    "name": "Ajay Thakur",
+    "role": "Civil Maintenance Supervisor",
+    "department": "Maintenance",
+    "certification": "Diploma Civil Engineering",
+    "experience_years": 16
+  },
+  {
+    "employee_id": "EMP-039",
+    "name": "Deepa Menon",
+    "role": "Document Controller",
+    "department": "Engineering",
+    "certification": "ISO 9001 Certified Document Controller",
+    "experience_years": 8
+  },
+  {
+    "employee_id": "EMP-040",
+    "name": "Mukesh Agarwal",
+    "role": "Procurement Officer (Technical)",
+    "department": "Procurement",
+    "certification": "B.Tech Mechanical, SAP MM Certified",
+    "experience_years": 11
+  }
+]

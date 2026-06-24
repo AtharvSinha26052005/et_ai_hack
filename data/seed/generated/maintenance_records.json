@@ -1,0 +1,4225 @@
+[
+  {
+    "work_order_id": "WO-2023-0243",
+    "type": "CM",
+    "date": "2023-01-02",
+    "status": "completed",
+    "equipment_tag": "FV-101",
+    "description": "Corrective: Valve sticking at 61% open. Field investigation found corroded stem. Stem cleaned and polished, packing replaced, actuator bench set adjusted. Stroke time improved from 10.8s to 3.2s.",
+    "duration_hours": 55.4,
+    "estimated_cost_inr": 159304.0,
+    "personnel": [
+      "EMP-009",
+      "EMP-010"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0153",
+    "type": "PM",
+    "date": "2023-01-03",
+    "status": "completed",
+    "equipment_tag": "HX-502",
+    "description": "Annual CIP cleaning: Shell side circulated with 5% HCl solution for 4 hours at 60°C, followed by neutralization and passivation. Fouling factor improved from 0.0004 to 0.0001 m².K/kW.",
+    "duration_hours": 48.8,
+    "estimated_cost_inr": 23592.0,
+    "personnel": [
+      "EMP-001"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0180",
+    "type": "PM",
+    "date": "2023-01-05",
+    "status": "completed",
+    "equipment_tag": "C-202",
+    "description": "Six-monthly valve inspection: 1st stage suction and discharge valves removed and inspected. Suction valve plate showing wear (1.9mm remaining vs 3mm new). Replaced both suction valve plates and springs. Discharge valves satisfactory.",
+    "duration_hours": 63.7,
+    "estimated_cost_inr": 36915.0,
+    "personnel": [
+      "EMP-029",
+      "EMP-001",
+      "EMP-024"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0235",
+    "type": "PM",
+    "date": "2023-01-15",
+    "status": "completed",
+    "equipment_tag": "M-401",
+    "description": "Annual insulation test: Megger at 500V DC — Phase R: 4552 MΩ, Phase Y: 3445 MΩ, Phase B: 2236 MΩ. PI (Polarization Index): 2.7. All within acceptable limits (>100 MΩ corrected to 40°C, PI > 2.0).",
+    "duration_hours": 6.4,
+    "estimated_cost_inr": 21776.0,
+    "personnel": [
+      "EMP-036",
+      "EMP-031",
+      "EMP-002"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0148",
+    "type": "CM",
+    "date": "2023-01-17",
+    "status": "completed",
+    "equipment_tag": "HX-502",
+    "description": "Corrective: 6 tubes plugged after eddy current inspection revealed wall loss >40%. IRIS inspection on remaining tubes — 9 tubes show 20-30% wall loss (next inspection in 2 years). Tube bundle remaining life estimated at 7 years.",
+    "duration_hours": 70.8,
+    "estimated_cost_inr": 163024.0,
+    "personnel": [
+      "EMP-001",
+      "EMP-031",
+      "EMP-023"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0069",
+    "type": "PM",
+    "date": "2023-01-18",
+    "status": "completed",
+    "equipment_tag": "P-402",
+    "description": "Annual overhaul: Impeller, wear rings, mechanical seal (John Crane Type 5610), and bearings (SKF 6320) replaced. Alignment set to 0.05mm/0.03mm. Performance test: head 138m, flow 28m³/hr.",
+    "duration_hours": 53.3,
+    "estimated_cost_inr": 31236.0,
+    "personnel": [
+      "EMP-028",
+      "EMP-038"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0116",
+    "type": "PM",
+    "date": "2023-01-25",
+    "status": "completed",
+    "equipment_tag": "HX-201",
+    "description": "Annual CIP cleaning: Shell side circulated with 5% HCl solution for 4 hours at 60°C, followed by neutralization and passivation. Fouling factor improved from 0.0003 to 0.0002 m².K/kW.",
+    "duration_hours": 39.4,
+    "estimated_cost_inr": 24406.0,
+    "personnel": [
+      "EMP-032",
+      "EMP-007",
+      "EMP-008"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0299",
+    "type": "PM",
+    "date": "2023-01-30",
+    "status": "completed",
+    "equipment_tag": "AG-101",
+    "description": "Monthly test run: DG started on auto — start time 6.6s (spec <10s). Loaded to 80% for 30 minutes. Parameters normal: voltage 416V, frequency 50.1Hz, oil pressure 4.7 bar, coolant temp 86°C. Fuel level: 65%.",
+    "duration_hours": 58.3,
+    "estimated_cost_inr": 29539.0,
+    "personnel": [
+      "EMP-009",
+      "EMP-028"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0300",
+    "type": "PM",
+    "date": "2023-02-07",
+    "status": "completed",
+    "equipment_tag": "AG-101",
+    "description": "Monthly test run: DG started on auto — start time 8.5s (spec <10s). Loaded to 52% for 30 minutes. Parameters normal: voltage 409V, frequency 49.7Hz, oil pressure 4.4 bar, coolant temp 75°C. Fuel level: 83%.",
+    "duration_hours": 69.8,
+    "estimated_cost_inr": 43790.0,
+    "personnel": [
+      "EMP-023",
+      "EMP-029",
+      "EMP-001"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0247",
+    "type": "CM",
+    "date": "2023-02-08",
+    "status": "completed",
+    "equipment_tag": "FV-101",
+    "description": "Corrective: Valve sticking at 38% open. Field investigation found corroded stem. Stem cleaned and polished, packing replaced, actuator bench set adjusted. Stroke time improved from 17.2s to 5.9s.",
+    "duration_hours": 55.7,
+    "estimated_cost_inr": 122141.0,
+    "personnel": [
+      "EMP-010"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0213",
+    "type": "PM",
+    "date": "2023-02-13",
+    "status": "completed",
+    "equipment_tag": "M-201A",
+    "description": "Annual insulation test: Megger at 500V DC — Phase R: 4592 MΩ, Phase Y: 4853 MΩ, Phase B: 575 MΩ. PI (Polarization Index): 6.0. All within acceptable limits (>100 MΩ corrected to 40°C, PI > 2.0).",
+    "duration_hours": 35.0,
+    "estimated_cost_inr": 10507.0,
+    "personnel": [
+      "EMP-008",
+      "EMP-028"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0094",
+    "type": "EM",
+    "date": "2023-02-15",
+    "status": "completed",
+    "equipment_tag": "P-502",
+    "description": "Emergency: Pump tripped on high vibration (3.5 mm/s). Coupling guard removed — found coupling spider completely disintegrated. Coupling replaced (Rexnord Omega E40). Alignment checked and adjusted. Pump restarted after 19.3hrs.",
+    "duration_hours": 36.3,
+    "estimated_cost_inr": 297311.0,
+    "personnel": [
+      "EMP-009",
+      "EMP-002"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0092",
+    "type": "PM",
+    "date": "2023-02-17",
+    "status": "completed",
+    "equipment_tag": "P-502",
+    "description": "Annual overhaul: Impeller, wear rings, mechanical seal (John Crane Type 5610), and bearings (SKF 7314) replaced. Alignment set to 0.05mm/0.03mm. Performance test: head 92m, flow 45m³/hr.",
+    "duration_hours": 35.2,
+    "estimated_cost_inr": 15221.0,
+    "personnel": [
+      "EMP-037",
+      "EMP-022",
+      "EMP-024"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0001",
+    "type": "PM",
+    "date": "2023-02-21",
+    "status": "completed",
+    "equipment_tag": "P-101A",
+    "description": "Quarterly PM: Vibration check (overall 9.3 mm/s), bearing temperature check (DE: 135°C), alignment verification, coupling inspection, seal face inspection. All readings within acceptable limits.",
+    "duration_hours": 55.9,
+    "estimated_cost_inr": 49335.0,
+    "personnel": [
+      "EMP-014"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0164",
+    "type": "CM",
+    "date": "2023-02-24",
+    "status": "completed",
+    "equipment_tag": "C-102",
+    "description": "Corrective: High discharge air temperature (110°C vs alarm at 110°C). Found blocked oil cooler (external dust buildup). Cooler cleaned with compressed air. Temperature normalized to 61°C.",
+    "duration_hours": 43.5,
+    "estimated_cost_inr": 19246.0,
+    "personnel": [
+      "EMP-022",
+      "EMP-031",
+      "EMP-002"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0169",
+    "type": "PM",
+    "date": "2023-02-27",
+    "status": "completed",
+    "equipment_tag": "C-201",
+    "description": "Annual overhaul: Piston rings, rider rings, and packing rings replaced on both stages. Cylinder bore measured — within tolerance (200.1mm vs nominal 200.0mm). Crosshead pin and bearing clearance checked — satisfactory.",
+    "duration_hours": 13.1,
+    "estimated_cost_inr": 21859.0,
+    "personnel": [
+      "EMP-022",
+      "EMP-029"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0281",
+    "type": "PM",
+    "date": "2023-03-05",
+    "status": "completed",
+    "equipment_tag": "PSV-202",
+    "description": "Annual pop test: Valve removed and bench tested. Set pressure: 36.9 bar (nameplate: 33.0 bar). Reseat pressure: 24.7 bar. Valve reseated — set pressure adjusted to 33.0 bar ±3%. New gaskets installed. Tag sealed.",
+    "duration_hours": 50.6,
+    "estimated_cost_inr": 27099.0,
+    "personnel": [
+      "EMP-002",
+      "EMP-021",
+      "EMP-007"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0078",
+    "type": "EM",
+    "date": "2023-03-08",
+    "status": "completed",
+    "equipment_tag": "P-501",
+    "description": "Emergency: Pump tripped on high vibration (5.3 mm/s). Coupling guard removed — found coupling spider completely disintegrated. Coupling replaced (Rexnord Omega E40). Alignment checked and adjusted. Pump restarted after 17.2hrs.",
+    "duration_hours": 28.9,
+    "estimated_cost_inr": 164757.0,
+    "personnel": [
+      "EMP-008",
+      "EMP-009"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0047",
+    "type": "EM",
+    "date": "2023-03-09",
+    "status": "completed",
+    "equipment_tag": "P-202",
+    "description": "Emergency: Pump tripped on high vibration (3.4 mm/s). Coupling guard removed — found coupling spider completely disintegrated. Coupling replaced (Rexnord Omega E40). Alignment checked and adjusted. Pump restarted after 14.5hrs.",
+    "duration_hours": 9.1,
+    "estimated_cost_inr": 370255.0,
+    "personnel": [
+      "EMP-003",
+      "EMP-038",
+      "EMP-021"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0222",
+    "type": "PM",
+    "date": "2023-03-21",
+    "status": "completed",
+    "equipment_tag": "M-201B",
+    "description": "Annual insulation test: Megger at 500V DC — Phase R: 1249 MΩ, Phase Y: 4162 MΩ, Phase B: 4207 MΩ. PI (Polarization Index): 4.4. All within acceptable limits (>100 MΩ corrected to 40°C, PI > 2.0).",
+    "duration_hours": 30.2,
+    "estimated_cost_inr": 41406.0,
+    "personnel": [
+      "EMP-021",
+      "EMP-023"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0240",
+    "type": "CM",
+    "date": "2023-03-23",
+    "status": "completed",
+    "equipment_tag": "FV-101",
+    "description": "Corrective: Valve sticking at 61% open. Field investigation found corroded stem. Stem cleaned and polished, packing replaced, actuator bench set adjusted. Stroke time improved from 20.8s to 5.3s.",
+    "duration_hours": 53.8,
+    "estimated_cost_inr": 142066.0,
+    "personnel": [
+      "EMP-031",
+      "EMP-022",
+      "EMP-008"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0224",
+    "type": "PM",
+    "date": "2023-03-28",
+    "status": "completed",
+    "equipment_tag": "M-201B",
+    "description": "Quarterly greasing: DE bearing — 35g of Shell Gadus S2 V220. NDE bearing — 28g. Vibration before/after: DE 5.1/1.6 mm/s, NDE 2.4/1.5 mm/s. No abnormal noise.",
+    "duration_hours": 18.4,
+    "estimated_cost_inr": 5775.0,
+    "personnel": [
+      "EMP-037",
+      "EMP-036"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0031",
+    "type": "CM",
+    "date": "2023-03-31",
+    "status": "completed",
+    "equipment_tag": "P-201A",
+    "description": "Corrective: DE bearing replaced (SKF 6318). High vibration detected during routine round (8.2 mm/s overall, alarm at 7.1). Bearing showed inner race spalling. Vibration after replacement: 1.6 mm/s.",
+    "duration_hours": 64.5,
+    "estimated_cost_inr": 83463.0,
+    "personnel": [
+      "EMP-028",
+      "EMP-031"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0215",
+    "type": "PM",
+    "date": "2023-04-01",
+    "status": "completed",
+    "equipment_tag": "M-201A",
+    "description": "Quarterly greasing: DE bearing — 27g of Mobil Polyrex EM. NDE bearing — 24g. Vibration before/after: DE 4.1/2.6 mm/s, NDE 3.8/1.1 mm/s. No abnormal noise.",
+    "duration_hours": 22.0,
+    "estimated_cost_inr": 30699.0,
+    "personnel": [
+      "EMP-037"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0143",
+    "type": "PM",
+    "date": "2023-04-03",
+    "status": "completed",
+    "equipment_tag": "HX-502",
+    "description": "Annual CIP cleaning: Shell side circulated with 5% HCl solution for 4 hours at 60°C, followed by neutralization and passivation. Fouling factor improved from 0.0007 to 0.0002 m².K/kW.",
+    "duration_hours": 7.2,
+    "estimated_cost_inr": 11080.0,
+    "personnel": [
+      "EMP-024",
+      "EMP-028",
+      "EMP-022"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0151",
+    "type": "CM",
+    "date": "2023-04-04",
+    "status": "completed",
+    "equipment_tag": "HX-502",
+    "description": "Corrective: 5 tubes plugged after eddy current inspection revealed wall loss >40%. IRIS inspection on remaining tubes — 11 tubes show 20-30% wall loss (next inspection in 2 years). Tube bundle remaining life estimated at 6 years.",
+    "duration_hours": 14.0,
+    "estimated_cost_inr": 155978.0,
+    "personnel": [
+      "EMP-009",
+      "EMP-022",
+      "EMP-008"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0043",
+    "type": "EM",
+    "date": "2023-04-10",
+    "status": "completed",
+    "equipment_tag": "P-201B",
+    "description": "Emergency: Pump tripped on high vibration (4.1 mm/s). Coupling guard removed — found coupling spider completely disintegrated. Coupling replaced (Rexnord Omega E40). Alignment checked and adjusted. Pump restarted after 19.0hrs.",
+    "duration_hours": 21.0,
+    "estimated_cost_inr": 237429.0,
+    "personnel": [
+      "EMP-037"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0020",
+    "type": "PdM",
+    "date": "2023-04-11",
+    "status": "completed",
+    "equipment_tag": "P-101B",
+    "description": "Predictive: Oil analysis showed high Fe content (95 ppm vs normal <50 ppm). Bearing inspection revealed early stage pitting on outer race. Bearing preemptively replaced (SKF 7314). Oil flushed and replaced.",
+    "duration_hours": 2.0,
+    "estimated_cost_inr": 18414.0,
+    "personnel": [
+      "EMP-003",
+      "EMP-028"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0039",
+    "type": "PM",
+    "date": "2023-04-14",
+    "status": "completed",
+    "equipment_tag": "P-201B",
+    "description": "Annual overhaul: Impeller, wear rings, mechanical seal (John Crane Type 5610), and bearings (SKF 6318) replaced. Alignment set to 0.05mm/0.03mm. Performance test: head 97m, flow 50m³/hr.",
+    "duration_hours": 34.2,
+    "estimated_cost_inr": 13677.0,
+    "personnel": [
+      "EMP-032",
+      "EMP-008",
+      "EMP-036"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0132",
+    "type": "PM",
+    "date": "2023-04-19",
+    "status": "completed",
+    "equipment_tag": "HX-203",
+    "description": "Annual CIP cleaning: Shell side circulated with 5% HCl solution for 4 hours at 60°C, followed by neutralization and passivation. Fouling factor improved from 0.0006 to 0.0001 m².K/kW.",
+    "duration_hours": 28.8,
+    "estimated_cost_inr": 27261.0,
+    "personnel": [
+      "EMP-009",
+      "EMP-036",
+      "EMP-002"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0075",
+    "type": "EM",
+    "date": "2023-04-22",
+    "status": "completed",
+    "equipment_tag": "P-501",
+    "description": "Emergency: Pump tripped on high vibration (1.6 mm/s). Coupling guard removed — found coupling spider completely disintegrated. Coupling replaced (Rexnord Omega E40). Alignment checked and adjusted. Pump restarted after 13.2hrs.",
+    "duration_hours": 36.9,
+    "estimated_cost_inr": 149786.0,
+    "personnel": [
+      "EMP-031",
+      "EMP-007",
+      "EMP-037"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0022",
+    "type": "CM",
+    "date": "2023-05-05",
+    "status": "completed",
+    "equipment_tag": "P-101B",
+    "description": "Corrective: Mechanical seal replaced due to excessive leakage (~13 drops/min). Root cause: dry running during suction strainer cleaning. New seal installed (John Crane 5610). No shaft damage.",
+    "duration_hours": 16.7,
+    "estimated_cost_inr": 126870.0,
+    "personnel": [
+      "EMP-007",
+      "EMP-031",
+      "EMP-036"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0060",
+    "type": "PM",
+    "date": "2023-05-08",
+    "status": "completed",
+    "equipment_tag": "P-401",
+    "description": "Quarterly PM: Vibration measurement on all bearing positions. DE axial: 6.1 mm/s, NDE radial: 4.9 mm/s. Coupling guard inspection, oil level check, seal leakage check — all satisfactory.",
+    "duration_hours": 54.1,
+    "estimated_cost_inr": 16243.0,
+    "personnel": [
+      "EMP-031",
+      "EMP-037"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0162",
+    "type": "CM",
+    "date": "2023-05-11",
+    "status": "completed",
+    "equipment_tag": "C-101",
+    "description": "Corrective: High discharge air temperature (71°C vs alarm at 110°C). Found blocked oil cooler (external dust buildup). Cooler cleaned with compressed air. Temperature normalized to 65°C.",
+    "duration_hours": 1.5,
+    "estimated_cost_inr": 37111.0,
+    "personnel": [
+      "EMP-031",
+      "EMP-021",
+      "EMP-010"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0159",
+    "type": "CM",
+    "date": "2023-05-14",
+    "status": "completed",
+    "equipment_tag": "C-101",
+    "description": "Corrective: High discharge air temperature (100°C vs alarm at 110°C). Found blocked oil cooler (external dust buildup). Cooler cleaned with compressed air. Temperature normalized to 79°C.",
+    "duration_hours": 16.6,
+    "estimated_cost_inr": 48570.0,
+    "personnel": [
+      "EMP-028",
+      "EMP-002",
+      "EMP-010"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0068",
+    "type": "PM",
+    "date": "2023-05-15",
+    "status": "completed",
+    "equipment_tag": "P-402",
+    "description": "Annual overhaul: Impeller, wear rings, mechanical seal (John Crane Type 5610), and bearings (SKF 6320) replaced. Alignment set to 0.05mm/0.03mm. Performance test: head 87m, flow 17m³/hr.",
+    "duration_hours": 34.7,
+    "estimated_cost_inr": 10954.0,
+    "personnel": [
+      "EMP-001"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0124",
+    "type": "PM",
+    "date": "2023-05-15",
+    "status": "completed",
+    "equipment_tag": "HX-203",
+    "description": "Annual inspection: Bundle pulled for visual inspection. Light scaling on OD observed. Gaskets replaced (Klingersil C-4430). Shell flange faces inspected — no damage. Bolts re-torqued to 258 Nm using cross-pattern.",
+    "duration_hours": 27.4,
+    "estimated_cost_inr": 17967.0,
+    "personnel": [
+      "EMP-032"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0127",
+    "type": "CM",
+    "date": "2023-05-16",
+    "status": "completed",
+    "equipment_tag": "HX-203",
+    "description": "Corrective: 3 tubes plugged after eddy current inspection revealed wall loss >40%. IRIS inspection on remaining tubes — 14 tubes show 20-30% wall loss (next inspection in 2 years). Tube bundle remaining life estimated at 6 years.",
+    "duration_hours": 61.0,
+    "estimated_cost_inr": 40941.0,
+    "personnel": [
+      "EMP-036",
+      "EMP-001"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0272",
+    "type": "PM",
+    "date": "2023-05-18",
+    "status": "completed",
+    "equipment_tag": "FV-401",
+    "description": "Annual overhaul: Valve removed from line. Trim (plug, seat ring, cage) inspected — moderate erosion on seat ring. Seat lapped. Packing replaced (PTFE/graphite). Actuator diaphragm inspected — no cracks. Positioner calibrated: 4-20mA input, 3-15 psi output, linearity < 0.5%.",
+    "duration_hours": 41.0,
+    "estimated_cost_inr": 45075.0,
+    "personnel": [
+      "EMP-032"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0290",
+    "type": "PM",
+    "date": "2023-05-18",
+    "status": "completed",
+    "equipment_tag": "B-101",
+    "description": "Annual IBR inspection preparation: Boiler cooled down, waterside opened for inspection. Tube thickness measurements taken at 24 CMLs — minimum remaining: 6.3mm (original: 9.1mm). Corrosion rate: 0.11 mm/yr. Next inspection due: 2026.",
+    "duration_hours": 34.1,
+    "estimated_cost_inr": 34131.0,
+    "personnel": [
+      "EMP-037",
+      "EMP-028",
+      "EMP-036"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0057",
+    "type": "PM",
+    "date": "2023-05-19",
+    "status": "completed",
+    "equipment_tag": "P-401",
+    "description": "Quarterly PM: Vibration measurement on all bearing positions. DE axial: 1.6 mm/s, NDE radial: 1.9 mm/s. Coupling guard inspection, oil level check, seal leakage check — all satisfactory.",
+    "duration_hours": 53.0,
+    "estimated_cost_inr": 10313.0,
+    "personnel": [
+      "EMP-008",
+      "EMP-021"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0006",
+    "type": "EM",
+    "date": "2023-05-20",
+    "status": "completed",
+    "equipment_tag": "P-101A",
+    "description": "Emergency: Pump tripped on high vibration (8.6 mm/s). Coupling guard removed — found coupling spider completely disintegrated. Coupling replaced (Rexnord Omega E40). Alignment checked and adjusted. Pump restarted after 6.5hrs.",
+    "duration_hours": 7.3,
+    "estimated_cost_inr": 98166.0,
+    "personnel": [
+      "EMP-021"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0212",
+    "type": "PM",
+    "date": "2023-05-20",
+    "status": "completed",
+    "equipment_tag": "M-201A",
+    "description": "Quarterly greasing: DE bearing — 34g of SKF LGMT 2. NDE bearing — 29g. Vibration before/after: DE 4.1/1.7 mm/s, NDE 2.3/2.0 mm/s. No abnormal noise.",
+    "duration_hours": 34.9,
+    "estimated_cost_inr": 40169.0,
+    "personnel": [
+      "EMP-014",
+      "EMP-024",
+      "EMP-029"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0192",
+    "type": "PM",
+    "date": "2023-05-26",
+    "status": "completed",
+    "equipment_tag": "C-301",
+    "description": "Six-monthly valve inspection: 1st stage suction and discharge valves removed and inspected. Suction valve plate showing wear (2.0mm remaining vs 3mm new). Replaced both suction valve plates and springs. Discharge valves satisfactory.",
+    "duration_hours": 64.9,
+    "estimated_cost_inr": 25918.0,
+    "personnel": [
+      "EMP-031",
+      "EMP-037"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0050",
+    "type": "CM",
+    "date": "2023-06-01",
+    "status": "completed",
+    "equipment_tag": "P-202",
+    "description": "Corrective: DE bearing replaced (SKF 7314). High vibration detected during routine round (6.2 mm/s overall, alarm at 7.1). Bearing showed inner race spalling. Vibration after replacement: 2.5 mm/s.",
+    "duration_hours": 25.4,
+    "estimated_cost_inr": 159011.0,
+    "personnel": [
+      "EMP-008",
+      "EMP-024",
+      "EMP-022"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0189",
+    "type": "PM",
+    "date": "2023-06-01",
+    "status": "completed",
+    "equipment_tag": "C-301",
+    "description": "Annual overhaul: Piston rings, rider rings, and packing rings replaced on both stages. Cylinder bore measured — within tolerance (200.0mm vs nominal 200.0mm). Crosshead pin and bearing clearance checked — satisfactory.",
+    "duration_hours": 28.9,
+    "estimated_cost_inr": 42013.0,
+    "personnel": [
+      "EMP-002",
+      "EMP-014"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0177",
+    "type": "CM",
+    "date": "2023-06-02",
+    "status": "completed",
+    "equipment_tag": "C-201",
+    "description": "Corrective: 2nd stage discharge temperature high (146°C vs alarm at 155°C). Found stuck discharge valve (plate fragment lodged). Valve replaced. Intercooler checked — satisfactory.",
+    "duration_hours": 38.6,
+    "estimated_cost_inr": 143087.0,
+    "personnel": [
+      "EMP-022",
+      "EMP-032",
+      "EMP-007"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0214",
+    "type": "PM",
+    "date": "2023-06-06",
+    "status": "completed",
+    "equipment_tag": "M-201A",
+    "description": "Annual insulation test: Megger at 500V DC — Phase R: 1362 MΩ, Phase Y: 493 MΩ, Phase B: 2125 MΩ. PI (Polarization Index): 4.8. All within acceptable limits (>100 MΩ corrected to 40°C, PI > 2.0).",
+    "duration_hours": 2.3,
+    "estimated_cost_inr": 22216.0,
+    "personnel": [
+      "EMP-028",
+      "EMP-032"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0099",
+    "type": "PdM",
+    "date": "2023-06-08",
+    "status": "completed",
+    "equipment_tag": "P-601",
+    "description": "Predictive: Oil analysis showed high Fe content (145 ppm vs normal <50 ppm). Bearing inspection revealed early stage pitting on outer race. Bearing preemptively replaced (SKF 6316). Oil flushed and replaced.",
+    "duration_hours": 19.6,
+    "estimated_cost_inr": 14963.0,
+    "personnel": [
+      "EMP-002",
+      "EMP-037",
+      "EMP-028"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0190",
+    "type": "PM",
+    "date": "2023-06-08",
+    "status": "completed",
+    "equipment_tag": "C-301",
+    "description": "Annual overhaul: Piston rings, rider rings, and packing rings replaced on both stages. Cylinder bore measured — within tolerance (200.2mm vs nominal 200.0mm). Crosshead pin and bearing clearance checked — satisfactory.",
+    "duration_hours": 64.7,
+    "estimated_cost_inr": 27661.0,
+    "personnel": [
+      "EMP-007",
+      "EMP-023",
+      "EMP-029"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0292",
+    "type": "CM",
+    "date": "2023-06-09",
+    "status": "completed",
+    "equipment_tag": "B-101",
+    "description": "Corrective: Boiler tripped on low drum level. Investigation found BFW pump tripped on overload. BFW pump motor checked — found single phasing due to loose terminal. Terminal re-crimped, motor megger: 1097 MΩ. Boiler restarted after 5.7 hours.",
+    "duration_hours": 11.1,
+    "estimated_cost_inr": 183849.0,
+    "personnel": [
+      "EMP-031",
+      "EMP-021",
+      "EMP-008"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0274",
+    "type": "PM",
+    "date": "2023-06-11",
+    "status": "completed",
+    "equipment_tag": "PSV-101",
+    "description": "Annual pop test: Valve removed and bench tested. Set pressure: 29.4 bar (nameplate: 18.8 bar). Reseat pressure: 28.0 bar. Valve reseated — set pressure adjusted to 18.8 bar ±3%. New gaskets installed. Tag sealed.",
+    "duration_hours": 38.1,
+    "estimated_cost_inr": 47306.0,
+    "personnel": [
+      "EMP-007"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0154",
+    "type": "CM",
+    "date": "2023-06-16",
+    "status": "completed",
+    "equipment_tag": "C-101",
+    "description": "Corrective: High discharge air temperature (146°C vs alarm at 110°C). Found blocked oil cooler (external dust buildup). Cooler cleaned with compressed air. Temperature normalized to 63°C.",
+    "duration_hours": 19.4,
+    "estimated_cost_inr": 118282.0,
+    "personnel": [
+      "EMP-008",
+      "EMP-003",
+      "EMP-038"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0259",
+    "type": "CM",
+    "date": "2023-06-17",
+    "status": "completed",
+    "equipment_tag": "TV-201",
+    "description": "Corrective: Valve sticking at 41% open. Field investigation found corroded stem. Stem cleaned and polished, packing replaced, actuator bench set adjusted. Stroke time improved from 17.1s to 5.9s.",
+    "duration_hours": 49.5,
+    "estimated_cost_inr": 122120.0,
+    "personnel": [
+      "EMP-024"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0295",
+    "type": "CM",
+    "date": "2023-06-19",
+    "status": "completed",
+    "equipment_tag": "B-101",
+    "description": "Corrective: Boiler tripped on low drum level. Investigation found BFW pump tripped on overload. BFW pump motor checked — found single phasing due to loose terminal. Terminal re-crimped, motor megger: 1000 MΩ. Boiler restarted after 2.7 hours.",
+    "duration_hours": 44.1,
+    "estimated_cost_inr": 140916.0,
+    "personnel": [
+      "EMP-036",
+      "EMP-007",
+      "EMP-032"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0179",
+    "type": "PM",
+    "date": "2023-06-23",
+    "status": "completed",
+    "equipment_tag": "C-201",
+    "description": "Six-monthly valve inspection: 1st stage suction and discharge valves removed and inspected. Suction valve plate showing wear (2.2mm remaining vs 3mm new). Replaced both suction valve plates and springs. Discharge valves satisfactory.",
+    "duration_hours": 21.6,
+    "estimated_cost_inr": 26741.0,
+    "personnel": [
+      "EMP-014",
+      "EMP-037",
+      "EMP-007"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0221",
+    "type": "PM",
+    "date": "2023-06-27",
+    "status": "completed",
+    "equipment_tag": "M-201B",
+    "description": "Quarterly greasing: DE bearing — 30g of Mobil Polyrex EM. NDE bearing — 15g. Vibration before/after: DE 2.5/2.8 mm/s, NDE 2.7/1.2 mm/s. No abnormal noise.",
+    "duration_hours": 40.6,
+    "estimated_cost_inr": 14385.0,
+    "personnel": [
+      "EMP-003",
+      "EMP-032"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0263",
+    "type": "PM",
+    "date": "2023-06-27",
+    "status": "completed",
+    "equipment_tag": "TV-201",
+    "description": "Annual overhaul: Valve removed from line. Trim (plug, seat ring, cage) inspected — moderate erosion on seat ring. Seat lapped. Packing replaced (PTFE/graphite). Actuator diaphragm inspected — no cracks. Positioner calibrated: 4-20mA input, 3-15 psi output, linearity < 0.5%.",
+    "duration_hours": 43.7,
+    "estimated_cost_inr": 17951.0,
+    "personnel": [
+      "EMP-014"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0142",
+    "type": "CM",
+    "date": "2023-07-02",
+    "status": "completed",
+    "equipment_tag": "HX-101",
+    "description": "Corrective: 3 tubes plugged after eddy current inspection revealed wall loss >40%. IRIS inspection on remaining tubes — 11 tubes show 20-30% wall loss (next inspection in 2 years). Tube bundle remaining life estimated at 6 years.",
+    "duration_hours": 31.4,
+    "estimated_cost_inr": 118022.0,
+    "personnel": [
+      "EMP-022",
+      "EMP-014",
+      "EMP-036"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0275",
+    "type": "PM",
+    "date": "2023-07-08",
+    "status": "completed",
+    "equipment_tag": "PSV-101",
+    "description": "Annual pop test: Valve removed and bench tested. Set pressure: 24.4 bar (nameplate: 19.4 bar). Reseat pressure: 21.6 bar. Valve reseated — set pressure adjusted to 19.4 bar ±3%. New gaskets installed. Tag sealed.",
+    "duration_hours": 15.2,
+    "estimated_cost_inr": 6620.0,
+    "personnel": [
+      "EMP-002"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0234",
+    "type": "PM",
+    "date": "2023-07-10",
+    "status": "completed",
+    "equipment_tag": "M-202",
+    "description": "Quarterly greasing: DE bearing — 40g of Mobil Polyrex EM. NDE bearing — 24g. Vibration before/after: DE 3.1/2.1 mm/s, NDE 2.9/2.6 mm/s. No abnormal noise.",
+    "duration_hours": 38.8,
+    "estimated_cost_inr": 22256.0,
+    "personnel": [
+      "EMP-029"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0248",
+    "type": "PM",
+    "date": "2023-07-10",
+    "status": "completed",
+    "equipment_tag": "FV-101",
+    "description": "Annual overhaul: Valve removed from line. Trim (plug, seat ring, cage) inspected — moderate erosion on seat ring. Seat lapped. Packing replaced (PTFE/graphite). Actuator diaphragm inspected — no cracks. Positioner calibrated: 4-20mA input, 3-15 psi output, linearity < 0.5%.",
+    "duration_hours": 43.3,
+    "estimated_cost_inr": 14442.0,
+    "personnel": [
+      "EMP-032",
+      "EMP-002",
+      "EMP-037"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0250",
+    "type": "CM",
+    "date": "2023-07-17",
+    "status": "completed",
+    "equipment_tag": "FV-201",
+    "description": "Corrective: Valve sticking at 66% open. Field investigation found corroded stem. Stem cleaned and polished, packing replaced, actuator bench set adjusted. Stroke time improved from 24.8s to 3.8s.",
+    "duration_hours": 33.1,
+    "estimated_cost_inr": 50819.0,
+    "personnel": [
+      "EMP-010",
+      "EMP-028"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0066",
+    "type": "PdM",
+    "date": "2023-07-18",
+    "status": "completed",
+    "equipment_tag": "P-402",
+    "description": "Predictive: Oil analysis showed high Fe content (120 ppm vs normal <50 ppm). Bearing inspection revealed early stage pitting on outer race. Bearing preemptively replaced (SKF NU316). Oil flushed and replaced.",
+    "duration_hours": 56.5,
+    "estimated_cost_inr": 7813.0,
+    "personnel": [
+      "EMP-031",
+      "EMP-001",
+      "EMP-036"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0238",
+    "type": "PM",
+    "date": "2023-07-18",
+    "status": "completed",
+    "equipment_tag": "M-401",
+    "description": "Annual insulation test: Megger at 500V DC — Phase R: 4001 MΩ, Phase Y: 1611 MΩ, Phase B: 1005 MΩ. PI (Polarization Index): 3.5. All within acceptable limits (>100 MΩ corrected to 40°C, PI > 2.0).",
+    "duration_hours": 44.3,
+    "estimated_cost_inr": 12491.0,
+    "personnel": [
+      "EMP-023"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0260",
+    "type": "PM",
+    "date": "2023-07-24",
+    "status": "completed",
+    "equipment_tag": "TV-201",
+    "description": "Annual overhaul: Valve removed from line. Trim (plug, seat ring, cage) inspected — moderate erosion on seat ring. Seat lapped. Packing replaced (PTFE/graphite). Actuator diaphragm inspected — no cracks. Positioner calibrated: 4-20mA input, 3-15 psi output, linearity < 0.5%.",
+    "duration_hours": 35.8,
+    "estimated_cost_inr": 27106.0,
+    "personnel": [
+      "EMP-028",
+      "EMP-003"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0087",
+    "type": "PM",
+    "date": "2023-07-25",
+    "status": "completed",
+    "equipment_tag": "P-502",
+    "description": "Annual overhaul: Impeller, wear rings, mechanical seal (John Crane Type 5610), and bearings (SKF 6320) replaced. Alignment set to 0.05mm/0.03mm. Performance test: head 80m, flow 24m³/hr.",
+    "duration_hours": 56.4,
+    "estimated_cost_inr": 20891.0,
+    "personnel": [
+      "EMP-021"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0002",
+    "type": "PM",
+    "date": "2023-07-26",
+    "status": "completed",
+    "equipment_tag": "P-101A",
+    "description": "Annual overhaul: Impeller, wear rings, mechanical seal (John Crane Type 5610), and bearings (SKF 7314) replaced. Alignment set to 0.05mm/0.03mm. Performance test: head 89m, flow 25m³/hr.",
+    "duration_hours": 62.1,
+    "estimated_cost_inr": 11878.0,
+    "personnel": [
+      "EMP-032",
+      "EMP-003",
+      "EMP-002"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0236",
+    "type": "PM",
+    "date": "2023-07-27",
+    "status": "completed",
+    "equipment_tag": "M-401",
+    "description": "Annual insulation test: Megger at 500V DC — Phase R: 2534 MΩ, Phase Y: 2433 MΩ, Phase B: 241 MΩ. PI (Polarization Index): 3.6. All within acceptable limits (>100 MΩ corrected to 40°C, PI > 2.0).",
+    "duration_hours": 2.3,
+    "estimated_cost_inr": 19607.0,
+    "personnel": [
+      "EMP-014"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0203",
+    "type": "PM",
+    "date": "2023-07-29",
+    "status": "completed",
+    "equipment_tag": "M-101A",
+    "description": "Quarterly greasing: DE bearing — 18g of SKF LGMT 2. NDE bearing — 17g. Vibration before/after: DE 3.0/2.9 mm/s, NDE 4.6/1.4 mm/s. No abnormal noise.",
+    "duration_hours": 28.8,
+    "estimated_cost_inr": 9559.0,
+    "personnel": [
+      "EMP-028"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0064",
+    "type": "PM",
+    "date": "2023-08-02",
+    "status": "completed",
+    "equipment_tag": "P-402",
+    "description": "Annual overhaul: Impeller, wear rings, mechanical seal (John Crane Type 5610), and bearings (SKF 6314) replaced. Alignment set to 0.05mm/0.03mm. Performance test: head 122m, flow 15m³/hr.",
+    "duration_hours": 51.0,
+    "estimated_cost_inr": 24410.0,
+    "personnel": [
+      "EMP-003",
+      "EMP-023",
+      "EMP-032"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0117",
+    "type": "PM",
+    "date": "2023-08-06",
+    "status": "completed",
+    "equipment_tag": "HX-201",
+    "description": "Annual inspection: Bundle pulled for visual inspection. Light scaling on OD observed. Gaskets replaced (Klingersil C-4430). Shell flange faces inspected — no damage. Bolts re-torqued to 301 Nm using cross-pattern.",
+    "duration_hours": 13.5,
+    "estimated_cost_inr": 6770.0,
+    "personnel": [
+      "EMP-022",
+      "EMP-010"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0111",
+    "type": "PM",
+    "date": "2023-08-08",
+    "status": "completed",
+    "equipment_tag": "HX-201",
+    "description": "Annual inspection: Bundle pulled for visual inspection. Light scaling on OD observed. Gaskets replaced (Klingersil C-4430). Shell flange faces inspected — no damage. Bolts re-torqued to 289 Nm using cross-pattern.",
+    "duration_hours": 28.7,
+    "estimated_cost_inr": 31007.0,
+    "personnel": [
+      "EMP-008",
+      "EMP-031",
+      "EMP-022"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0208",
+    "type": "PM",
+    "date": "2023-08-08",
+    "status": "completed",
+    "equipment_tag": "M-101B",
+    "description": "Quarterly greasing: DE bearing — 16g of Shell Gadus S2 V220. NDE bearing — 13g. Vibration before/after: DE 3.9/1.7 mm/s, NDE 2.7/1.1 mm/s. No abnormal noise.",
+    "duration_hours": 14.1,
+    "estimated_cost_inr": 41835.0,
+    "personnel": [
+      "EMP-008",
+      "EMP-001"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0144",
+    "type": "PM",
+    "date": "2023-08-18",
+    "status": "completed",
+    "equipment_tag": "HX-502",
+    "description": "Annual CIP cleaning: Shell side circulated with 5% HCl solution for 4 hours at 60°C, followed by neutralization and passivation. Fouling factor improved from 0.0005 to 0.0001 m².K/kW.",
+    "duration_hours": 31.0,
+    "estimated_cost_inr": 19213.0,
+    "personnel": [
+      "EMP-002",
+      "EMP-036",
+      "EMP-001"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0187",
+    "type": "CM",
+    "date": "2023-08-19",
+    "status": "completed",
+    "equipment_tag": "C-301",
+    "description": "Corrective: 2nd stage discharge temperature high (102°C vs alarm at 155°C). Found stuck discharge valve (plate fragment lodged). Valve replaced. Intercooler checked — satisfactory.",
+    "duration_hours": 36.1,
+    "estimated_cost_inr": 101445.0,
+    "personnel": [
+      "EMP-024",
+      "EMP-023"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0126",
+    "type": "PM",
+    "date": "2023-08-28",
+    "status": "completed",
+    "equipment_tag": "HX-203",
+    "description": "Annual inspection: Bundle pulled for visual inspection. Light scaling on OD observed. Gaskets replaced (Klingersil C-4430). Shell flange faces inspected — no damage. Bolts re-torqued to 245 Nm using cross-pattern.",
+    "duration_hours": 34.7,
+    "estimated_cost_inr": 44039.0,
+    "personnel": [
+      "EMP-022"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0176",
+    "type": "PM",
+    "date": "2023-08-29",
+    "status": "completed",
+    "equipment_tag": "C-201",
+    "description": "Annual overhaul: Piston rings, rider rings, and packing rings replaced on both stages. Cylinder bore measured — within tolerance (200.3mm vs nominal 200.0mm). Crosshead pin and bearing clearance checked — satisfactory.",
+    "duration_hours": 20.7,
+    "estimated_cost_inr": 37810.0,
+    "personnel": [
+      "EMP-037",
+      "EMP-010",
+      "EMP-024"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0105",
+    "type": "PM",
+    "date": "2023-09-11",
+    "status": "completed",
+    "equipment_tag": "HX-201",
+    "description": "Annual CIP cleaning: Shell side circulated with 5% HCl solution for 4 hours at 60°C, followed by neutralization and passivation. Fouling factor improved from 0.0006 to 0.0002 m².K/kW.",
+    "duration_hours": 18.4,
+    "estimated_cost_inr": 29630.0,
+    "personnel": [
+      "EMP-001"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0196",
+    "type": "CM",
+    "date": "2023-09-12",
+    "status": "completed",
+    "equipment_tag": "C-301",
+    "description": "Corrective: 2nd stage discharge temperature high (110°C vs alarm at 155°C). Found stuck discharge valve (plate fragment lodged). Valve replaced. Intercooler checked — satisfactory.",
+    "duration_hours": 17.4,
+    "estimated_cost_inr": 144905.0,
+    "personnel": [
+      "EMP-029"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0138",
+    "type": "PM",
+    "date": "2023-09-24",
+    "status": "completed",
+    "equipment_tag": "HX-101",
+    "description": "Annual inspection: Bundle pulled for visual inspection. Light scaling on OD observed. Gaskets replaced (Klingersil C-4430). Shell flange faces inspected — no damage. Bolts re-torqued to 125 Nm using cross-pattern.",
+    "duration_hours": 21.4,
+    "estimated_cost_inr": 27238.0,
+    "personnel": [
+      "EMP-021"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0183",
+    "type": "PM",
+    "date": "2023-09-24",
+    "status": "completed",
+    "equipment_tag": "C-202",
+    "description": "Annual overhaul: Piston rings, rider rings, and packing rings replaced on both stages. Cylinder bore measured — within tolerance (200.0mm vs nominal 200.0mm). Crosshead pin and bearing clearance checked — satisfactory.",
+    "duration_hours": 4.2,
+    "estimated_cost_inr": 30478.0,
+    "personnel": [
+      "EMP-021",
+      "EMP-008",
+      "EMP-022"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0100",
+    "type": "CM",
+    "date": "2023-09-25",
+    "status": "completed",
+    "equipment_tag": "P-601",
+    "description": "Corrective: DE bearing replaced (SKF 6314). High vibration detected during routine round (9.5 mm/s overall, alarm at 7.1). Bearing showed inner race spalling. Vibration after replacement: 1.5 mm/s.",
+    "duration_hours": 15.8,
+    "estimated_cost_inr": 112221.0,
+    "personnel": [
+      "EMP-001",
+      "EMP-023"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0140",
+    "type": "CM",
+    "date": "2023-09-28",
+    "status": "completed",
+    "equipment_tag": "HX-101",
+    "description": "Corrective: 2 tubes plugged after eddy current inspection revealed wall loss >40%. IRIS inspection on remaining tubes — 15 tubes show 20-30% wall loss (next inspection in 2 years). Tube bundle remaining life estimated at 8 years.",
+    "duration_hours": 59.4,
+    "estimated_cost_inr": 117017.0,
+    "personnel": [
+      "EMP-036"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0166",
+    "type": "CM",
+    "date": "2023-09-30",
+    "status": "completed",
+    "equipment_tag": "C-102",
+    "description": "Corrective: High discharge air temperature (102°C vs alarm at 110°C). Found blocked oil cooler (external dust buildup). Cooler cleaned with compressed air. Temperature normalized to 60°C.",
+    "duration_hours": 39.3,
+    "estimated_cost_inr": 182260.0,
+    "personnel": [
+      "EMP-014",
+      "EMP-010"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0044",
+    "type": "EM",
+    "date": "2023-10-02",
+    "status": "completed",
+    "equipment_tag": "P-201B",
+    "description": "Emergency: Pump tripped on high vibration (5.6 mm/s). Coupling guard removed — found coupling spider completely disintegrated. Coupling replaced (Rexnord Omega E40). Alignment checked and adjusted. Pump restarted after 15.3hrs.",
+    "duration_hours": 19.1,
+    "estimated_cost_inr": 236269.0,
+    "personnel": [
+      "EMP-032",
+      "EMP-023",
+      "EMP-010"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0170",
+    "type": "PM",
+    "date": "2023-10-03",
+    "status": "completed",
+    "equipment_tag": "C-201",
+    "description": "Annual overhaul: Piston rings, rider rings, and packing rings replaced on both stages. Cylinder bore measured — within tolerance (200.1mm vs nominal 200.0mm). Crosshead pin and bearing clearance checked — satisfactory.",
+    "duration_hours": 72.0,
+    "estimated_cost_inr": 41758.0,
+    "personnel": [
+      "EMP-024",
+      "EMP-023"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0049",
+    "type": "PM",
+    "date": "2023-10-05",
+    "status": "completed",
+    "equipment_tag": "P-202",
+    "description": "Quarterly PM: Vibration check (overall 4.7 mm/s), bearing temperature check (DE: 102°C), alignment verification, coupling inspection, seal face inspection. All readings within acceptable limits.",
+    "duration_hours": 47.8,
+    "estimated_cost_inr": 37186.0,
+    "personnel": [
+      "EMP-021"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0061",
+    "type": "PM",
+    "date": "2023-10-14",
+    "status": "completed",
+    "equipment_tag": "P-402",
+    "description": "Quarterly PM: Vibration check (overall 2.8 mm/s), bearing temperature check (DE: 147°C), alignment verification, coupling inspection, seal face inspection. All readings within acceptable limits.",
+    "duration_hours": 15.2,
+    "estimated_cost_inr": 44809.0,
+    "personnel": [
+      "EMP-008",
+      "EMP-029"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0264",
+    "type": "PM",
+    "date": "2023-10-21",
+    "status": "completed",
+    "equipment_tag": "TV-201",
+    "description": "Annual overhaul: Valve removed from line. Trim (plug, seat ring, cage) inspected — moderate erosion on seat ring. Seat lapped. Packing replaced (PTFE/graphite). Actuator diaphragm inspected — no cracks. Positioner calibrated: 4-20mA input, 3-15 psi output, linearity < 0.5%.",
+    "duration_hours": 63.6,
+    "estimated_cost_inr": 21564.0,
+    "personnel": [
+      "EMP-009",
+      "EMP-028",
+      "EMP-021"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0200",
+    "type": "PM",
+    "date": "2023-10-25",
+    "status": "completed",
+    "equipment_tag": "M-101A",
+    "description": "Quarterly greasing: DE bearing — 24g of Mobil Polyrex EM. NDE bearing — 10g. Vibration before/after: DE 2.0/1.8 mm/s, NDE 2.7/1.9 mm/s. No abnormal noise.",
+    "duration_hours": 46.8,
+    "estimated_cost_inr": 8125.0,
+    "personnel": [
+      "EMP-036",
+      "EMP-002",
+      "EMP-023"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0045",
+    "type": "PM",
+    "date": "2023-10-26",
+    "status": "completed",
+    "equipment_tag": "P-202",
+    "description": "Annual overhaul: Impeller, wear rings, mechanical seal (John Crane Type 5610), and bearings (SKF NU316) replaced. Alignment set to 0.05mm/0.03mm. Performance test: head 111m, flow 50m³/hr.",
+    "duration_hours": 38.8,
+    "estimated_cost_inr": 23510.0,
+    "personnel": [
+      "EMP-001"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0256",
+    "type": "CM",
+    "date": "2023-10-26",
+    "status": "completed",
+    "equipment_tag": "TV-201",
+    "description": "Corrective: Valve sticking at 45% open. Field investigation found corroded stem. Stem cleaned and polished, packing replaced, actuator bench set adjusted. Stroke time improved from 22.9s to 4.3s.",
+    "duration_hours": 27.3,
+    "estimated_cost_inr": 181010.0,
+    "personnel": [
+      "EMP-024",
+      "EMP-021",
+      "EMP-029"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0128",
+    "type": "PM",
+    "date": "2023-10-27",
+    "status": "completed",
+    "equipment_tag": "HX-203",
+    "description": "Annual CIP cleaning: Shell side circulated with 5% HCl solution for 4 hours at 60°C, followed by neutralization and passivation. Fouling factor improved from 0.0007 to 0.0002 m².K/kW.",
+    "duration_hours": 59.1,
+    "estimated_cost_inr": 46553.0,
+    "personnel": [
+      "EMP-003",
+      "EMP-007"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0284",
+    "type": "PM",
+    "date": "2023-10-27",
+    "status": "completed",
+    "equipment_tag": "PSV-401",
+    "description": "Annual pop test: Valve removed and bench tested. Set pressure: 45.6 bar (nameplate: 42.0 bar). Reseat pressure: 18.8 bar. Valve reseated — set pressure adjusted to 42.0 bar ±3%. New gaskets installed. Tag sealed.",
+    "duration_hours": 20.9,
+    "estimated_cost_inr": 34258.0,
+    "personnel": [
+      "EMP-021",
+      "EMP-028"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0206",
+    "type": "PM",
+    "date": "2023-10-29",
+    "status": "completed",
+    "equipment_tag": "M-101A",
+    "description": "Quarterly greasing: DE bearing — 24g of SKF LGMT 2. NDE bearing — 17g. Vibration before/after: DE 4.5/3.4 mm/s, NDE 3.8/1.6 mm/s. No abnormal noise.",
+    "duration_hours": 66.3,
+    "estimated_cost_inr": 31867.0,
+    "personnel": [
+      "EMP-021"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0067",
+    "type": "PM",
+    "date": "2023-10-31",
+    "status": "completed",
+    "equipment_tag": "P-402",
+    "description": "Annual overhaul: Impeller, wear rings, mechanical seal (John Crane Type 5610), and bearings (SKF 6314) replaced. Alignment set to 0.05mm/0.03mm. Performance test: head 148m, flow 41m³/hr.",
+    "duration_hours": 59.3,
+    "estimated_cost_inr": 28187.0,
+    "personnel": [
+      "EMP-032",
+      "EMP-036",
+      "EMP-024"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0125",
+    "type": "PM",
+    "date": "2023-10-31",
+    "status": "completed",
+    "equipment_tag": "HX-203",
+    "description": "Annual CIP cleaning: Shell side circulated with 5% HCl solution for 4 hours at 60°C, followed by neutralization and passivation. Fouling factor improved from 0.0005 to 0.0001 m².K/kW.",
+    "duration_hours": 64.9,
+    "estimated_cost_inr": 11274.0,
+    "personnel": [
+      "EMP-007",
+      "EMP-032"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0028",
+    "type": "PdM",
+    "date": "2023-11-04",
+    "status": "completed",
+    "equipment_tag": "P-201A",
+    "description": "Predictive: Oil analysis showed high Fe content (92 ppm vs normal <50 ppm). Bearing inspection revealed early stage pitting on outer race. Bearing preemptively replaced (SKF 6320). Oil flushed and replaced.",
+    "duration_hours": 30.2,
+    "estimated_cost_inr": 21909.0,
+    "personnel": [
+      "EMP-009",
+      "EMP-031",
+      "EMP-002"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0191",
+    "type": "PM",
+    "date": "2023-11-04",
+    "status": "completed",
+    "equipment_tag": "C-301",
+    "description": "Annual overhaul: Piston rings, rider rings, and packing rings replaced on both stages. Cylinder bore measured — within tolerance (200.1mm vs nominal 200.0mm). Crosshead pin and bearing clearance checked — satisfactory.",
+    "duration_hours": 20.9,
+    "estimated_cost_inr": 21350.0,
+    "personnel": [
+      "EMP-003"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0267",
+    "type": "PM",
+    "date": "2023-11-08",
+    "status": "completed",
+    "equipment_tag": "PV-201",
+    "description": "Annual overhaul: Valve removed from line. Trim (plug, seat ring, cage) inspected — moderate erosion on seat ring. Seat lapped. Packing replaced (PTFE/graphite). Actuator diaphragm inspected — no cracks. Positioner calibrated: 4-20mA input, 3-15 psi output, linearity < 0.5%.",
+    "duration_hours": 45.2,
+    "estimated_cost_inr": 31565.0,
+    "personnel": [
+      "EMP-032",
+      "EMP-001"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0011",
+    "type": "CM",
+    "date": "2023-11-09",
+    "status": "completed",
+    "equipment_tag": "P-101A",
+    "description": "Corrective: DE bearing replaced (SKF 6320). High vibration detected during routine round (8.9 mm/s overall, alarm at 7.1). Bearing showed inner race spalling. Vibration after replacement: 2.0 mm/s.",
+    "duration_hours": 34.4,
+    "estimated_cost_inr": 152315.0,
+    "personnel": [
+      "EMP-021",
+      "EMP-003"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0168",
+    "type": "PM",
+    "date": "2023-11-09",
+    "status": "completed",
+    "equipment_tag": "C-201",
+    "description": "Annual overhaul: Piston rings, rider rings, and packing rings replaced on both stages. Cylinder bore measured — within tolerance (200.3mm vs nominal 200.0mm). Crosshead pin and bearing clearance checked — satisfactory.",
+    "duration_hours": 3.5,
+    "estimated_cost_inr": 41591.0,
+    "personnel": [
+      "EMP-014",
+      "EMP-038",
+      "EMP-032"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0013",
+    "type": "CM",
+    "date": "2023-11-10",
+    "status": "completed",
+    "equipment_tag": "P-101A",
+    "description": "Corrective: DE bearing replaced (SKF 6314). High vibration detected during routine round (6.1 mm/s overall, alarm at 7.1). Bearing showed inner race spalling. Vibration after replacement: 3.4 mm/s.",
+    "duration_hours": 34.6,
+    "estimated_cost_inr": 110875.0,
+    "personnel": [
+      "EMP-038",
+      "EMP-024"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0048",
+    "type": "PdM",
+    "date": "2023-11-12",
+    "status": "completed",
+    "equipment_tag": "P-202",
+    "description": "Predictive: Oil analysis showed high Fe content (191 ppm vs normal <50 ppm). Bearing inspection revealed early stage pitting on outer race. Bearing preemptively replaced (SKF 6320). Oil flushed and replaced.",
+    "duration_hours": 43.2,
+    "estimated_cost_inr": 9889.0,
+    "personnel": [
+      "EMP-032"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0007",
+    "type": "EM",
+    "date": "2023-11-15",
+    "status": "completed",
+    "equipment_tag": "P-101A",
+    "description": "Emergency: Pump tripped on high vibration (4.4 mm/s). Coupling guard removed — found coupling spider completely disintegrated. Coupling replaced (Rexnord Omega E40). Alignment checked and adjusted. Pump restarted after 2.1hrs.",
+    "duration_hours": 3.1,
+    "estimated_cost_inr": 381454.0,
+    "personnel": [
+      "EMP-029"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0150",
+    "type": "PM",
+    "date": "2023-11-18",
+    "status": "completed",
+    "equipment_tag": "HX-502",
+    "description": "Annual CIP cleaning: Shell side circulated with 5% HCl solution for 4 hours at 60°C, followed by neutralization and passivation. Fouling factor improved from 0.0005 to 0.0001 m².K/kW.",
+    "duration_hours": 28.5,
+    "estimated_cost_inr": 45511.0,
+    "personnel": [
+      "EMP-023",
+      "EMP-003",
+      "EMP-029"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0244",
+    "type": "PM",
+    "date": "2023-11-18",
+    "status": "completed",
+    "equipment_tag": "FV-101",
+    "description": "Annual overhaul: Valve removed from line. Trim (plug, seat ring, cage) inspected — moderate erosion on seat ring. Seat lapped. Packing replaced (PTFE/graphite). Actuator diaphragm inspected — no cracks. Positioner calibrated: 4-20mA input, 3-15 psi output, linearity < 0.5%.",
+    "duration_hours": 18.3,
+    "estimated_cost_inr": 19647.0,
+    "personnel": [
+      "EMP-003"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0025",
+    "type": "CM",
+    "date": "2023-11-19",
+    "status": "completed",
+    "equipment_tag": "P-201A",
+    "description": "Corrective: Mechanical seal replaced due to excessive leakage (~47 drops/min). Root cause: dry running during suction strainer cleaning. New seal installed (John Crane 5610). No shaft damage.",
+    "duration_hours": 2.3,
+    "estimated_cost_inr": 185021.0,
+    "personnel": [
+      "EMP-002",
+      "EMP-029"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0174",
+    "type": "PM",
+    "date": "2023-11-23",
+    "status": "completed",
+    "equipment_tag": "C-201",
+    "description": "Annual overhaul: Piston rings, rider rings, and packing rings replaced on both stages. Cylinder bore measured — within tolerance (200.0mm vs nominal 200.0mm). Crosshead pin and bearing clearance checked — satisfactory.",
+    "duration_hours": 18.4,
+    "estimated_cost_inr": 10346.0,
+    "personnel": [
+      "EMP-028"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0226",
+    "type": "PM",
+    "date": "2023-11-28",
+    "status": "completed",
+    "equipment_tag": "M-202",
+    "description": "Annual insulation test: Megger at 500V DC — Phase R: 1308 MΩ, Phase Y: 1545 MΩ, Phase B: 4495 MΩ. PI (Polarization Index): 4.9. All within acceptable limits (>100 MΩ corrected to 40°C, PI > 2.0).",
+    "duration_hours": 39.2,
+    "estimated_cost_inr": 19897.0,
+    "personnel": [
+      "EMP-007"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0091",
+    "type": "PM",
+    "date": "2023-12-01",
+    "status": "completed",
+    "equipment_tag": "P-502",
+    "description": "Quarterly PM: Vibration check (overall 2.1 mm/s), bearing temperature check (DE: 106°C), alignment verification, coupling inspection, seal face inspection. All readings within acceptable limits.",
+    "duration_hours": 69.6,
+    "estimated_cost_inr": 23630.0,
+    "personnel": [
+      "EMP-038",
+      "EMP-036"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0194",
+    "type": "CM",
+    "date": "2023-12-03",
+    "status": "completed",
+    "equipment_tag": "C-301",
+    "description": "Corrective: 2nd stage discharge temperature high (115°C vs alarm at 155°C). Found stuck discharge valve (plate fragment lodged). Valve replaced. Intercooler checked — satisfactory.",
+    "duration_hours": 58.8,
+    "estimated_cost_inr": 13076.0,
+    "personnel": [
+      "EMP-038",
+      "EMP-001",
+      "EMP-024"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0065",
+    "type": "PdM",
+    "date": "2023-12-04",
+    "status": "completed",
+    "equipment_tag": "P-402",
+    "description": "Predictive: Oil analysis showed high Fe content (160 ppm vs normal <50 ppm). Bearing inspection revealed early stage pitting on outer race. Bearing preemptively replaced (SKF 6314). Oil flushed and replaced.",
+    "duration_hours": 41.1,
+    "estimated_cost_inr": 8778.0,
+    "personnel": [
+      "EMP-014",
+      "EMP-021"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0115",
+    "type": "PM",
+    "date": "2023-12-09",
+    "status": "completed",
+    "equipment_tag": "HX-201",
+    "description": "Annual inspection: Bundle pulled for visual inspection. Light scaling on OD observed. Gaskets replaced (Klingersil C-4430). Shell flange faces inspected — no damage. Bolts re-torqued to 157 Nm using cross-pattern.",
+    "duration_hours": 39.9,
+    "estimated_cost_inr": 35276.0,
+    "personnel": [
+      "EMP-009",
+      "EMP-023"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0172",
+    "type": "CM",
+    "date": "2023-12-11",
+    "status": "completed",
+    "equipment_tag": "C-201",
+    "description": "Corrective: 2nd stage discharge temperature high (144°C vs alarm at 155°C). Found stuck discharge valve (plate fragment lodged). Valve replaced. Intercooler checked — satisfactory.",
+    "duration_hours": 41.7,
+    "estimated_cost_inr": 34209.0,
+    "personnel": [
+      "EMP-038",
+      "EMP-010",
+      "EMP-007"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0209",
+    "type": "PM",
+    "date": "2023-12-16",
+    "status": "completed",
+    "equipment_tag": "M-101B",
+    "description": "Annual insulation test: Megger at 500V DC — Phase R: 2468 MΩ, Phase Y: 274 MΩ, Phase B: 1496 MΩ. PI (Polarization Index): 3.4. All within acceptable limits (>100 MΩ corrected to 40°C, PI > 2.0).",
+    "duration_hours": 51.8,
+    "estimated_cost_inr": 40401.0,
+    "personnel": [
+      "EMP-038",
+      "EMP-023",
+      "EMP-031"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0279",
+    "type": "PM",
+    "date": "2023-12-23",
+    "status": "completed",
+    "equipment_tag": "PSV-201",
+    "description": "Annual pop test: Valve removed and bench tested. Set pressure: 37.6 bar (nameplate: 37.2 bar). Reseat pressure: 31.2 bar. Valve reseated — set pressure adjusted to 37.2 bar ±3%. New gaskets installed. Tag sealed.",
+    "duration_hours": 24.1,
+    "estimated_cost_inr": 42641.0,
+    "personnel": [
+      "EMP-023",
+      "EMP-032",
+      "EMP-007"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0090",
+    "type": "PdM",
+    "date": "2023-12-24",
+    "status": "completed",
+    "equipment_tag": "P-502",
+    "description": "Predictive: Oil analysis showed high Fe content (200 ppm vs normal <50 ppm). Bearing inspection revealed early stage pitting on outer race. Bearing preemptively replaced (SKF 7314). Oil flushed and replaced.",
+    "duration_hours": 62.0,
+    "estimated_cost_inr": 6193.0,
+    "personnel": [
+      "EMP-021",
+      "EMP-037"
+    ]
+  },
+  {
+    "work_order_id": "WO-2023-0270",
+    "type": "PM",
+    "date": "2023-12-27",
+    "status": "completed",
+    "equipment_tag": "FV-401",
+    "description": "Annual overhaul: Valve removed from line. Trim (plug, seat ring, cage) inspected — moderate erosion on seat ring. Seat lapped. Packing replaced (PTFE/graphite). Actuator diaphragm inspected — no cracks. Positioner calibrated: 4-20mA input, 3-15 psi output, linearity < 0.5%.",
+    "duration_hours": 53.7,
+    "estimated_cost_inr": 26620.0,
+    "personnel": [
+      "EMP-023",
+      "EMP-031",
+      "EMP-024"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0193",
+    "type": "PM",
+    "date": "2024-01-05",
+    "status": "completed",
+    "equipment_tag": "C-301",
+    "description": "Six-monthly valve inspection: 1st stage suction and discharge valves removed and inspected. Suction valve plate showing wear (1.5mm remaining vs 3mm new). Replaced both suction valve plates and springs. Discharge valves satisfactory.",
+    "duration_hours": 64.5,
+    "estimated_cost_inr": 24284.0,
+    "personnel": [
+      "EMP-003"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0070",
+    "type": "EM",
+    "date": "2024-01-24",
+    "status": "completed",
+    "equipment_tag": "P-402",
+    "description": "Emergency: Pump tripped on high vibration (5.1 mm/s). Coupling guard removed — found coupling spider completely disintegrated. Coupling replaced (Rexnord Omega E40). Alignment checked and adjusted. Pump restarted after 4.1hrs.",
+    "duration_hours": 20.8,
+    "estimated_cost_inr": 306232.0,
+    "personnel": [
+      "EMP-023"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0181",
+    "type": "PM",
+    "date": "2024-01-24",
+    "status": "completed",
+    "equipment_tag": "C-202",
+    "description": "Six-monthly valve inspection: 1st stage suction and discharge valves removed and inspected. Suction valve plate showing wear (2.5mm remaining vs 3mm new). Replaced both suction valve plates and springs. Discharge valves satisfactory.",
+    "duration_hours": 34.6,
+    "estimated_cost_inr": 40222.0,
+    "personnel": [
+      "EMP-014",
+      "EMP-029",
+      "EMP-010"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0184",
+    "type": "PM",
+    "date": "2024-01-25",
+    "status": "completed",
+    "equipment_tag": "C-202",
+    "description": "Annual overhaul: Piston rings, rider rings, and packing rings replaced on both stages. Cylinder bore measured — within tolerance (200.2mm vs nominal 200.0mm). Crosshead pin and bearing clearance checked — satisfactory.",
+    "duration_hours": 19.7,
+    "estimated_cost_inr": 11013.0,
+    "personnel": [
+      "EMP-037"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0118",
+    "type": "CM",
+    "date": "2024-01-27",
+    "status": "completed",
+    "equipment_tag": "HX-201",
+    "description": "Corrective: 5 tubes plugged after eddy current inspection revealed wall loss >40%. IRIS inspection on remaining tubes — 14 tubes show 20-30% wall loss (next inspection in 2 years). Tube bundle remaining life estimated at 6 years.",
+    "duration_hours": 45.9,
+    "estimated_cost_inr": 181886.0,
+    "personnel": [
+      "EMP-008",
+      "EMP-001",
+      "EMP-009"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0157",
+    "type": "PM",
+    "date": "2024-02-01",
+    "status": "completed",
+    "equipment_tag": "C-101",
+    "description": "8000-hour service: Air/oil filter replaced, oil separator element replaced, minimum pressure valve checked. Oil (Atlas Copco Roto-Inject) replaced — 28 liters. Air end inlet valve inspected. Running hours: 14.9.",
+    "duration_hours": 8.4,
+    "estimated_cost_inr": 44425.0,
+    "personnel": [
+      "EMP-023",
+      "EMP-009"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0009",
+    "type": "PdM",
+    "date": "2024-02-08",
+    "status": "completed",
+    "equipment_tag": "P-101A",
+    "description": "Predictive: Oil analysis showed high Fe content (92 ppm vs normal <50 ppm). Bearing inspection revealed early stage pitting on outer race. Bearing preemptively replaced (SKF 6314). Oil flushed and replaced.",
+    "duration_hours": 18.4,
+    "estimated_cost_inr": 16878.0,
+    "personnel": [
+      "EMP-002"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0082",
+    "type": "PM",
+    "date": "2024-02-09",
+    "status": "completed",
+    "equipment_tag": "P-502",
+    "description": "Quarterly PM: Vibration check (overall 9.1 mm/s), bearing temperature check (DE: 139°C), alignment verification, coupling inspection, seal face inspection. All readings within acceptable limits.",
+    "duration_hours": 45.8,
+    "estimated_cost_inr": 41569.0,
+    "personnel": [
+      "EMP-036"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0246",
+    "type": "CM",
+    "date": "2024-02-12",
+    "status": "completed",
+    "equipment_tag": "FV-101",
+    "description": "Corrective: Valve sticking at 34% open. Field investigation found corroded stem. Stem cleaned and polished, packing replaced, actuator bench set adjusted. Stroke time improved from 20.5s to 4.7s.",
+    "duration_hours": 41.8,
+    "estimated_cost_inr": 11207.0,
+    "personnel": [
+      "EMP-029",
+      "EMP-001",
+      "EMP-028"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0073",
+    "type": "EM",
+    "date": "2024-02-14",
+    "status": "completed",
+    "equipment_tag": "P-501",
+    "description": "Emergency: Pump tripped on high vibration (9.7 mm/s). Coupling guard removed — found coupling spider completely disintegrated. Coupling replaced (Rexnord Omega E40). Alignment checked and adjusted. Pump restarted after 2.3hrs.",
+    "duration_hours": 10.4,
+    "estimated_cost_inr": 230350.0,
+    "personnel": [
+      "EMP-003",
+      "EMP-024",
+      "EMP-023"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0165",
+    "type": "CM",
+    "date": "2024-02-18",
+    "status": "completed",
+    "equipment_tag": "C-102",
+    "description": "Corrective: High discharge air temperature (103°C vs alarm at 110°C). Found blocked oil cooler (external dust buildup). Cooler cleaned with compressed air. Temperature normalized to 66°C.",
+    "duration_hours": 69.1,
+    "estimated_cost_inr": 123975.0,
+    "personnel": [
+      "EMP-037",
+      "EMP-009",
+      "EMP-021"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0233",
+    "type": "PM",
+    "date": "2024-02-21",
+    "status": "completed",
+    "equipment_tag": "M-202",
+    "description": "Annual insulation test: Megger at 500V DC — Phase R: 420 MΩ, Phase Y: 2016 MΩ, Phase B: 1659 MΩ. PI (Polarization Index): 5.1. All within acceptable limits (>100 MΩ corrected to 40°C, PI > 2.0).",
+    "duration_hours": 14.3,
+    "estimated_cost_inr": 14505.0,
+    "personnel": [
+      "EMP-032"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0112",
+    "type": "PM",
+    "date": "2024-02-26",
+    "status": "completed",
+    "equipment_tag": "HX-201",
+    "description": "Annual CIP cleaning: Shell side circulated with 5% HCl solution for 4 hours at 60°C, followed by neutralization and passivation. Fouling factor improved from 0.0007 to 0.0001 m².K/kW.",
+    "duration_hours": 11.2,
+    "estimated_cost_inr": 44820.0,
+    "personnel": [
+      "EMP-001"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0253",
+    "type": "PM",
+    "date": "2024-02-26",
+    "status": "completed",
+    "equipment_tag": "FV-201",
+    "description": "Annual overhaul: Valve removed from line. Trim (plug, seat ring, cage) inspected — moderate erosion on seat ring. Seat lapped. Packing replaced (PTFE/graphite). Actuator diaphragm inspected — no cracks. Positioner calibrated: 4-20mA input, 3-15 psi output, linearity < 0.5%.",
+    "duration_hours": 70.8,
+    "estimated_cost_inr": 8739.0,
+    "personnel": [
+      "EMP-029",
+      "EMP-021"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0277",
+    "type": "PM",
+    "date": "2024-02-27",
+    "status": "completed",
+    "equipment_tag": "PSV-201",
+    "description": "Annual pop test: Valve removed and bench tested. Set pressure: 38.3 bar (nameplate: 49.1 bar). Reseat pressure: 37.3 bar. Valve reseated — set pressure adjusted to 49.1 bar ±3%. New gaskets installed. Tag sealed.",
+    "duration_hours": 7.1,
+    "estimated_cost_inr": 15566.0,
+    "personnel": [
+      "EMP-007"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0106",
+    "type": "PM",
+    "date": "2024-03-01",
+    "status": "completed",
+    "equipment_tag": "HX-201",
+    "description": "Annual inspection: Bundle pulled for visual inspection. Light scaling on OD observed. Gaskets replaced (Klingersil C-4430). Shell flange faces inspected — no damage. Bolts re-torqued to 311 Nm using cross-pattern.",
+    "duration_hours": 19.4,
+    "estimated_cost_inr": 30881.0,
+    "personnel": [
+      "EMP-022",
+      "EMP-029",
+      "EMP-023"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0035",
+    "type": "CM",
+    "date": "2024-03-07",
+    "status": "completed",
+    "equipment_tag": "P-201A",
+    "description": "Corrective: Mechanical seal replaced due to excessive leakage (~9 drops/min). Root cause: dry running during suction strainer cleaning. New seal installed (John Crane 5610). No shaft damage.",
+    "duration_hours": 36.3,
+    "estimated_cost_inr": 27109.0,
+    "personnel": [
+      "EMP-032",
+      "EMP-022"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0141",
+    "type": "PM",
+    "date": "2024-03-10",
+    "status": "completed",
+    "equipment_tag": "HX-101",
+    "description": "Annual inspection: Bundle pulled for visual inspection. Light scaling on OD observed. Gaskets replaced (Klingersil C-4430). Shell flange faces inspected — no damage. Bolts re-torqued to 127 Nm using cross-pattern.",
+    "duration_hours": 18.0,
+    "estimated_cost_inr": 39689.0,
+    "personnel": [
+      "EMP-021",
+      "EMP-009"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0167",
+    "type": "PM",
+    "date": "2024-03-31",
+    "status": "completed",
+    "equipment_tag": "C-201",
+    "description": "Six-monthly valve inspection: 1st stage suction and discharge valves removed and inspected. Suction valve plate showing wear (2.0mm remaining vs 3mm new). Replaced both suction valve plates and springs. Discharge valves satisfactory.",
+    "duration_hours": 54.9,
+    "estimated_cost_inr": 46469.0,
+    "personnel": [
+      "EMP-029",
+      "EMP-003"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0063",
+    "type": "PM",
+    "date": "2024-04-21",
+    "status": "completed",
+    "equipment_tag": "P-402",
+    "description": "Quarterly PM: Vibration check (overall 7.8 mm/s), bearing temperature check (DE: 103°C), alignment verification, coupling inspection, seal face inspection. All readings within acceptable limits.",
+    "duration_hours": 66.4,
+    "estimated_cost_inr": 48539.0,
+    "personnel": [
+      "EMP-023"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0217",
+    "type": "PM",
+    "date": "2024-04-25",
+    "status": "completed",
+    "equipment_tag": "M-201B",
+    "description": "Annual insulation test: Megger at 500V DC — Phase R: 4963 MΩ, Phase Y: 3018 MΩ, Phase B: 1960 MΩ. PI (Polarization Index): 3.5. All within acceptable limits (>100 MΩ corrected to 40°C, PI > 2.0).",
+    "duration_hours": 39.3,
+    "estimated_cost_inr": 10456.0,
+    "personnel": [
+      "EMP-036",
+      "EMP-037",
+      "EMP-029"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0137",
+    "type": "PM",
+    "date": "2024-04-29",
+    "status": "completed",
+    "equipment_tag": "HX-101",
+    "description": "Annual inspection: Bundle pulled for visual inspection. Light scaling on OD observed. Gaskets replaced (Klingersil C-4430). Shell flange faces inspected — no damage. Bolts re-torqued to 308 Nm using cross-pattern.",
+    "duration_hours": 18.7,
+    "estimated_cost_inr": 37110.0,
+    "personnel": [
+      "EMP-003",
+      "EMP-007",
+      "EMP-009"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0156",
+    "type": "CM",
+    "date": "2024-05-03",
+    "status": "completed",
+    "equipment_tag": "C-101",
+    "description": "Corrective: High discharge air temperature (136°C vs alarm at 110°C). Found blocked oil cooler (external dust buildup). Cooler cleaned with compressed air. Temperature normalized to 79°C.",
+    "duration_hours": 8.7,
+    "estimated_cost_inr": 12335.0,
+    "personnel": [
+      "EMP-038",
+      "EMP-010"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0286",
+    "type": "PM",
+    "date": "2024-05-20",
+    "status": "completed",
+    "equipment_tag": "PSV-401",
+    "description": "Annual pop test: Valve removed and bench tested. Set pressure: 36.3 bar (nameplate: 26.9 bar). Reseat pressure: 32.0 bar. Valve reseated — set pressure adjusted to 26.9 bar ±3%. New gaskets installed. Tag sealed.",
+    "duration_hours": 39.0,
+    "estimated_cost_inr": 10734.0,
+    "personnel": [
+      "EMP-037"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0015",
+    "type": "PM",
+    "date": "2024-05-23",
+    "status": "completed",
+    "equipment_tag": "P-101B",
+    "description": "Quarterly PM: Vibration check (overall 2.7 mm/s), bearing temperature check (DE: 117°C), alignment verification, coupling inspection, seal face inspection. All readings within acceptable limits.",
+    "duration_hours": 49.9,
+    "estimated_cost_inr": 36488.0,
+    "personnel": [
+      "EMP-007",
+      "EMP-031"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0005",
+    "type": "PM",
+    "date": "2024-05-24",
+    "status": "completed",
+    "equipment_tag": "P-101A",
+    "description": "Quarterly PM: Vibration check (overall 3.5 mm/s), bearing temperature check (DE: 69°C), alignment verification, coupling inspection, seal face inspection. All readings within acceptable limits.",
+    "duration_hours": 6.7,
+    "estimated_cost_inr": 13362.0,
+    "personnel": [
+      "EMP-009",
+      "EMP-002",
+      "EMP-036"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0062",
+    "type": "EM",
+    "date": "2024-05-25",
+    "status": "completed",
+    "equipment_tag": "P-402",
+    "description": "Emergency: Pump tripped on high vibration (8.1 mm/s). Coupling guard removed — found coupling spider completely disintegrated. Coupling replaced (Rexnord Omega E40). Alignment checked and adjusted. Pump restarted after 7.9hrs.",
+    "duration_hours": 10.1,
+    "estimated_cost_inr": 67084.0,
+    "personnel": [
+      "EMP-010",
+      "EMP-032",
+      "EMP-022"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0054",
+    "type": "PM",
+    "date": "2024-05-26",
+    "status": "completed",
+    "equipment_tag": "P-202",
+    "description": "Annual overhaul: Impeller, wear rings, mechanical seal (John Crane Type 5610), and bearings (SKF 6316) replaced. Alignment set to 0.05mm/0.03mm. Performance test: head 133m, flow 43m³/hr.",
+    "duration_hours": 2.2,
+    "estimated_cost_inr": 46824.0,
+    "personnel": [
+      "EMP-031"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0211",
+    "type": "PM",
+    "date": "2024-06-01",
+    "status": "completed",
+    "equipment_tag": "M-201A",
+    "description": "Annual insulation test: Megger at 500V DC — Phase R: 3795 MΩ, Phase Y: 3702 MΩ, Phase B: 3281 MΩ. PI (Polarization Index): 5.5. All within acceptable limits (>100 MΩ corrected to 40°C, PI > 2.0).",
+    "duration_hours": 66.5,
+    "estimated_cost_inr": 16312.0,
+    "personnel": [
+      "EMP-022"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0268",
+    "type": "CM",
+    "date": "2024-06-01",
+    "status": "completed",
+    "equipment_tag": "FV-401",
+    "description": "Corrective: Valve sticking at 69% open. Field investigation found corroded stem. Stem cleaned and polished, packing replaced, actuator bench set adjusted. Stroke time improved from 8.2s to 4.7s.",
+    "duration_hours": 66.2,
+    "estimated_cost_inr": 26111.0,
+    "personnel": [
+      "EMP-003",
+      "EMP-031"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0146",
+    "type": "CM",
+    "date": "2024-06-18",
+    "status": "completed",
+    "equipment_tag": "HX-502",
+    "description": "Corrective: 5 tubes plugged after eddy current inspection revealed wall loss >40%. IRIS inspection on remaining tubes — 13 tubes show 20-30% wall loss (next inspection in 2 years). Tube bundle remaining life estimated at 4 years.",
+    "duration_hours": 24.8,
+    "estimated_cost_inr": 36177.0,
+    "personnel": [
+      "EMP-024"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0283",
+    "type": "PM",
+    "date": "2024-06-22",
+    "status": "completed",
+    "equipment_tag": "PSV-202",
+    "description": "Annual pop test: Valve removed and bench tested. Set pressure: 24.7 bar (nameplate: 22.7 bar). Reseat pressure: 19.0 bar. Valve reseated — set pressure adjusted to 22.7 bar ±3%. New gaskets installed. Tag sealed.",
+    "duration_hours": 16.2,
+    "estimated_cost_inr": 12759.0,
+    "personnel": [
+      "EMP-032",
+      "EMP-038",
+      "EMP-037"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0089",
+    "type": "PM",
+    "date": "2024-06-23",
+    "status": "completed",
+    "equipment_tag": "P-502",
+    "description": "Quarterly PM: Vibration check (overall 4.1 mm/s), bearing temperature check (DE: 120°C), alignment verification, coupling inspection, seal face inspection. All readings within acceptable limits.",
+    "duration_hours": 36.7,
+    "estimated_cost_inr": 22717.0,
+    "personnel": [
+      "EMP-029",
+      "EMP-032",
+      "EMP-002"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0004",
+    "type": "PM",
+    "date": "2024-06-26",
+    "status": "completed",
+    "equipment_tag": "P-101A",
+    "description": "Annual overhaul: Impeller, wear rings, mechanical seal (John Crane Type 5610), and bearings (SKF 6320) replaced. Alignment set to 0.05mm/0.03mm. Performance test: head 131m, flow 38m³/hr.",
+    "duration_hours": 52.7,
+    "estimated_cost_inr": 41027.0,
+    "personnel": [
+      "EMP-028"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0145",
+    "type": "PM",
+    "date": "2024-07-02",
+    "status": "completed",
+    "equipment_tag": "HX-502",
+    "description": "Annual CIP cleaning: Shell side circulated with 5% HCl solution for 4 hours at 60°C, followed by neutralization and passivation. Fouling factor improved from 0.0004 to 0.0001 m².K/kW.",
+    "duration_hours": 40.5,
+    "estimated_cost_inr": 49967.0,
+    "personnel": [
+      "EMP-010"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0278",
+    "type": "PM",
+    "date": "2024-07-07",
+    "status": "completed",
+    "equipment_tag": "PSV-201",
+    "description": "Annual pop test: Valve removed and bench tested. Set pressure: 45.8 bar (nameplate: 25.5 bar). Reseat pressure: 28.4 bar. Valve reseated — set pressure adjusted to 25.5 bar ±3%. New gaskets installed. Tag sealed.",
+    "duration_hours": 23.8,
+    "estimated_cost_inr": 33769.0,
+    "personnel": [
+      "EMP-024",
+      "EMP-037",
+      "EMP-008"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0178",
+    "type": "CM",
+    "date": "2024-07-09",
+    "status": "completed",
+    "equipment_tag": "C-201",
+    "description": "Corrective: 2nd stage discharge temperature high (154°C vs alarm at 155°C). Found stuck discharge valve (plate fragment lodged). Valve replaced. Intercooler checked — satisfactory.",
+    "duration_hours": 68.1,
+    "estimated_cost_inr": 41371.0,
+    "personnel": [
+      "EMP-014"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0074",
+    "type": "CM",
+    "date": "2024-07-10",
+    "status": "completed",
+    "equipment_tag": "P-501",
+    "description": "Corrective: DE bearing replaced (SKF 6320). High vibration detected during routine round (10.3 mm/s overall, alarm at 7.1). Bearing showed inner race spalling. Vibration after replacement: 2.2 mm/s.",
+    "duration_hours": 60.6,
+    "estimated_cost_inr": 116085.0,
+    "personnel": [
+      "EMP-028",
+      "EMP-008"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0229",
+    "type": "PM",
+    "date": "2024-07-13",
+    "status": "completed",
+    "equipment_tag": "M-202",
+    "description": "Annual insulation test: Megger at 500V DC — Phase R: 336 MΩ, Phase Y: 2925 MΩ, Phase B: 2792 MΩ. PI (Polarization Index): 5.6. All within acceptable limits (>100 MΩ corrected to 40°C, PI > 2.0).",
+    "duration_hours": 11.5,
+    "estimated_cost_inr": 16999.0,
+    "personnel": [
+      "EMP-036"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0216",
+    "type": "PM",
+    "date": "2024-07-15",
+    "status": "completed",
+    "equipment_tag": "M-201A",
+    "description": "Annual insulation test: Megger at 500V DC — Phase R: 1403 MΩ, Phase Y: 606 MΩ, Phase B: 2106 MΩ. PI (Polarization Index): 2.5. All within acceptable limits (>100 MΩ corrected to 40°C, PI > 2.0).",
+    "duration_hours": 49.2,
+    "estimated_cost_inr": 43587.0,
+    "personnel": [
+      "EMP-021",
+      "EMP-038",
+      "EMP-001"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0027",
+    "type": "CM",
+    "date": "2024-07-16",
+    "status": "completed",
+    "equipment_tag": "P-201A",
+    "description": "Corrective: Mechanical seal replaced due to excessive leakage (~34 drops/min). Root cause: dry running during suction strainer cleaning. New seal installed (John Crane 5610). No shaft damage.",
+    "duration_hours": 49.2,
+    "estimated_cost_inr": 63988.0,
+    "personnel": [
+      "EMP-007",
+      "EMP-037"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0220",
+    "type": "PM",
+    "date": "2024-08-07",
+    "status": "completed",
+    "equipment_tag": "M-201B",
+    "description": "Quarterly greasing: DE bearing — 15g of SKF LGMT 2. NDE bearing — 25g. Vibration before/after: DE 2.6/1.4 mm/s, NDE 4.3/2.5 mm/s. No abnormal noise.",
+    "duration_hours": 32.6,
+    "estimated_cost_inr": 24452.0,
+    "personnel": [
+      "EMP-007",
+      "EMP-038"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0237",
+    "type": "PM",
+    "date": "2024-08-12",
+    "status": "completed",
+    "equipment_tag": "M-401",
+    "description": "Annual insulation test: Megger at 500V DC — Phase R: 3898 MΩ, Phase Y: 4028 MΩ, Phase B: 442 MΩ. PI (Polarization Index): 2.6. All within acceptable limits (>100 MΩ corrected to 40°C, PI > 2.0).",
+    "duration_hours": 66.4,
+    "estimated_cost_inr": 10926.0,
+    "personnel": [
+      "EMP-032",
+      "EMP-014",
+      "EMP-028"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0241",
+    "type": "PM",
+    "date": "2024-08-21",
+    "status": "completed",
+    "equipment_tag": "FV-101",
+    "description": "Annual overhaul: Valve removed from line. Trim (plug, seat ring, cage) inspected — moderate erosion on seat ring. Seat lapped. Packing replaced (PTFE/graphite). Actuator diaphragm inspected — no cracks. Positioner calibrated: 4-20mA input, 3-15 psi output, linearity < 0.5%.",
+    "duration_hours": 68.6,
+    "estimated_cost_inr": 27834.0,
+    "personnel": [
+      "EMP-002",
+      "EMP-028",
+      "EMP-007"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0282",
+    "type": "PM",
+    "date": "2024-08-23",
+    "status": "completed",
+    "equipment_tag": "PSV-202",
+    "description": "Annual pop test: Valve removed and bench tested. Set pressure: 48.3 bar (nameplate: 21.7 bar). Reseat pressure: 19.9 bar. Valve reseated — set pressure adjusted to 21.7 bar ±3%. New gaskets installed. Tag sealed.",
+    "duration_hours": 50.8,
+    "estimated_cost_inr": 8012.0,
+    "personnel": [
+      "EMP-029",
+      "EMP-037"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0199",
+    "type": "PM",
+    "date": "2024-08-25",
+    "status": "completed",
+    "equipment_tag": "C-301",
+    "description": "Annual overhaul: Piston rings, rider rings, and packing rings replaced on both stages. Cylinder bore measured — within tolerance (200.2mm vs nominal 200.0mm). Crosshead pin and bearing clearance checked — satisfactory.",
+    "duration_hours": 18.4,
+    "estimated_cost_inr": 14683.0,
+    "personnel": [
+      "EMP-024"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0185",
+    "type": "PM",
+    "date": "2024-08-26",
+    "status": "completed",
+    "equipment_tag": "C-202",
+    "description": "Annual overhaul: Piston rings, rider rings, and packing rings replaced on both stages. Cylinder bore measured — within tolerance (200.1mm vs nominal 200.0mm). Crosshead pin and bearing clearance checked — satisfactory.",
+    "duration_hours": 31.3,
+    "estimated_cost_inr": 25476.0,
+    "personnel": [
+      "EMP-003"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0052",
+    "type": "PM",
+    "date": "2024-09-01",
+    "status": "completed",
+    "equipment_tag": "P-202",
+    "description": "Annual overhaul: Impeller, wear rings, mechanical seal (John Crane Type 5610), and bearings (SKF 6320) replaced. Alignment set to 0.05mm/0.03mm. Performance test: head 98m, flow 39m³/hr.",
+    "duration_hours": 41.2,
+    "estimated_cost_inr": 39765.0,
+    "personnel": [
+      "EMP-022",
+      "EMP-009",
+      "EMP-031"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0135",
+    "type": "PM",
+    "date": "2024-09-06",
+    "status": "completed",
+    "equipment_tag": "HX-101",
+    "description": "Annual inspection: Bundle pulled for visual inspection. Light scaling on OD observed. Gaskets replaced (Klingersil C-4430). Shell flange faces inspected — no damage. Bolts re-torqued to 263 Nm using cross-pattern.",
+    "duration_hours": 41.5,
+    "estimated_cost_inr": 27511.0,
+    "personnel": [
+      "EMP-008",
+      "EMP-014",
+      "EMP-007"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0265",
+    "type": "CM",
+    "date": "2024-09-06",
+    "status": "completed",
+    "equipment_tag": "PV-201",
+    "description": "Corrective: Valve sticking at 43% open. Field investigation found corroded stem. Stem cleaned and polished, packing replaced, actuator bench set adjusted. Stroke time improved from 12.2s to 5.1s.",
+    "duration_hours": 25.0,
+    "estimated_cost_inr": 179086.0,
+    "personnel": [
+      "EMP-010"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0271",
+    "type": "CM",
+    "date": "2024-09-06",
+    "status": "completed",
+    "equipment_tag": "FV-401",
+    "description": "Corrective: Valve sticking at 70% open. Field investigation found corroded stem. Stem cleaned and polished, packing replaced, actuator bench set adjusted. Stroke time improved from 10.5s to 4.1s.",
+    "duration_hours": 69.8,
+    "estimated_cost_inr": 21354.0,
+    "personnel": [
+      "EMP-009",
+      "EMP-032"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0102",
+    "type": "PdM",
+    "date": "2024-09-11",
+    "status": "completed",
+    "equipment_tag": "P-601",
+    "description": "Predictive: Oil analysis showed high Fe content (82 ppm vs normal <50 ppm). Bearing inspection revealed early stage pitting on outer race. Bearing preemptively replaced (SKF 6314). Oil flushed and replaced.",
+    "duration_hours": 55.3,
+    "estimated_cost_inr": 27003.0,
+    "personnel": [
+      "EMP-008",
+      "EMP-001"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0210",
+    "type": "PM",
+    "date": "2024-09-12",
+    "status": "completed",
+    "equipment_tag": "M-101B",
+    "description": "Quarterly greasing: DE bearing — 23g of SKF LGMT 2. NDE bearing — 13g. Vibration before/after: DE 3.9/3.1 mm/s, NDE 4.9/2.2 mm/s. No abnormal noise.",
+    "duration_hours": 27.8,
+    "estimated_cost_inr": 49499.0,
+    "personnel": [
+      "EMP-007",
+      "EMP-031"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0285",
+    "type": "PM",
+    "date": "2024-09-13",
+    "status": "completed",
+    "equipment_tag": "PSV-401",
+    "description": "Annual pop test: Valve removed and bench tested. Set pressure: 46.9 bar (nameplate: 47.0 bar). Reseat pressure: 32.0 bar. Valve reseated — set pressure adjusted to 47.0 bar ±3%. New gaskets installed. Tag sealed.",
+    "duration_hours": 42.3,
+    "estimated_cost_inr": 12804.0,
+    "personnel": [
+      "EMP-023",
+      "EMP-010",
+      "EMP-031"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0232",
+    "type": "PM",
+    "date": "2024-09-19",
+    "status": "completed",
+    "equipment_tag": "M-202",
+    "description": "Quarterly greasing: DE bearing — 16g of Shell Gadus S2 V220. NDE bearing — 12g. Vibration before/after: DE 3.8/2.9 mm/s, NDE 3.7/2.2 mm/s. No abnormal noise.",
+    "duration_hours": 22.4,
+    "estimated_cost_inr": 8617.0,
+    "personnel": [
+      "EMP-008",
+      "EMP-010",
+      "EMP-009"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0152",
+    "type": "PM",
+    "date": "2024-09-20",
+    "status": "completed",
+    "equipment_tag": "HX-502",
+    "description": "Annual CIP cleaning: Shell side circulated with 5% HCl solution for 4 hours at 60°C, followed by neutralization and passivation. Fouling factor improved from 0.0003 to 0.0001 m².K/kW.",
+    "duration_hours": 69.3,
+    "estimated_cost_inr": 29982.0,
+    "personnel": [
+      "EMP-009",
+      "EMP-014",
+      "EMP-029"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0104",
+    "type": "PdM",
+    "date": "2024-10-02",
+    "status": "completed",
+    "equipment_tag": "P-601",
+    "description": "Predictive: Oil analysis showed high Fe content (161 ppm vs normal <50 ppm). Bearing inspection revealed early stage pitting on outer race. Bearing preemptively replaced (SKF 6316). Oil flushed and replaced.",
+    "duration_hours": 24.0,
+    "estimated_cost_inr": 21214.0,
+    "personnel": [
+      "EMP-021"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0071",
+    "type": "PM",
+    "date": "2024-10-09",
+    "status": "completed",
+    "equipment_tag": "P-501",
+    "description": "Annual overhaul: Impeller, wear rings, mechanical seal (John Crane Type 5610), and bearings (SKF 6318) replaced. Alignment set to 0.05mm/0.03mm. Performance test: head 137m, flow 28m³/hr.",
+    "duration_hours": 31.8,
+    "estimated_cost_inr": 35905.0,
+    "personnel": [
+      "EMP-036",
+      "EMP-038",
+      "EMP-023"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0257",
+    "type": "PM",
+    "date": "2024-10-17",
+    "status": "completed",
+    "equipment_tag": "TV-201",
+    "description": "Annual overhaul: Valve removed from line. Trim (plug, seat ring, cage) inspected — moderate erosion on seat ring. Seat lapped. Packing replaced (PTFE/graphite). Actuator diaphragm inspected — no cracks. Positioner calibrated: 4-20mA input, 3-15 psi output, linearity < 0.5%.",
+    "duration_hours": 16.3,
+    "estimated_cost_inr": 25345.0,
+    "personnel": [
+      "EMP-008",
+      "EMP-028"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0258",
+    "type": "CM",
+    "date": "2024-11-07",
+    "status": "completed",
+    "equipment_tag": "TV-201",
+    "description": "Corrective: Valve sticking at 68% open. Field investigation found corroded stem. Stem cleaned and polished, packing replaced, actuator bench set adjusted. Stroke time improved from 21.2s to 6.0s.",
+    "duration_hours": 19.5,
+    "estimated_cost_inr": 48115.0,
+    "personnel": [
+      "EMP-009"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0014",
+    "type": "PdM",
+    "date": "2024-11-08",
+    "status": "completed",
+    "equipment_tag": "P-101B",
+    "description": "Predictive: Oil analysis showed high Fe content (194 ppm vs normal <50 ppm). Bearing inspection revealed early stage pitting on outer race. Bearing preemptively replaced (SKF NU316). Oil flushed and replaced.",
+    "duration_hours": 58.6,
+    "estimated_cost_inr": 28728.0,
+    "personnel": [
+      "EMP-008"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0040",
+    "type": "PM",
+    "date": "2024-11-08",
+    "status": "completed",
+    "equipment_tag": "P-201B",
+    "description": "Quarterly PM: Vibration check (overall 3.2 mm/s), bearing temperature check (DE: 132°C), alignment verification, coupling inspection, seal face inspection. All readings within acceptable limits.",
+    "duration_hours": 54.1,
+    "estimated_cost_inr": 32258.0,
+    "personnel": [
+      "EMP-031"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0262",
+    "type": "PM",
+    "date": "2024-11-08",
+    "status": "completed",
+    "equipment_tag": "TV-201",
+    "description": "Annual overhaul: Valve removed from line. Trim (plug, seat ring, cage) inspected — moderate erosion on seat ring. Seat lapped. Packing replaced (PTFE/graphite). Actuator diaphragm inspected — no cracks. Positioner calibrated: 4-20mA input, 3-15 psi output, linearity < 0.5%.",
+    "duration_hours": 8.7,
+    "estimated_cost_inr": 10373.0,
+    "personnel": [
+      "EMP-022",
+      "EMP-038",
+      "EMP-021"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0123",
+    "type": "PM",
+    "date": "2024-11-12",
+    "status": "completed",
+    "equipment_tag": "HX-203",
+    "description": "Annual inspection: Bundle pulled for visual inspection. Light scaling on OD observed. Gaskets replaced (Klingersil C-4430). Shell flange faces inspected — no damage. Bolts re-torqued to 130 Nm using cross-pattern.",
+    "duration_hours": 33.1,
+    "estimated_cost_inr": 21567.0,
+    "personnel": [
+      "EMP-037",
+      "EMP-038",
+      "EMP-022"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0298",
+    "type": "PM",
+    "date": "2024-11-12",
+    "status": "completed",
+    "equipment_tag": "AG-101",
+    "description": "Monthly test run: DG started on auto — start time 7.8s (spec <10s). Loaded to 92% for 30 minutes. Parameters normal: voltage 396V, frequency 50.0Hz, oil pressure 4.4 bar, coolant temp 84°C. Fuel level: 67%.",
+    "duration_hours": 40.8,
+    "estimated_cost_inr": 19786.0,
+    "personnel": [
+      "EMP-028"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0188",
+    "type": "CM",
+    "date": "2024-11-13",
+    "status": "completed",
+    "equipment_tag": "C-301",
+    "description": "Corrective: 2nd stage discharge temperature high (123°C vs alarm at 155°C). Found stuck discharge valve (plate fragment lodged). Valve replaced. Intercooler checked — satisfactory.",
+    "duration_hours": 4.8,
+    "estimated_cost_inr": 30142.0,
+    "personnel": [
+      "EMP-001",
+      "EMP-029",
+      "EMP-024"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0030",
+    "type": "PdM",
+    "date": "2024-11-17",
+    "status": "completed",
+    "equipment_tag": "P-201A",
+    "description": "Predictive: Oil analysis showed high Fe content (98 ppm vs normal <50 ppm). Bearing inspection revealed early stage pitting on outer race. Bearing preemptively replaced (SKF 6316). Oil flushed and replaced.",
+    "duration_hours": 40.3,
+    "estimated_cost_inr": 14761.0,
+    "personnel": [
+      "EMP-037",
+      "EMP-036",
+      "EMP-038"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0058",
+    "type": "PM",
+    "date": "2024-11-17",
+    "status": "completed",
+    "equipment_tag": "P-401",
+    "description": "Quarterly PM: Vibration measurement on all bearing positions. DE axial: 10.0 mm/s, NDE radial: 2.1 mm/s. Coupling guard inspection, oil level check, seal leakage check — all satisfactory.",
+    "duration_hours": 70.7,
+    "estimated_cost_inr": 47934.0,
+    "personnel": [
+      "EMP-036"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0098",
+    "type": "EM",
+    "date": "2024-11-22",
+    "status": "completed",
+    "equipment_tag": "P-503",
+    "description": "Emergency: Pump tripped on high vibration (8.4 mm/s). Coupling guard removed — found coupling spider completely disintegrated. Coupling replaced (Rexnord Omega E40). Alignment checked and adjusted. Pump restarted after 15.4hrs.",
+    "duration_hours": 28.2,
+    "estimated_cost_inr": 306079.0,
+    "personnel": [
+      "EMP-022",
+      "EMP-003"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0072",
+    "type": "PM",
+    "date": "2024-12-02",
+    "status": "completed",
+    "equipment_tag": "P-501",
+    "description": "Annual overhaul: Impeller, wear rings, mechanical seal (John Crane Type 5610), and bearings (SKF NU316) replaced. Alignment set to 0.05mm/0.03mm. Performance test: head 108m, flow 28m³/hr.",
+    "duration_hours": 56.7,
+    "estimated_cost_inr": 27398.0,
+    "personnel": [
+      "EMP-007",
+      "EMP-022",
+      "EMP-038"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0130",
+    "type": "PM",
+    "date": "2024-12-13",
+    "status": "completed",
+    "equipment_tag": "HX-203",
+    "description": "Annual inspection: Bundle pulled for visual inspection. Light scaling on OD observed. Gaskets replaced (Klingersil C-4430). Shell flange faces inspected — no damage. Bolts re-torqued to 249 Nm using cross-pattern.",
+    "duration_hours": 49.8,
+    "estimated_cost_inr": 42849.0,
+    "personnel": [
+      "EMP-031",
+      "EMP-022"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0129",
+    "type": "CM",
+    "date": "2024-12-14",
+    "status": "completed",
+    "equipment_tag": "HX-203",
+    "description": "Corrective: 2 tubes plugged after eddy current inspection revealed wall loss >40%. IRIS inspection on remaining tubes — 9 tubes show 20-30% wall loss (next inspection in 2 years). Tube bundle remaining life estimated at 3 years.",
+    "duration_hours": 61.1,
+    "estimated_cost_inr": 188951.0,
+    "personnel": [
+      "EMP-008"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0012",
+    "type": "PM",
+    "date": "2024-12-17",
+    "status": "completed",
+    "equipment_tag": "P-101A",
+    "description": "Quarterly PM: Vibration check (overall 3.9 mm/s), bearing temperature check (DE: 167°C), alignment verification, coupling inspection, seal face inspection. All readings within acceptable limits.",
+    "duration_hours": 31.8,
+    "estimated_cost_inr": 21298.0,
+    "personnel": [
+      "EMP-032",
+      "EMP-007"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0133",
+    "type": "CM",
+    "date": "2024-12-23",
+    "status": "completed",
+    "equipment_tag": "HX-203",
+    "description": "Corrective: 2 tubes plugged after eddy current inspection revealed wall loss >40%. IRIS inspection on remaining tubes — 12 tubes show 20-30% wall loss (next inspection in 2 years). Tube bundle remaining life estimated at 4 years.",
+    "duration_hours": 12.8,
+    "estimated_cost_inr": 66909.0,
+    "personnel": [
+      "EMP-036",
+      "EMP-023"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0107",
+    "type": "PM",
+    "date": "2024-12-25",
+    "status": "completed",
+    "equipment_tag": "HX-201",
+    "description": "Annual inspection: Bundle pulled for visual inspection. Light scaling on OD observed. Gaskets replaced (Klingersil C-4430). Shell flange faces inspected — no damage. Bolts re-torqued to 131 Nm using cross-pattern.",
+    "duration_hours": 64.3,
+    "estimated_cost_inr": 29164.0,
+    "personnel": [
+      "EMP-008",
+      "EMP-031"
+    ]
+  },
+  {
+    "work_order_id": "WO-2024-0076",
+    "type": "CM",
+    "date": "2024-12-28",
+    "status": "completed",
+    "equipment_tag": "P-501",
+    "description": "Corrective: Mechanical seal replaced due to excessive leakage (~44 drops/min). Root cause: dry running during suction strainer cleaning. New seal installed (John Crane 5610). No shaft damage.",
+    "duration_hours": 20.4,
+    "estimated_cost_inr": 193083.0,
+    "personnel": [
+      "EMP-029",
+      "EMP-014"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0081",
+    "type": "PM",
+    "date": "2025-01-02",
+    "status": "completed",
+    "equipment_tag": "P-502",
+    "description": "Quarterly PM: Vibration check (overall 11.2 mm/s), bearing temperature check (DE: 116°C), alignment verification, coupling inspection, seal face inspection. All readings within acceptable limits.",
+    "duration_hours": 21.6,
+    "estimated_cost_inr": 8031.0,
+    "personnel": [
+      "EMP-031",
+      "EMP-037",
+      "EMP-003"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0021",
+    "type": "CM",
+    "date": "2025-01-24",
+    "status": "completed",
+    "equipment_tag": "P-101B",
+    "description": "Corrective: DE bearing replaced (SKF 6314). High vibration detected during routine round (8.6 mm/s overall, alarm at 7.1). Bearing showed inner race spalling. Vibration after replacement: 2.5 mm/s.",
+    "duration_hours": 39.7,
+    "estimated_cost_inr": 195790.0,
+    "personnel": [
+      "EMP-007",
+      "EMP-024"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0239",
+    "type": "PM",
+    "date": "2025-01-28",
+    "status": "completed",
+    "equipment_tag": "FV-101",
+    "description": "Annual overhaul: Valve removed from line. Trim (plug, seat ring, cage) inspected — moderate erosion on seat ring. Seat lapped. Packing replaced (PTFE/graphite). Actuator diaphragm inspected — no cracks. Positioner calibrated: 4-20mA input, 3-15 psi output, linearity < 0.5%.",
+    "duration_hours": 59.8,
+    "estimated_cost_inr": 7690.0,
+    "personnel": [
+      "EMP-001",
+      "EMP-031",
+      "EMP-032"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0024",
+    "type": "PdM",
+    "date": "2025-02-02",
+    "status": "completed",
+    "equipment_tag": "P-201A",
+    "description": "Predictive: Oil analysis showed high Fe content (189 ppm vs normal <50 ppm). Bearing inspection revealed early stage pitting on outer race. Bearing preemptively replaced (SKF 7314). Oil flushed and replaced.",
+    "duration_hours": 16.3,
+    "estimated_cost_inr": 15496.0,
+    "personnel": [
+      "EMP-036"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0225",
+    "type": "PM",
+    "date": "2025-02-02",
+    "status": "completed",
+    "equipment_tag": "M-202",
+    "description": "Quarterly greasing: DE bearing — 21g of Shell Gadus S2 V220. NDE bearing — 27g. Vibration before/after: DE 4.3/2.1 mm/s, NDE 1.6/2.5 mm/s. No abnormal noise.",
+    "duration_hours": 50.6,
+    "estimated_cost_inr": 21906.0,
+    "personnel": [
+      "EMP-003",
+      "EMP-007",
+      "EMP-029"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0018",
+    "type": "EM",
+    "date": "2025-02-11",
+    "status": "completed",
+    "equipment_tag": "P-101B",
+    "description": "Emergency: Pump tripped on high vibration (6.3 mm/s). Coupling guard removed — found coupling spider completely disintegrated. Coupling replaced (Rexnord Omega E40). Alignment checked and adjusted. Pump restarted after 10.4hrs.",
+    "duration_hours": 37.0,
+    "estimated_cost_inr": 366751.0,
+    "personnel": [
+      "EMP-003",
+      "EMP-029",
+      "EMP-007"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0173",
+    "type": "CM",
+    "date": "2025-02-17",
+    "status": "completed",
+    "equipment_tag": "C-201",
+    "description": "Corrective: 2nd stage discharge temperature high (100°C vs alarm at 155°C). Found stuck discharge valve (plate fragment lodged). Valve replaced. Intercooler checked — satisfactory.",
+    "duration_hours": 52.6,
+    "estimated_cost_inr": 66829.0,
+    "personnel": [
+      "EMP-002",
+      "EMP-009",
+      "EMP-032"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0086",
+    "type": "CM",
+    "date": "2025-02-19",
+    "status": "completed",
+    "equipment_tag": "P-502",
+    "description": "Corrective: DE bearing replaced (SKF 7314). High vibration detected during routine round (5.2 mm/s overall, alarm at 7.1). Bearing showed inner race spalling. Vibration after replacement: 3.3 mm/s.",
+    "duration_hours": 32.7,
+    "estimated_cost_inr": 142869.0,
+    "personnel": [
+      "EMP-008",
+      "EMP-007",
+      "EMP-014"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0273",
+    "type": "PM",
+    "date": "2025-02-25",
+    "status": "completed",
+    "equipment_tag": "PSV-101",
+    "description": "Annual pop test: Valve removed and bench tested. Set pressure: 26.0 bar (nameplate: 28.2 bar). Reseat pressure: 44.6 bar. Valve reseated — set pressure adjusted to 28.2 bar ±3%. New gaskets installed. Tag sealed.",
+    "duration_hours": 22.0,
+    "estimated_cost_inr": 6297.0,
+    "personnel": [
+      "EMP-010",
+      "EMP-008"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0293",
+    "type": "PM",
+    "date": "2025-02-25",
+    "status": "completed",
+    "equipment_tag": "B-101",
+    "description": "Annual IBR inspection preparation: Boiler cooled down, waterside opened for inspection. Tube thickness measurements taken at 24 CMLs — minimum remaining: 6.5mm (original: 11.9mm). Corrosion rate: 0.26 mm/yr. Next inspection due: 2026.",
+    "duration_hours": 31.8,
+    "estimated_cost_inr": 17248.0,
+    "personnel": [
+      "EMP-001"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0097",
+    "type": "PdM",
+    "date": "2025-03-06",
+    "status": "completed",
+    "equipment_tag": "P-503",
+    "description": "Predictive: Oil analysis showed high Fe content (75 ppm vs normal <50 ppm). Bearing inspection revealed early stage pitting on outer race. Bearing preemptively replaced (SKF 6316). Oil flushed and replaced.",
+    "duration_hours": 57.3,
+    "estimated_cost_inr": 18749.0,
+    "personnel": [
+      "EMP-009"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0037",
+    "type": "PM",
+    "date": "2025-03-15",
+    "status": "completed",
+    "equipment_tag": "P-201B",
+    "description": "Annual overhaul: Impeller, wear rings, mechanical seal (John Crane Type 5610), and bearings (SKF 6314) replaced. Alignment set to 0.05mm/0.03mm. Performance test: head 118m, flow 16m³/hr.",
+    "duration_hours": 40.8,
+    "estimated_cost_inr": 49916.0,
+    "personnel": [
+      "EMP-008",
+      "EMP-036",
+      "EMP-010"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0296",
+    "type": "PM",
+    "date": "2025-03-16",
+    "status": "completed",
+    "equipment_tag": "B-101",
+    "description": "Annual IBR inspection preparation: Boiler cooled down, waterside opened for inspection. Tube thickness measurements taken at 24 CMLs — minimum remaining: 5.0mm (original: 9.9mm). Corrosion rate: 0.15 mm/yr. Next inspection due: 2026.",
+    "duration_hours": 33.9,
+    "estimated_cost_inr": 48495.0,
+    "personnel": [
+      "EMP-032"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0160",
+    "type": "PM",
+    "date": "2025-03-21",
+    "status": "completed",
+    "equipment_tag": "C-101",
+    "description": "8000-hour service: Air/oil filter replaced, oil separator element replaced, minimum pressure valve checked. Oil (Atlas Copco Roto-Inject) replaced — 28 liters. Air end inlet valve inspected. Running hours: 7.1.",
+    "duration_hours": 1.6,
+    "estimated_cost_inr": 18476.0,
+    "personnel": [
+      "EMP-008",
+      "EMP-037",
+      "EMP-021"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0171",
+    "type": "CM",
+    "date": "2025-03-27",
+    "status": "completed",
+    "equipment_tag": "C-201",
+    "description": "Corrective: 2nd stage discharge temperature high (149°C vs alarm at 155°C). Found stuck discharge valve (plate fragment lodged). Valve replaced. Intercooler checked — satisfactory.",
+    "duration_hours": 60.1,
+    "estimated_cost_inr": 199298.0,
+    "personnel": [
+      "EMP-003",
+      "EMP-022"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0223",
+    "type": "PM",
+    "date": "2025-03-27",
+    "status": "completed",
+    "equipment_tag": "M-201B",
+    "description": "Quarterly greasing: DE bearing — 22g of SKF LGMT 2. NDE bearing — 19g. Vibration before/after: DE 2.9/2.2 mm/s, NDE 3.7/1.1 mm/s. No abnormal noise.",
+    "duration_hours": 8.3,
+    "estimated_cost_inr": 22907.0,
+    "personnel": [
+      "EMP-036"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0163",
+    "type": "PM",
+    "date": "2025-03-28",
+    "status": "completed",
+    "equipment_tag": "C-101",
+    "description": "8000-hour service: Air/oil filter replaced, oil separator element replaced, minimum pressure valve checked. Oil (Atlas Copco Roto-Inject) replaced — 28 liters. Air end inlet valve inspected. Running hours: 20.5.",
+    "duration_hours": 12.7,
+    "estimated_cost_inr": 14332.0,
+    "personnel": [
+      "EMP-029",
+      "EMP-031"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0186",
+    "type": "PM",
+    "date": "2025-04-04",
+    "status": "completed",
+    "equipment_tag": "C-202",
+    "description": "Annual overhaul: Piston rings, rider rings, and packing rings replaced on both stages. Cylinder bore measured — within tolerance (200.1mm vs nominal 200.0mm). Crosshead pin and bearing clearance checked — satisfactory.",
+    "duration_hours": 26.1,
+    "estimated_cost_inr": 17908.0,
+    "personnel": [
+      "EMP-028",
+      "EMP-008"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0161",
+    "type": "CM",
+    "date": "2025-04-07",
+    "status": "completed",
+    "equipment_tag": "C-101",
+    "description": "Corrective: High discharge air temperature (79°C vs alarm at 110°C). Found blocked oil cooler (external dust buildup). Cooler cleaned with compressed air. Temperature normalized to 72°C.",
+    "duration_hours": 70.6,
+    "estimated_cost_inr": 48799.0,
+    "personnel": [
+      "EMP-038",
+      "EMP-028"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0083",
+    "type": "EM",
+    "date": "2025-04-09",
+    "status": "completed",
+    "equipment_tag": "P-502",
+    "description": "Emergency: Pump tripped on high vibration (9.6 mm/s). Coupling guard removed — found coupling spider completely disintegrated. Coupling replaced (Rexnord Omega E40). Alignment checked and adjusted. Pump restarted after 15.0hrs.",
+    "duration_hours": 3.8,
+    "estimated_cost_inr": 341836.0,
+    "personnel": [
+      "EMP-031",
+      "EMP-002"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0291",
+    "type": "CM",
+    "date": "2025-04-09",
+    "status": "completed",
+    "equipment_tag": "B-101",
+    "description": "Corrective: Boiler tripped on low drum level. Investigation found BFW pump tripped on overload. BFW pump motor checked — found single phasing due to loose terminal. Terminal re-crimped, motor megger: 1099 MΩ. Boiler restarted after 10.4 hours.",
+    "duration_hours": 34.0,
+    "estimated_cost_inr": 83446.0,
+    "personnel": [
+      "EMP-002",
+      "EMP-024"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0088",
+    "type": "CM",
+    "date": "2025-04-10",
+    "status": "completed",
+    "equipment_tag": "P-502",
+    "description": "Corrective: DE bearing replaced (SKF 6318). High vibration detected during routine round (7.7 mm/s overall, alarm at 7.1). Bearing showed inner race spalling. Vibration after replacement: 2.8 mm/s.",
+    "duration_hours": 68.8,
+    "estimated_cost_inr": 108136.0,
+    "personnel": [
+      "EMP-014",
+      "EMP-023",
+      "EMP-029"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0131",
+    "type": "PM",
+    "date": "2025-04-14",
+    "status": "completed",
+    "equipment_tag": "HX-203",
+    "description": "Annual CIP cleaning: Shell side circulated with 5% HCl solution for 4 hours at 60°C, followed by neutralization and passivation. Fouling factor improved from 0.0006 to 0.0001 m².K/kW.",
+    "duration_hours": 45.6,
+    "estimated_cost_inr": 11057.0,
+    "personnel": [
+      "EMP-032",
+      "EMP-014"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0288",
+    "type": "PM",
+    "date": "2025-04-16",
+    "status": "completed",
+    "equipment_tag": "PSV-401",
+    "description": "Annual pop test: Valve removed and bench tested. Set pressure: 29.5 bar (nameplate: 43.2 bar). Reseat pressure: 21.2 bar. Valve reseated — set pressure adjusted to 43.2 bar ±3%. New gaskets installed. Tag sealed.",
+    "duration_hours": 32.0,
+    "estimated_cost_inr": 25040.0,
+    "personnel": [
+      "EMP-001",
+      "EMP-032"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0103",
+    "type": "CM",
+    "date": "2025-04-22",
+    "status": "completed",
+    "equipment_tag": "P-601",
+    "description": "Corrective: DE bearing replaced (SKF 7314). High vibration detected during routine round (4.7 mm/s overall, alarm at 7.1). Bearing showed inner race spalling. Vibration after replacement: 3.1 mm/s.",
+    "duration_hours": 44.2,
+    "estimated_cost_inr": 166622.0,
+    "personnel": [
+      "EMP-028",
+      "EMP-002"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0008",
+    "type": "CM",
+    "date": "2025-04-23",
+    "status": "completed",
+    "equipment_tag": "P-101A",
+    "description": "Corrective: Mechanical seal replaced due to excessive leakage (~24 drops/min). Root cause: dry running during suction strainer cleaning. New seal installed (John Crane 5610). No shaft damage.",
+    "duration_hours": 66.7,
+    "estimated_cost_inr": 112306.0,
+    "personnel": [
+      "EMP-029",
+      "EMP-001",
+      "EMP-036"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0249",
+    "type": "CM",
+    "date": "2025-04-29",
+    "status": "completed",
+    "equipment_tag": "FV-201",
+    "description": "Corrective: Valve sticking at 60% open. Field investigation found corroded stem. Stem cleaned and polished, packing replaced, actuator bench set adjusted. Stroke time improved from 8.6s to 5.6s.",
+    "duration_hours": 10.1,
+    "estimated_cost_inr": 134711.0,
+    "personnel": [
+      "EMP-032",
+      "EMP-021"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0201",
+    "type": "PM",
+    "date": "2025-04-30",
+    "status": "completed",
+    "equipment_tag": "M-101A",
+    "description": "Annual insulation test: Megger at 500V DC — Phase R: 630 MΩ, Phase Y: 2327 MΩ, Phase B: 552 MΩ. PI (Polarization Index): 2.4. All within acceptable limits (>100 MΩ corrected to 40°C, PI > 2.0).",
+    "duration_hours": 23.7,
+    "estimated_cost_inr": 11660.0,
+    "personnel": [
+      "EMP-031",
+      "EMP-007",
+      "EMP-008"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0003",
+    "type": "PM",
+    "date": "2025-05-14",
+    "status": "completed",
+    "equipment_tag": "P-101A",
+    "description": "Annual overhaul: Impeller, wear rings, mechanical seal (John Crane Type 5610), and bearings (SKF NU316) replaced. Alignment set to 0.05mm/0.03mm. Performance test: head 94m, flow 32m³/hr.",
+    "duration_hours": 47.8,
+    "estimated_cost_inr": 47608.0,
+    "personnel": [
+      "EMP-008"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0287",
+    "type": "PM",
+    "date": "2025-05-16",
+    "status": "completed",
+    "equipment_tag": "PSV-401",
+    "description": "Annual pop test: Valve removed and bench tested. Set pressure: 23.7 bar (nameplate: 37.7 bar). Reseat pressure: 43.6 bar. Valve reseated — set pressure adjusted to 37.7 bar ±3%. New gaskets installed. Tag sealed.",
+    "duration_hours": 32.7,
+    "estimated_cost_inr": 15448.0,
+    "personnel": [
+      "EMP-022",
+      "EMP-029",
+      "EMP-028"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0026",
+    "type": "CM",
+    "date": "2025-05-29",
+    "status": "completed",
+    "equipment_tag": "P-201A",
+    "description": "Corrective: Mechanical seal replaced due to excessive leakage (~59 drops/min). Root cause: dry running during suction strainer cleaning. New seal installed (John Crane 5610). No shaft damage.",
+    "duration_hours": 5.8,
+    "estimated_cost_inr": 94020.0,
+    "personnel": [
+      "EMP-023",
+      "EMP-008",
+      "EMP-031"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0139",
+    "type": "PM",
+    "date": "2025-06-02",
+    "status": "completed",
+    "equipment_tag": "HX-101",
+    "description": "Annual CIP cleaning: Shell side circulated with 5% HCl solution for 4 hours at 60°C, followed by neutralization and passivation. Fouling factor improved from 0.0005 to 0.0002 m².K/kW.",
+    "duration_hours": 36.0,
+    "estimated_cost_inr": 20263.0,
+    "personnel": [
+      "EMP-009",
+      "EMP-036"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0207",
+    "type": "PM",
+    "date": "2025-06-11",
+    "status": "completed",
+    "equipment_tag": "M-101A",
+    "description": "Annual insulation test: Megger at 500V DC — Phase R: 1351 MΩ, Phase Y: 2677 MΩ, Phase B: 2187 MΩ. PI (Polarization Index): 4.3. All within acceptable limits (>100 MΩ corrected to 40°C, PI > 2.0).",
+    "duration_hours": 33.7,
+    "estimated_cost_inr": 7446.0,
+    "personnel": [
+      "EMP-001",
+      "EMP-031",
+      "EMP-036"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0113",
+    "type": "PM",
+    "date": "2025-06-13",
+    "status": "completed",
+    "equipment_tag": "HX-201",
+    "description": "Annual inspection: Bundle pulled for visual inspection. Light scaling on OD observed. Gaskets replaced (Klingersil C-4430). Shell flange faces inspected — no damage. Bolts re-torqued to 247 Nm using cross-pattern.",
+    "duration_hours": 39.0,
+    "estimated_cost_inr": 5485.0,
+    "personnel": [
+      "EMP-022",
+      "EMP-002",
+      "EMP-023"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0289",
+    "type": "PM",
+    "date": "2025-06-14",
+    "status": "completed",
+    "equipment_tag": "B-101",
+    "description": "Annual IBR inspection preparation: Boiler cooled down, waterside opened for inspection. Tube thickness measurements taken at 24 CMLs — minimum remaining: 7.5mm (original: 8.7mm). Corrosion rate: 0.15 mm/yr. Next inspection due: 2026.",
+    "duration_hours": 58.3,
+    "estimated_cost_inr": 13792.0,
+    "personnel": [
+      "EMP-001"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0147",
+    "type": "PM",
+    "date": "2025-06-18",
+    "status": "completed",
+    "equipment_tag": "HX-502",
+    "description": "Annual CIP cleaning: Shell side circulated with 5% HCl solution for 4 hours at 60°C, followed by neutralization and passivation. Fouling factor improved from 0.0007 to 0.0002 m².K/kW.",
+    "duration_hours": 52.2,
+    "estimated_cost_inr": 19116.0,
+    "personnel": [
+      "EMP-037",
+      "EMP-022"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0251",
+    "type": "CM",
+    "date": "2025-06-19",
+    "status": "completed",
+    "equipment_tag": "FV-201",
+    "description": "Corrective: Valve sticking at 44% open. Field investigation found corroded stem. Stem cleaned and polished, packing replaced, actuator bench set adjusted. Stroke time improved from 24.6s to 5.5s.",
+    "duration_hours": 4.3,
+    "estimated_cost_inr": 111300.0,
+    "personnel": [
+      "EMP-008",
+      "EMP-036",
+      "EMP-037"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0056",
+    "type": "PM",
+    "date": "2025-06-20",
+    "status": "completed",
+    "equipment_tag": "P-202",
+    "description": "Annual overhaul: Impeller, wear rings, mechanical seal (John Crane Type 5610), and bearings (SKF 7314) replaced. Alignment set to 0.05mm/0.03mm. Performance test: head 92m, flow 22m³/hr.",
+    "duration_hours": 55.2,
+    "estimated_cost_inr": 47950.0,
+    "personnel": [
+      "EMP-029",
+      "EMP-024",
+      "EMP-009"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0055",
+    "type": "PM",
+    "date": "2025-06-22",
+    "status": "completed",
+    "equipment_tag": "P-202",
+    "description": "Annual overhaul: Impeller, wear rings, mechanical seal (John Crane Type 5610), and bearings (SKF 6314) replaced. Alignment set to 0.05mm/0.03mm. Performance test: head 115m, flow 38m³/hr.",
+    "duration_hours": 41.0,
+    "estimated_cost_inr": 32464.0,
+    "personnel": [
+      "EMP-036"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0093",
+    "type": "PM",
+    "date": "2025-06-23",
+    "status": "completed",
+    "equipment_tag": "P-502",
+    "description": "Quarterly PM: Vibration check (overall 4.7 mm/s), bearing temperature check (DE: 77°C), alignment verification, coupling inspection, seal face inspection. All readings within acceptable limits.",
+    "duration_hours": 2.4,
+    "estimated_cost_inr": 7233.0,
+    "personnel": [
+      "EMP-023"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0017",
+    "type": "CM",
+    "date": "2025-06-24",
+    "status": "completed",
+    "equipment_tag": "P-101B",
+    "description": "Corrective: DE bearing replaced (SKF 7314). High vibration detected during routine round (9.5 mm/s overall, alarm at 7.1). Bearing showed inner race spalling. Vibration after replacement: 2.4 mm/s.",
+    "duration_hours": 25.5,
+    "estimated_cost_inr": 114864.0,
+    "personnel": [
+      "EMP-037",
+      "EMP-032"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0019",
+    "type": "PM",
+    "date": "2025-06-27",
+    "status": "completed",
+    "equipment_tag": "P-101B",
+    "description": "Quarterly PM: Vibration check (overall 3.2 mm/s), bearing temperature check (DE: 115°C), alignment verification, coupling inspection, seal face inspection. All readings within acceptable limits.",
+    "duration_hours": 20.5,
+    "estimated_cost_inr": 30467.0,
+    "personnel": [
+      "EMP-028"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0110",
+    "type": "CM",
+    "date": "2025-06-27",
+    "status": "completed",
+    "equipment_tag": "HX-201",
+    "description": "Corrective: 4 tubes plugged after eddy current inspection revealed wall loss >40%. IRIS inspection on remaining tubes — 9 tubes show 20-30% wall loss (next inspection in 2 years). Tube bundle remaining life estimated at 3 years.",
+    "duration_hours": 37.1,
+    "estimated_cost_inr": 87080.0,
+    "personnel": [
+      "EMP-038",
+      "EMP-008"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0230",
+    "type": "PM",
+    "date": "2025-06-27",
+    "status": "completed",
+    "equipment_tag": "M-202",
+    "description": "Annual insulation test: Megger at 500V DC — Phase R: 1765 MΩ, Phase Y: 1287 MΩ, Phase B: 2743 MΩ. PI (Polarization Index): 2.2. All within acceptable limits (>100 MΩ corrected to 40°C, PI > 2.0).",
+    "duration_hours": 19.4,
+    "estimated_cost_inr": 24782.0,
+    "personnel": [
+      "EMP-022"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0029",
+    "type": "PM",
+    "date": "2025-06-28",
+    "status": "completed",
+    "equipment_tag": "P-201A",
+    "description": "Annual overhaul: Impeller, wear rings, mechanical seal (John Crane Type 5610), and bearings (SKF 6320) replaced. Alignment set to 0.05mm/0.03mm. Performance test: head 104m, flow 43m³/hr.",
+    "duration_hours": 23.6,
+    "estimated_cost_inr": 9459.0,
+    "personnel": [
+      "EMP-014",
+      "EMP-001"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0121",
+    "type": "PM",
+    "date": "2025-06-29",
+    "status": "completed",
+    "equipment_tag": "HX-203",
+    "description": "Annual CIP cleaning: Shell side circulated with 5% HCl solution for 4 hours at 60°C, followed by neutralization and passivation. Fouling factor improved from 0.0005 to 0.0001 m².K/kW.",
+    "duration_hours": 30.2,
+    "estimated_cost_inr": 28480.0,
+    "personnel": [
+      "EMP-003"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0202",
+    "type": "PM",
+    "date": "2025-07-04",
+    "status": "completed",
+    "equipment_tag": "M-101A",
+    "description": "Quarterly greasing: DE bearing — 31g of SKF LGMT 2. NDE bearing — 13g. Vibration before/after: DE 3.9/1.6 mm/s, NDE 3.2/1.6 mm/s. No abnormal noise.",
+    "duration_hours": 20.7,
+    "estimated_cost_inr": 12389.0,
+    "personnel": [
+      "EMP-003"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0297",
+    "type": "CM",
+    "date": "2025-07-09",
+    "status": "completed",
+    "equipment_tag": "B-101",
+    "description": "Corrective: Boiler tripped on low drum level. Investigation found BFW pump tripped on overload. BFW pump motor checked — found single phasing due to loose terminal. Terminal re-crimped, motor megger: 632 MΩ. Boiler restarted after 4.1 hours.",
+    "duration_hours": 39.3,
+    "estimated_cost_inr": 153597.0,
+    "personnel": [
+      "EMP-038",
+      "EMP-037",
+      "EMP-022"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0120",
+    "type": "PM",
+    "date": "2025-07-11",
+    "status": "completed",
+    "equipment_tag": "HX-203",
+    "description": "Annual inspection: Bundle pulled for visual inspection. Light scaling on OD observed. Gaskets replaced (Klingersil C-4430). Shell flange faces inspected — no damage. Bolts re-torqued to 249 Nm using cross-pattern.",
+    "duration_hours": 37.6,
+    "estimated_cost_inr": 8189.0,
+    "personnel": [
+      "EMP-032"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0077",
+    "type": "CM",
+    "date": "2025-07-16",
+    "status": "completed",
+    "equipment_tag": "P-501",
+    "description": "Corrective: Mechanical seal replaced due to excessive leakage (~18 drops/min). Root cause: dry running during suction strainer cleaning. New seal installed (John Crane 5610). No shaft damage.",
+    "duration_hours": 50.0,
+    "estimated_cost_inr": 66077.0,
+    "personnel": [
+      "EMP-002"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0010",
+    "type": "PM",
+    "date": "2025-07-21",
+    "status": "completed",
+    "equipment_tag": "P-101A",
+    "description": "Quarterly PM: Vibration check (overall 5.9 mm/s), bearing temperature check (DE: 143°C), alignment verification, coupling inspection, seal face inspection. All readings within acceptable limits.",
+    "duration_hours": 6.7,
+    "estimated_cost_inr": 11787.0,
+    "personnel": [
+      "EMP-023",
+      "EMP-037"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0119",
+    "type": "PM",
+    "date": "2025-07-23",
+    "status": "completed",
+    "equipment_tag": "HX-203",
+    "description": "Annual CIP cleaning: Shell side circulated with 5% HCl solution for 4 hours at 60°C, followed by neutralization and passivation. Fouling factor improved from 0.0005 to 0.0002 m².K/kW.",
+    "duration_hours": 15.6,
+    "estimated_cost_inr": 33792.0,
+    "personnel": [
+      "EMP-032",
+      "EMP-008"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0255",
+    "type": "CM",
+    "date": "2025-07-27",
+    "status": "completed",
+    "equipment_tag": "FV-201",
+    "description": "Corrective: Valve sticking at 55% open. Field investigation found corroded stem. Stem cleaned and polished, packing replaced, actuator bench set adjusted. Stroke time improved from 13.3s to 4.5s.",
+    "duration_hours": 7.4,
+    "estimated_cost_inr": 123614.0,
+    "personnel": [
+      "EMP-003",
+      "EMP-010",
+      "EMP-038"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0108",
+    "type": "CM",
+    "date": "2025-08-05",
+    "status": "completed",
+    "equipment_tag": "HX-201",
+    "description": "Corrective: 1 tubes plugged after eddy current inspection revealed wall loss >40%. IRIS inspection on remaining tubes — 15 tubes show 20-30% wall loss (next inspection in 2 years). Tube bundle remaining life estimated at 6 years.",
+    "duration_hours": 11.9,
+    "estimated_cost_inr": 74622.0,
+    "personnel": [
+      "EMP-001",
+      "EMP-032",
+      "EMP-036"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0059",
+    "type": "PM",
+    "date": "2025-08-10",
+    "status": "completed",
+    "equipment_tag": "P-401",
+    "description": "Quarterly PM: Vibration measurement on all bearing positions. DE axial: 10.6 mm/s, NDE radial: 4.1 mm/s. Coupling guard inspection, oil level check, seal leakage check — all satisfactory.",
+    "duration_hours": 10.5,
+    "estimated_cost_inr": 41898.0,
+    "personnel": [
+      "EMP-003",
+      "EMP-007",
+      "EMP-036"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0079",
+    "type": "CM",
+    "date": "2025-08-13",
+    "status": "completed",
+    "equipment_tag": "P-501",
+    "description": "Corrective: Mechanical seal replaced due to excessive leakage (~9 drops/min). Root cause: dry running during suction strainer cleaning. New seal installed (John Crane 5610). No shaft damage.",
+    "duration_hours": 2.8,
+    "estimated_cost_inr": 108205.0,
+    "personnel": [
+      "EMP-037",
+      "EMP-022"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0227",
+    "type": "PM",
+    "date": "2025-08-17",
+    "status": "completed",
+    "equipment_tag": "M-202",
+    "description": "Annual insulation test: Megger at 500V DC — Phase R: 4078 MΩ, Phase Y: 1914 MΩ, Phase B: 1577 MΩ. PI (Polarization Index): 2.0. All within acceptable limits (>100 MΩ corrected to 40°C, PI > 2.0).",
+    "duration_hours": 10.7,
+    "estimated_cost_inr": 41326.0,
+    "personnel": [
+      "EMP-002"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0219",
+    "type": "PM",
+    "date": "2025-08-20",
+    "status": "completed",
+    "equipment_tag": "M-201B",
+    "description": "Quarterly greasing: DE bearing — 33g of Shell Gadus S2 V220. NDE bearing — 28g. Vibration before/after: DE 3.7/1.1 mm/s, NDE 3.9/3.0 mm/s. No abnormal noise.",
+    "duration_hours": 36.0,
+    "estimated_cost_inr": 7173.0,
+    "personnel": [
+      "EMP-022"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0245",
+    "type": "CM",
+    "date": "2025-08-20",
+    "status": "completed",
+    "equipment_tag": "FV-101",
+    "description": "Corrective: Valve sticking at 56% open. Field investigation found corroded stem. Stem cleaned and polished, packing replaced, actuator bench set adjusted. Stroke time improved from 22.0s to 5.6s.",
+    "duration_hours": 34.3,
+    "estimated_cost_inr": 97553.0,
+    "personnel": [
+      "EMP-010",
+      "EMP-009",
+      "EMP-023"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0041",
+    "type": "CM",
+    "date": "2025-08-22",
+    "status": "completed",
+    "equipment_tag": "P-201B",
+    "description": "Corrective: DE bearing replaced (SKF NU316). High vibration detected during routine round (9.5 mm/s overall, alarm at 7.1). Bearing showed inner race spalling. Vibration after replacement: 3.1 mm/s.",
+    "duration_hours": 71.6,
+    "estimated_cost_inr": 187571.0,
+    "personnel": [
+      "EMP-003",
+      "EMP-037"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0042",
+    "type": "PM",
+    "date": "2025-08-24",
+    "status": "completed",
+    "equipment_tag": "P-201B",
+    "description": "Quarterly PM: Vibration check (overall 1.8 mm/s), bearing temperature check (DE: 113°C), alignment verification, coupling inspection, seal face inspection. All readings within acceptable limits.",
+    "duration_hours": 8.2,
+    "estimated_cost_inr": 6511.0,
+    "personnel": [
+      "EMP-003"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0228",
+    "type": "PM",
+    "date": "2025-08-24",
+    "status": "completed",
+    "equipment_tag": "M-202",
+    "description": "Quarterly greasing: DE bearing — 21g of Shell Gadus S2 V220. NDE bearing — 22g. Vibration before/after: DE 4.2/1.3 mm/s, NDE 2.8/1.8 mm/s. No abnormal noise.",
+    "duration_hours": 65.7,
+    "estimated_cost_inr": 46211.0,
+    "personnel": [
+      "EMP-022",
+      "EMP-023",
+      "EMP-007"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0218",
+    "type": "PM",
+    "date": "2025-08-25",
+    "status": "completed",
+    "equipment_tag": "M-201B",
+    "description": "Annual insulation test: Megger at 500V DC — Phase R: 3539 MΩ, Phase Y: 4990 MΩ, Phase B: 1331 MΩ. PI (Polarization Index): 4.4. All within acceptable limits (>100 MΩ corrected to 40°C, PI > 2.0).",
+    "duration_hours": 2.1,
+    "estimated_cost_inr": 10435.0,
+    "personnel": [
+      "EMP-031"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0122",
+    "type": "PM",
+    "date": "2025-08-27",
+    "status": "completed",
+    "equipment_tag": "HX-203",
+    "description": "Annual CIP cleaning: Shell side circulated with 5% HCl solution for 4 hours at 60°C, followed by neutralization and passivation. Fouling factor improved from 0.0007 to 0.0002 m².K/kW.",
+    "duration_hours": 62.1,
+    "estimated_cost_inr": 8181.0,
+    "personnel": [
+      "EMP-031",
+      "EMP-001"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0034",
+    "type": "PdM",
+    "date": "2025-09-07",
+    "status": "completed",
+    "equipment_tag": "P-201A",
+    "description": "Predictive: Oil analysis showed high Fe content (93 ppm vs normal <50 ppm). Bearing inspection revealed early stage pitting on outer race. Bearing preemptively replaced (SKF 7314). Oil flushed and replaced.",
+    "duration_hours": 68.3,
+    "estimated_cost_inr": 24276.0,
+    "personnel": [
+      "EMP-002"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0095",
+    "type": "CM",
+    "date": "2025-09-12",
+    "status": "completed",
+    "equipment_tag": "P-503",
+    "description": "Corrective: Mechanical seal replaced due to excessive leakage (~42 drops/min). Root cause: dry running during suction strainer cleaning. New seal installed (John Crane 5610). No shaft damage.",
+    "duration_hours": 51.2,
+    "estimated_cost_inr": 116215.0,
+    "personnel": [
+      "EMP-002",
+      "EMP-032"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0051",
+    "type": "EM",
+    "date": "2025-09-16",
+    "status": "completed",
+    "equipment_tag": "P-202",
+    "description": "Emergency: Pump tripped on high vibration (5.2 mm/s). Coupling guard removed — found coupling spider completely disintegrated. Coupling replaced (Rexnord Omega E40). Alignment checked and adjusted. Pump restarted after 5.6hrs.",
+    "duration_hours": 18.2,
+    "estimated_cost_inr": 256037.0,
+    "personnel": [
+      "EMP-028",
+      "EMP-007",
+      "EMP-024"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0261",
+    "type": "CM",
+    "date": "2025-09-18",
+    "status": "completed",
+    "equipment_tag": "TV-201",
+    "description": "Corrective: Valve sticking at 64% open. Field investigation found corroded stem. Stem cleaned and polished, packing replaced, actuator bench set adjusted. Stroke time improved from 8.9s to 5.5s.",
+    "duration_hours": 66.6,
+    "estimated_cost_inr": 10900.0,
+    "personnel": [
+      "EMP-007"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0254",
+    "type": "PM",
+    "date": "2025-09-21",
+    "status": "completed",
+    "equipment_tag": "FV-201",
+    "description": "Annual overhaul: Valve removed from line. Trim (plug, seat ring, cage) inspected — moderate erosion on seat ring. Seat lapped. Packing replaced (PTFE/graphite). Actuator diaphragm inspected — no cracks. Positioner calibrated: 4-20mA input, 3-15 psi output, linearity < 0.5%.",
+    "duration_hours": 20.6,
+    "estimated_cost_inr": 40267.0,
+    "personnel": [
+      "EMP-024",
+      "EMP-038",
+      "EMP-014"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0175",
+    "type": "CM",
+    "date": "2025-09-27",
+    "status": "completed",
+    "equipment_tag": "C-201",
+    "description": "Corrective: 2nd stage discharge temperature high (145°C vs alarm at 155°C). Found stuck discharge valve (plate fragment lodged). Valve replaced. Intercooler checked — satisfactory.",
+    "duration_hours": 54.5,
+    "estimated_cost_inr": 49418.0,
+    "personnel": [
+      "EMP-038",
+      "EMP-037",
+      "EMP-007"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0096",
+    "type": "EM",
+    "date": "2025-09-30",
+    "status": "completed",
+    "equipment_tag": "P-503",
+    "description": "Emergency: Pump tripped on high vibration (3.5 mm/s). Coupling guard removed — found coupling spider completely disintegrated. Coupling replaced (Rexnord Omega E40). Alignment checked and adjusted. Pump restarted after 8.5hrs.",
+    "duration_hours": 10.8,
+    "estimated_cost_inr": 64318.0,
+    "personnel": [
+      "EMP-032"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0231",
+    "type": "PM",
+    "date": "2025-09-30",
+    "status": "completed",
+    "equipment_tag": "M-202",
+    "description": "Annual insulation test: Megger at 500V DC — Phase R: 4027 MΩ, Phase Y: 2845 MΩ, Phase B: 3249 MΩ. PI (Polarization Index): 4.3. All within acceptable limits (>100 MΩ corrected to 40°C, PI > 2.0).",
+    "duration_hours": 47.0,
+    "estimated_cost_inr": 9509.0,
+    "personnel": [
+      "EMP-023",
+      "EMP-038"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0205",
+    "type": "PM",
+    "date": "2025-10-01",
+    "status": "completed",
+    "equipment_tag": "M-101A",
+    "description": "Quarterly greasing: DE bearing — 26g of Shell Gadus S2 V220. NDE bearing — 20g. Vibration before/after: DE 3.9/1.6 mm/s, NDE 2.8/1.0 mm/s. No abnormal noise.",
+    "duration_hours": 21.5,
+    "estimated_cost_inr": 48626.0,
+    "personnel": [
+      "EMP-031",
+      "EMP-024"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0276",
+    "type": "PM",
+    "date": "2025-10-03",
+    "status": "completed",
+    "equipment_tag": "PSV-101",
+    "description": "Annual pop test: Valve removed and bench tested. Set pressure: 31.7 bar (nameplate: 49.0 bar). Reseat pressure: 35.2 bar. Valve reseated — set pressure adjusted to 49.0 bar ±3%. New gaskets installed. Tag sealed.",
+    "duration_hours": 2.7,
+    "estimated_cost_inr": 5556.0,
+    "personnel": [
+      "EMP-036"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0198",
+    "type": "PM",
+    "date": "2025-10-09",
+    "status": "completed",
+    "equipment_tag": "C-301",
+    "description": "Six-monthly valve inspection: 1st stage suction and discharge valves removed and inspected. Suction valve plate showing wear (2.1mm remaining vs 3mm new). Replaced both suction valve plates and springs. Discharge valves satisfactory.",
+    "duration_hours": 15.1,
+    "estimated_cost_inr": 9139.0,
+    "personnel": [
+      "EMP-021",
+      "EMP-032"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0204",
+    "type": "PM",
+    "date": "2025-10-11",
+    "status": "completed",
+    "equipment_tag": "M-101A",
+    "description": "Quarterly greasing: DE bearing — 30g of SKF LGMT 2. NDE bearing — 13g. Vibration before/after: DE 3.2/1.9 mm/s, NDE 3.6/2.5 mm/s. No abnormal noise.",
+    "duration_hours": 22.6,
+    "estimated_cost_inr": 38128.0,
+    "personnel": [
+      "EMP-007"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0158",
+    "type": "PM",
+    "date": "2025-10-12",
+    "status": "completed",
+    "equipment_tag": "C-101",
+    "description": "8000-hour service: Air/oil filter replaced, oil separator element replaced, minimum pressure valve checked. Oil (Atlas Copco Roto-Inject) replaced — 28 liters. Air end inlet valve inspected. Running hours: 20.2.",
+    "duration_hours": 58.5,
+    "estimated_cost_inr": 34741.0,
+    "personnel": [
+      "EMP-014",
+      "EMP-024"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0032",
+    "type": "PM",
+    "date": "2025-10-13",
+    "status": "completed",
+    "equipment_tag": "P-201A",
+    "description": "Annual overhaul: Impeller, wear rings, mechanical seal (John Crane Type 5610), and bearings (SKF 6314) replaced. Alignment set to 0.05mm/0.03mm. Performance test: head 103m, flow 33m³/hr.",
+    "duration_hours": 32.5,
+    "estimated_cost_inr": 8460.0,
+    "personnel": [
+      "EMP-031",
+      "EMP-024",
+      "EMP-037"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0134",
+    "type": "PM",
+    "date": "2025-10-14",
+    "status": "completed",
+    "equipment_tag": "HX-101",
+    "description": "Annual CIP cleaning: Shell side circulated with 5% HCl solution for 4 hours at 60°C, followed by neutralization and passivation. Fouling factor improved from 0.0004 to 0.0002 m².K/kW.",
+    "duration_hours": 11.5,
+    "estimated_cost_inr": 11771.0,
+    "personnel": [
+      "EMP-010",
+      "EMP-024",
+      "EMP-031"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0294",
+    "type": "CM",
+    "date": "2025-10-18",
+    "status": "completed",
+    "equipment_tag": "B-101",
+    "description": "Corrective: Boiler tripped on low drum level. Investigation found BFW pump tripped on overload. BFW pump motor checked — found single phasing due to loose terminal. Terminal re-crimped, motor megger: 1169 MΩ. Boiler restarted after 22.4 hours.",
+    "duration_hours": 24.9,
+    "estimated_cost_inr": 123617.0,
+    "personnel": [
+      "EMP-009"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0016",
+    "type": "CM",
+    "date": "2025-10-21",
+    "status": "completed",
+    "equipment_tag": "P-101B",
+    "description": "Corrective: Mechanical seal replaced due to excessive leakage (~57 drops/min). Root cause: dry running during suction strainer cleaning. New seal installed (John Crane 5610). No shaft damage.",
+    "duration_hours": 14.3,
+    "estimated_cost_inr": 78738.0,
+    "personnel": [
+      "EMP-029",
+      "EMP-002"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0182",
+    "type": "PM",
+    "date": "2025-10-25",
+    "status": "completed",
+    "equipment_tag": "C-202",
+    "description": "Six-monthly valve inspection: 1st stage suction and discharge valves removed and inspected. Suction valve plate showing wear (2.5mm remaining vs 3mm new). Replaced both suction valve plates and springs. Discharge valves satisfactory.",
+    "duration_hours": 7.9,
+    "estimated_cost_inr": 5615.0,
+    "personnel": [
+      "EMP-022",
+      "EMP-007"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0195",
+    "type": "CM",
+    "date": "2025-10-25",
+    "status": "completed",
+    "equipment_tag": "C-301",
+    "description": "Corrective: 2nd stage discharge temperature high (166°C vs alarm at 155°C). Found stuck discharge valve (plate fragment lodged). Valve replaced. Intercooler checked — satisfactory.",
+    "duration_hours": 40.2,
+    "estimated_cost_inr": 31755.0,
+    "personnel": [
+      "EMP-031"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0197",
+    "type": "PM",
+    "date": "2025-10-29",
+    "status": "completed",
+    "equipment_tag": "C-301",
+    "description": "Six-monthly valve inspection: 1st stage suction and discharge valves removed and inspected. Suction valve plate showing wear (2.2mm remaining vs 3mm new). Replaced both suction valve plates and springs. Discharge valves satisfactory.",
+    "duration_hours": 19.6,
+    "estimated_cost_inr": 13128.0,
+    "personnel": [
+      "EMP-022"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0036",
+    "type": "CM",
+    "date": "2025-11-01",
+    "status": "completed",
+    "equipment_tag": "P-201A",
+    "description": "Corrective: DE bearing replaced (SKF 6316). High vibration detected during routine round (6.3 mm/s overall, alarm at 7.1). Bearing showed inner race spalling. Vibration after replacement: 2.5 mm/s.",
+    "duration_hours": 10.9,
+    "estimated_cost_inr": 186960.0,
+    "personnel": [
+      "EMP-031",
+      "EMP-008",
+      "EMP-036"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0269",
+    "type": "CM",
+    "date": "2025-11-08",
+    "status": "completed",
+    "equipment_tag": "FV-401",
+    "description": "Corrective: Valve sticking at 69% open. Field investigation found corroded stem. Stem cleaned and polished, packing replaced, actuator bench set adjusted. Stroke time improved from 10.1s to 5.1s.",
+    "duration_hours": 32.4,
+    "estimated_cost_inr": 106441.0,
+    "personnel": [
+      "EMP-038",
+      "EMP-002"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0053",
+    "type": "CM",
+    "date": "2025-11-12",
+    "status": "completed",
+    "equipment_tag": "P-202",
+    "description": "Corrective: DE bearing replaced (SKF 6320). High vibration detected during routine round (2.7 mm/s overall, alarm at 7.1). Bearing showed inner race spalling. Vibration after replacement: 2.9 mm/s.",
+    "duration_hours": 62.6,
+    "estimated_cost_inr": 34109.0,
+    "personnel": [
+      "EMP-002",
+      "EMP-021"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0114",
+    "type": "CM",
+    "date": "2025-11-15",
+    "status": "completed",
+    "equipment_tag": "HX-201",
+    "description": "Corrective: 3 tubes plugged after eddy current inspection revealed wall loss >40%. IRIS inspection on remaining tubes — 5 tubes show 20-30% wall loss (next inspection in 2 years). Tube bundle remaining life estimated at 5 years.",
+    "duration_hours": 17.9,
+    "estimated_cost_inr": 93635.0,
+    "personnel": [
+      "EMP-029",
+      "EMP-028"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0080",
+    "type": "CM",
+    "date": "2025-11-19",
+    "status": "completed",
+    "equipment_tag": "P-501",
+    "description": "Corrective: Mechanical seal replaced due to excessive leakage (~9 drops/min). Root cause: dry running during suction strainer cleaning. New seal installed (John Crane 5610). No shaft damage.",
+    "duration_hours": 54.7,
+    "estimated_cost_inr": 121266.0,
+    "personnel": [
+      "EMP-003"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0085",
+    "type": "PM",
+    "date": "2025-11-24",
+    "status": "completed",
+    "equipment_tag": "P-502",
+    "description": "Annual overhaul: Impeller, wear rings, mechanical seal (John Crane Type 5610), and bearings (SKF 6320) replaced. Alignment set to 0.05mm/0.03mm. Performance test: head 107m, flow 45m³/hr.",
+    "duration_hours": 50.5,
+    "estimated_cost_inr": 24303.0,
+    "personnel": [
+      "EMP-029",
+      "EMP-024",
+      "EMP-002"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0266",
+    "type": "CM",
+    "date": "2025-11-25",
+    "status": "completed",
+    "equipment_tag": "PV-201",
+    "description": "Corrective: Valve sticking at 63% open. Field investigation found corroded stem. Stem cleaned and polished, packing replaced, actuator bench set adjusted. Stroke time improved from 20.5s to 5.6s.",
+    "duration_hours": 22.5,
+    "estimated_cost_inr": 162444.0,
+    "personnel": [
+      "EMP-009",
+      "EMP-022"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0023",
+    "type": "PdM",
+    "date": "2025-12-03",
+    "status": "completed",
+    "equipment_tag": "P-201A",
+    "description": "Predictive: Oil analysis showed high Fe content (92 ppm vs normal <50 ppm). Bearing inspection revealed early stage pitting on outer race. Bearing preemptively replaced (SKF 6314). Oil flushed and replaced.",
+    "duration_hours": 7.6,
+    "estimated_cost_inr": 7414.0,
+    "personnel": [
+      "EMP-003"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0084",
+    "type": "PM",
+    "date": "2025-12-03",
+    "status": "completed",
+    "equipment_tag": "P-502",
+    "description": "Quarterly PM: Vibration check (overall 8.2 mm/s), bearing temperature check (DE: 108°C), alignment verification, coupling inspection, seal face inspection. All readings within acceptable limits.",
+    "duration_hours": 5.0,
+    "estimated_cost_inr": 16622.0,
+    "personnel": [
+      "EMP-036",
+      "EMP-002",
+      "EMP-008"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0136",
+    "type": "PM",
+    "date": "2025-12-04",
+    "status": "completed",
+    "equipment_tag": "HX-101",
+    "description": "Annual CIP cleaning: Shell side circulated with 5% HCl solution for 4 hours at 60°C, followed by neutralization and passivation. Fouling factor improved from 0.0004 to 0.0001 m².K/kW.",
+    "duration_hours": 65.1,
+    "estimated_cost_inr": 35836.0,
+    "personnel": [
+      "EMP-028",
+      "EMP-022",
+      "EMP-024"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0101",
+    "type": "PM",
+    "date": "2025-12-07",
+    "status": "completed",
+    "equipment_tag": "P-601",
+    "description": "Annual overhaul: Impeller, wear rings, mechanical seal (John Crane Type 5610), and bearings (SKF 6318) replaced. Alignment set to 0.05mm/0.03mm. Performance test: head 147m, flow 31m³/hr.",
+    "duration_hours": 25.6,
+    "estimated_cost_inr": 20836.0,
+    "personnel": [
+      "EMP-009",
+      "EMP-001"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0155",
+    "type": "PM",
+    "date": "2025-12-07",
+    "status": "completed",
+    "equipment_tag": "C-101",
+    "description": "8000-hour service: Air/oil filter replaced, oil separator element replaced, minimum pressure valve checked. Oil (Atlas Copco Roto-Inject) replaced — 28 liters. Air end inlet valve inspected. Running hours: 22.7.",
+    "duration_hours": 60.7,
+    "estimated_cost_inr": 16122.0,
+    "personnel": [
+      "EMP-001",
+      "EMP-023"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0280",
+    "type": "PM",
+    "date": "2025-12-07",
+    "status": "completed",
+    "equipment_tag": "PSV-202",
+    "description": "Annual pop test: Valve removed and bench tested. Set pressure: 23.3 bar (nameplate: 18.5 bar). Reseat pressure: 23.9 bar. Valve reseated — set pressure adjusted to 18.5 bar ±3%. New gaskets installed. Tag sealed.",
+    "duration_hours": 70.4,
+    "estimated_cost_inr": 27500.0,
+    "personnel": [
+      "EMP-038",
+      "EMP-002",
+      "EMP-032"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0109",
+    "type": "CM",
+    "date": "2025-12-08",
+    "status": "completed",
+    "equipment_tag": "HX-201",
+    "description": "Corrective: 5 tubes plugged after eddy current inspection revealed wall loss >40%. IRIS inspection on remaining tubes — 7 tubes show 20-30% wall loss (next inspection in 2 years). Tube bundle remaining life estimated at 5 years.",
+    "duration_hours": 6.1,
+    "estimated_cost_inr": 126520.0,
+    "personnel": [
+      "EMP-022",
+      "EMP-014",
+      "EMP-009"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0038",
+    "type": "CM",
+    "date": "2025-12-12",
+    "status": "completed",
+    "equipment_tag": "P-201B",
+    "description": "Corrective: DE bearing replaced (SKF 6318). High vibration detected during routine round (5.5 mm/s overall, alarm at 7.1). Bearing showed inner race spalling. Vibration after replacement: 2.1 mm/s.",
+    "duration_hours": 44.7,
+    "estimated_cost_inr": 121498.0,
+    "personnel": [
+      "EMP-021",
+      "EMP-008",
+      "EMP-007"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0033",
+    "type": "PM",
+    "date": "2025-12-20",
+    "status": "completed",
+    "equipment_tag": "P-201A",
+    "description": "Annual overhaul: Impeller, wear rings, mechanical seal (John Crane Type 5610), and bearings (SKF NU316) replaced. Alignment set to 0.05mm/0.03mm. Performance test: head 95m, flow 31m³/hr.",
+    "duration_hours": 5.7,
+    "estimated_cost_inr": 22917.0,
+    "personnel": [
+      "EMP-003"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0046",
+    "type": "PM",
+    "date": "2025-12-20",
+    "status": "completed",
+    "equipment_tag": "P-202",
+    "description": "Quarterly PM: Vibration check (overall 9.1 mm/s), bearing temperature check (DE: 82°C), alignment verification, coupling inspection, seal face inspection. All readings within acceptable limits.",
+    "duration_hours": 49.6,
+    "estimated_cost_inr": 17617.0,
+    "personnel": [
+      "EMP-003"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0252",
+    "type": "PM",
+    "date": "2025-12-23",
+    "status": "completed",
+    "equipment_tag": "FV-201",
+    "description": "Annual overhaul: Valve removed from line. Trim (plug, seat ring, cage) inspected — moderate erosion on seat ring. Seat lapped. Packing replaced (PTFE/graphite). Actuator diaphragm inspected — no cracks. Positioner calibrated: 4-20mA input, 3-15 psi output, linearity < 0.5%.",
+    "duration_hours": 11.0,
+    "estimated_cost_inr": 23065.0,
+    "personnel": [
+      "EMP-021"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0149",
+    "type": "PM",
+    "date": "2025-12-28",
+    "status": "completed",
+    "equipment_tag": "HX-502",
+    "description": "Annual inspection: Bundle pulled for visual inspection. Light scaling on OD observed. Gaskets replaced (Klingersil C-4430). Shell flange faces inspected — no damage. Bolts re-torqued to 228 Nm using cross-pattern.",
+    "duration_hours": 50.3,
+    "estimated_cost_inr": 25494.0,
+    "personnel": [
+      "EMP-036",
+      "EMP-038",
+      "EMP-007"
+    ]
+  },
+  {
+    "work_order_id": "WO-2025-0242",
+    "type": "CM",
+    "date": "2025-12-31",
+    "status": "completed",
+    "equipment_tag": "FV-101",
+    "description": "Corrective: Valve sticking at 34% open. Field investigation found corroded stem. Stem cleaned and polished, packing replaced, actuator bench set adjusted. Stroke time improved from 23.4s to 3.4s.",
+    "duration_hours": 56.2,
+    "estimated_cost_inr": 47012.0,
+    "personnel": [
+      "EMP-029",
+      "EMP-007",
+      "EMP-031"
+    ]
+  }
+]

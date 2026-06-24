@@ -1,0 +1,188 @@
+CENTRIFUGAL PUMP — INSTALLATION, OPERATION & MAINTENANCE MANUAL
+================================================================
+Equipment Tag: P-101A / P-101B
+Model: Grundfos CR 64-3-2
+Type: Vertical Multistage Centrifugal Pump
+Application: Feed Water Supply — Unit 1
+
+TABLE OF CONTENTS
+1. General Description
+2. Technical Specifications
+3. Installation Requirements
+4. Operating Procedures
+5. Maintenance Schedule
+6. Troubleshooting Guide
+7. Spare Parts List
+
+1. GENERAL DESCRIPTION
+======================
+The Grundfos CR 64-3-2 is a vertical, multistage centrifugal pump designed for clean water and low-viscosity liquid transfer applications. The pump is equipped with a cartridge-type mechanical seal for reliable leak-free operation.
+
+Key Features:
+- Vertical inline configuration reduces floor space requirement
+- Stainless steel (SS316) construction for corrosion resistance
+- Cartridge mechanical seal for easy maintenance
+- Dynamically balanced impellers for low vibration operation
+- Standard IEC motor mounting for easy motor replacement
+
+2. TECHNICAL SPECIFICATIONS
+===========================
+Parameter                    Value
+---------                    -----
+Flow Rate (Design)           30 m³/hr
+Total Head (Design)          120 m
+Speed                        2960 RPM (2-pole)
+Motor Power                  55 kW
+Voltage                      415V, 3-Phase, 50 Hz
+Impeller Diameter            180 mm
+Number of Stages             3
+Suction Connection           DN 100 (4")
+Discharge Connection         DN 80 (3")
+Maximum Working Pressure     25 bar
+Temperature Range            -20°C to +120°C
+Shaft Seal                   Cartridge Mechanical Seal (SiC/SiC/EPDM)
+Bearing Type                 Radial: Deep Groove Ball (SKF 6316)
+                             Thrust: Angular Contact Ball (SKF 7316 BECBM)
+Weight (Pump + Motor)        380 kg
+Noise Level                  72 dB(A) at 1m
+
+NPSH Required                4.2 m at rated flow
+Minimum Continuous Flow      8 m³/hr (27% of BEP)
+Best Efficiency Point (BEP)  32 m³/hr at 115 m head
+
+3. INSTALLATION REQUIREMENTS
+==============================
+3.1 Foundation
+- Concrete foundation minimum 150 mm above floor level
+- Foundation bolt size: M20 x 4 nos.
+- Foundation mass: minimum 3x pump weight (1,200 kg concrete)
+- Grouting: Epoxy grout (Masterflow 648 or equivalent)
+- Level tolerance: ±0.1 mm/m in both directions
+
+3.2 Piping
+- Suction piping: Minimum one size larger than pump suction (DN 125 recommended)
+- Suction piping must slope upward toward pump to avoid air pockets
+- Eccentric reducer at pump suction (flat side on top)
+- Minimum 5D straight length before pump suction
+- Isolation valves: Gate type on suction, Globe type on discharge
+- Check valve on discharge to prevent reverse flow
+- Pressure gauge tappings on suction and discharge flanges
+- Flexible connections recommended to absorb piping stress
+
+3.3 Electrical
+- Motor supply: 415V ± 10%, 3-Phase, 50 Hz
+- Cable size: 4C x 35 mm² Cu (for 55 kW at 415V)
+- Overload relay setting: 105 A (Full Load Current: 95 A)
+- Motor protection: MPCB + Contactor + Overload Relay
+- Emergency stop: Mushroom-head push button at pump location
+- Phase rotation: Check correct rotation direction before coupling
+
+4. OPERATING PROCEDURES
+========================
+4.1 Pre-Start Checks
+□ Verify suction valve is FULLY OPEN
+□ Verify discharge valve is CLOSED (for low-power starting)
+□ Check pump is primed (suction line and casing filled with liquid)
+□ Verify coupling guard is installed
+□ Check oil level in bearing housing (SAE 46 oil, mid-sight glass)
+□ Verify all isolation blinds removed from suction/discharge
+□ Verify cooling water to seal/bearing (if applicable)
+□ Check motor terminal box cover is closed
+□ Record suction pressure gauge reading: _____ bar
+□ Verify no maintenance permits outstanding for P-101A/B
+
+4.2 Normal Startup
+1. Ensure all pre-start checks completed
+2. Start motor from local control station or DCS
+3. Observe ammeter — current should spike and settle to normal within 5 seconds
+4. Gradually OPEN discharge valve over 30-60 seconds
+5. Monitor:
+   - Discharge pressure: should reach 12-14 bar
+   - Motor current: should be 60-85 A at rated flow
+   - Vibration: should be < 4.5 mm/s RMS
+   - Seal: no visible leakage (max 2-3 drops per minute during break-in)
+   - Bearing temperature: should stabilize below 75°C within 30 minutes
+6. Record all operating parameters on startup log sheet
+
+4.3 Normal Shutdown
+1. Gradually CLOSE discharge valve over 30-60 seconds
+2. Stop motor
+3. CLOSE suction valve ONLY if pump will be isolated for maintenance
+4. Record operating parameters at shutdown
+
+4.4 Emergency Shutdown
+1. Press emergency stop button at pump location OR trip from DCS
+2. Do NOT close valves — let pump coast to stop
+3. Notify shift supervisor immediately
+4. Record circumstances leading to emergency shutdown
+5. Do NOT restart until cause is investigated and cleared
+
+5. MAINTENANCE SCHEDULE
+========================
+Interval    Task                                    Personnel
+--------    ----                                    ---------
+Daily       Visual inspection, leak check, noise    Operator
+Weekly      Vibration check (handheld), temperature Technician
+Monthly     Oil level check, coupling guard inspect Technician
+Quarterly   Full vibration analysis (route-based)   Reliability Eng.
+            Bearing temperature trending
+            Motor current check
+            Seal leakage assessment
+            Foundation bolt torque check
+Annually    Complete overhaul:                      Mech. Team
+            - Impeller inspection/replacement
+            - Wear ring measurement/replacement
+            - Mechanical seal replacement
+            - Bearing replacement
+            - Shaft runout check (max 0.05 mm)
+            - Performance test (head, flow, power)
+            - Laser alignment
+
+6. TROUBLESHOOTING GUIDE
+=========================
+Symptom                         Probable Cause                  Corrective Action
+-------                         --------------                  -----------------
+No discharge / low head         Air in suction line             Vent pump casing, check suction pipe joints
+                                Suction strainer blocked        Clean strainer (check DP across strainer)
+                                Impeller wear                   Replace impeller and wear rings
+                                Wrong rotation                  Swap any two motor phases
+
+High vibration                  Misalignment                    Laser alignment (target: 0.05/0.03 mm)
+                                Bearing wear                    Replace bearings
+                                Cavitation                      Check NPSHA, clean suction strainer
+                                Foundation loose                Re-torque foundation bolts
+                                Impeller imbalance              Balance or replace impeller
+
+Excessive seal leakage          Dry running damage              Replace mechanical seal
+                                Shaft runout > 0.05 mm          Machine or replace shaft
+                                Wrong seal face combination     Use SiC/SiC for abrasive fluids
+
+Motor overheating               Overload (high flow)            Throttle discharge, check for open bypass
+                                Voltage imbalance               Check supply voltage (max 2% imbalance)
+                                Blocked ventilation             Clean motor cooling fins/fan cover
+
+High bearing temperature        Over-greasing                   Follow greasing chart exactly
+                                Wrong lubricant                 Use only recommended grade
+                                Bearing damage                  Replace bearing
+
+7. SPARE PARTS LIST (Recommended 2-Year Stock)
+===============================================
+Part Description                    Part Number         Qty     Lead Time
+----------------                    -----------         ---     ---------
+Mechanical Seal Assembly (SiC/SiC)  96525490            2       4 weeks
+Bearing Kit (DE + NDE)              96488302            2       2 weeks
+Impeller (SS316)                    96455180            1       6 weeks
+Wear Ring Set (Casing + Impeller)   96422070            2       4 weeks
+O-Ring Kit (Full set)               96398850            3       1 week
+Coupling Spider (Omega E40)         96371620            2       2 weeks
+Shaft Sleeve                        96344390            1       6 weeks
+Motor Fan Cover                     96317160            1       2 weeks
+
+DOCUMENT REVISION HISTORY
+==========================
+Rev    Date          Author              Description
+---    ----          ------              -----------
+1      2019-03-15    Rajesh K. Sharma    Initial release
+2      2020-08-22    Sanjay Gupta        Added troubleshooting guide
+3      2023-01-15    Kavitha Rajan       Updated spare parts list, added NPSH data
+4      2024-06-01    Rajesh K. Sharma    Added minimum continuous flow specification

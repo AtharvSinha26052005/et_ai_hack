@@ -1,0 +1,223 @@
+OISD-STD-105: WORK PERMIT SYSTEM
+==================================
+Oil Industry Safety Directorate (OISD)
+Ministry of Petroleum & Natural Gas, Government of India
+Standard on Work Permit System in Petroleum Industry Installations
+
+Version: 2024 (Fifth Revision)
+Effective From: 2024-01-01
+
+DISCLAIMER: This document is a summary/excerpt for training and compliance
+reference purposes. For the official and complete standard, refer to the
+original document available from OISD (www.oisd.gov.in).
+
+1. SCOPE
+========
+This standard is applicable to all petroleum industry installations including:
+- Refineries
+- Gas processing plants
+- Petrochemical plants
+- Oil and gas exploration and production installations
+- Petroleum storage terminals and depots
+- Cross-country pipelines and associated facilities
+- LPG bottling plants
+- Marketing installations
+
+2. PURPOSE
+==========
+To establish a uniform system of work permits to ensure that:
+(a) All work involving potential hazards is properly authorized
+(b) Adequate safety precautions are taken before, during, and after the work
+(c) Work is coordinated with operating activities
+(d) Communication between all involved parties is established and maintained
+
+3. TYPES OF WORK PERMITS
+=========================
+
+3.1 Cold Work Permit (CWP)
+   Required for: Work that does not involve a source of ignition or opening of
+   hydrocarbon-containing equipment.
+   Examples: Painting, scaffolding, insulation work, instrument calibration,
+   equipment inspection, civil work in non-hazardous areas.
+   Validity: Maximum 7 days (shift-wise endorsement required)
+
+3.2 Hot Work Permit (HWP)
+   Required for: Any work involving a source of ignition or that could generate
+   sufficient heat, spark, or flame to ignite flammable vapors.
+   Examples: Welding, cutting, grinding, drilling, use of non-explosion-proof
+   electrical equipment in hazardous areas.
+   Validity: Maximum one shift (8 hours). Fresh permit required for each shift.
+   Special Requirements:
+   - Continuous gas testing during work (LEL monitoring)
+   - Fire watch during work and for 30 minutes after completion
+   - Fire extinguisher at work site (minimum 2 x 9 kg DCP)
+   - Hot work restricted within 15m of flammable material storage
+
+3.3 Confined Space Entry Permit (CSEP)
+   Required for: Entry into any space not designed for continuous human occupancy
+   with limited access/egress and potential for hazardous atmosphere.
+   Examples: Vessels, tanks, columns, heat exchanger shells, manholes, pits,
+   tunnels, large diameter pipes.
+   Special Requirements:
+   - Atmospheric testing: O2 (19.5-23.5%), LEL (<1%), H2S (<10 ppm), CO (<25 ppm)
+   - Continuous atmospheric monitoring during entry
+   - Rescue standby team with SCBA and retrieval equipment
+   - Entry/exit log maintained at entry point
+   - Maximum entry duration: 2 hours (reassessment required for extension)
+   - Communication system between entrant and standby person
+
+3.4 Electrical Work Permit (EWP)
+   Required for: All electrical work on systems rated above 250V or in
+   hazardous areas.
+   Examples: Cable jointing, switchgear maintenance, motor replacement,
+   transformer work, UPS battery work.
+   Special Requirements:
+   - Electrical isolation verified by qualified electrician
+   - LOTO applied (refer SOP-LOTO-001)
+   - Voltage testing (prove dead) before work commences
+   - Grounding of isolated circuits where applicable
+
+3.5 Excavation Permit (EP)
+   Required for: Any digging, trenching, or excavation work.
+   Special Requirements:
+   - Underground services survey (cables, pipes, drains) before excavation
+   - Depth > 1.2m requires shoring/bracing
+   - Safe access/egress for depths > 1.5m (ladder at max 8m intervals)
+   - Barriers and warning signs around excavation
+   - Atmospheric monitoring if within 15m of hydrocarbon facility
+
+3.6 Radiography Permit (RP)
+   Required for: Any radiographic testing (RT) using gamma or X-ray sources.
+   Special Requirements:
+   - AERB-approved radiographer with valid license
+   - Cordoned area with minimum 30m radius
+   - Radiation survey after completion
+   - Work scheduled during low-activity periods (night shift preferred)
+
+4. PERMIT AUTHORIZATION LEVELS
+================================
+Level 1 (Area Operator):    Cold work in non-hazardous areas
+Level 2 (Shift Supervisor): Cold work in hazardous areas, simple electrical work
+Level 3 (Area In-Charge):   Hot work, confined space entry, complex electrical
+Level 4 (Plant Manager):    Work near live hydrocarbons, multiple simultaneous
+                            hazardous activities, radiography
+
+5. PERMIT PROCEDURE
+====================
+
+5.1 Permit Request
+   a. Work requestor (Maintenance/Contractor) fills Section A:
+      - Description of work
+      - Exact location (unit, area, equipment tag)
+      - Tools and equipment to be used
+      - Estimated duration
+      - Number of workers
+
+5.2 Hazard Assessment (by Permit Issuer)
+   a. Identify all hazards at work site
+   b. Review recent process conditions
+   c. Check DCS for alarms, abnormal conditions
+   d. Identify required precautions:
+      □ Isolation required (electrical, mechanical, process)
+      □ Gas testing required (initial + continuous)
+      □ PPE requirements (standard + additional)
+      □ Fire watch required
+      □ Rescue standby required
+      □ Environmental precautions (drip trays, bunding)
+
+5.3 Pre-Work Site Visit
+   a. Permit issuer and work requestor visit work site together
+   b. Verify conditions match permit requirements
+   c. Agree on safety precautions
+   d. Identify emergency exits and assembly points
+
+5.4 Permit Issuance
+   a. All sections completed and signed
+   b. Precautions verified in place
+   c. Workers briefed on permit conditions
+   d. Permit displayed at work site
+   e. Control room informed
+
+5.5 Work Execution
+   a. Work proceeds under permit conditions
+   b. Any change in conditions → STOP work, contact permit issuer
+   c. Gas testing continued as specified
+   d. Shift change: permit re-endorsed by incoming shift supervisor
+
+5.6 Permit Closure
+   a. Work completed, area cleaned
+   b. All tools and materials removed
+   c. Safety devices reinstalled
+   d. Isolation removed (LOTO cleared)
+   e. Work requestor signs Section C (work completion)
+   f. Permit issuer verifies site condition
+   g. Permit returned to control room for filing (retain for 1 year)
+
+6. GAS TESTING REQUIREMENTS
+============================
+Equipment: Calibrated portable gas detector (4-gas: O2, LEL, H2S, CO)
+Calibration: Monthly with certified calibration gas
+
+Parameter    Acceptable Range    Action if Outside Range
+---------    ----------------    ----------------------
+O2           19.5% - 23.5%      Ventilate, investigate source
+LEL          < 1% of LEL        Do not proceed, ventilate
+H2S          < 10 ppm           Evacuate, don SCBA
+CO           < 25 ppm           Increase ventilation
+
+Testing Frequency:
+- Initial test: before work starts
+- Hot work: continuous during work
+- Confined space: continuous during entry
+- Cold work in hazardous area: every 2 hours
+
+7. PPE REQUIREMENTS
+====================
+Standard PPE (all work permits):
+- Safety helmet (IS 2925)
+- Safety shoes (IS 15298)
+- Safety goggles (IS 5983)
+- Cotton overalls (no synthetic clothing in process areas)
+
+Additional PPE (as specified on permit):
+- Face shield — for grinding, chipping
+- Welding helmet — for arc welding
+- Fire-retardant clothing — for hot work
+- Chemical-resistant gloves — for chemical handling
+- SCBA — for H2S areas, emergency rescue
+- Fall arrest harness — for work above 2m height
+- Ear plugs/muffs — for areas exceeding 85 dB(A)
+
+8. CONTRACTOR MANAGEMENT
+==========================
+All contractor personnel must:
+a. Complete safety induction (minimum 4 hours)
+b. Pass medical fitness test (for confined space work: special medical)
+c. Possess valid trade license/certification
+d. Carry photo ID at all times
+e. Attend daily toolbox talk before work
+f. Report to site safety officer for daily headcount
+
+9. AUDIT AND REVIEW
+=====================
+a. Daily: Random permit checks by shift supervisor (minimum 2 per shift)
+b. Weekly: Safety officer reviews all closed permits for completeness
+c. Monthly: HSE committee reviews permit statistics and trends
+d. Annual: Full procedure review and update
+e. After any incident: Immediate review of relevant permit(s)
+
+COMPLIANCE REQUIREMENTS
+========================
+This standard is mandatory for all OISD member organizations. Non-compliance
+may result in:
+- Show-cause notice from OISD
+- Insurance claim rejection
+- Factory inspector prosecution under Factories Act 1948
+- PESO license revocation
+
+Related Standards:
+- OISD-STD-116: Fire Protection for Onshore Installations
+- OISD-STD-144: Petroleum Safety in Electrical Installations
+- OISD-GDN-206: Guidelines on Safety Management System
+- ISO 45001: Occupational Health and Safety Management Systems
+- Factory Act 1948, Section 7A: General Duties of Occupier

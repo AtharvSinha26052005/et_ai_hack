@@ -1,0 +1,303 @@
+[
+  {
+    "name": "TI-201",
+    "description": "Reactor Inlet Temperature",
+    "unit": "°C",
+    "normal_min": 180,
+    "normal_max": 220,
+    "alarm_low": 170,
+    "alarm_high": 230,
+    "trip_high": 250,
+    "equipment_tag": "V-201"
+  },
+  {
+    "name": "TI-202",
+    "description": "Reactor Outlet Temperature",
+    "unit": "°C",
+    "normal_min": 250,
+    "normal_max": 280,
+    "alarm_low": 240,
+    "alarm_high": 290,
+    "trip_high": 300,
+    "equipment_tag": "V-201"
+  },
+  {
+    "name": "PI-201",
+    "description": "Reactor Operating Pressure",
+    "unit": "bar",
+    "normal_min": 30,
+    "normal_max": 40,
+    "alarm_low": 25,
+    "alarm_high": 42,
+    "trip_high": 45,
+    "equipment_tag": "V-201"
+  },
+  {
+    "name": "LI-201",
+    "description": "Reactor Level",
+    "unit": "%",
+    "normal_min": 40,
+    "normal_max": 70,
+    "alarm_low": 30,
+    "alarm_high": 80,
+    "trip_low": 20,
+    "trip_high": 90,
+    "equipment_tag": "V-201"
+  },
+  {
+    "name": "FI-201",
+    "description": "Reactor Feed Flow",
+    "unit": "m³/hr",
+    "normal_min": 8,
+    "normal_max": 12,
+    "alarm_low": 6,
+    "alarm_high": 14,
+    "equipment_tag": "P-202"
+  },
+  {
+    "name": "PI-101A",
+    "description": "Feed Water Pump A Discharge Pressure",
+    "unit": "bar",
+    "normal_min": 10,
+    "normal_max": 14,
+    "alarm_low": 8,
+    "alarm_high": 16,
+    "equipment_tag": "P-101A"
+  },
+  {
+    "name": "FI-101",
+    "description": "Feed Water Flow",
+    "unit": "m³/hr",
+    "normal_min": 20,
+    "normal_max": 30,
+    "alarm_low": 15,
+    "alarm_high": 35,
+    "equipment_tag": "P-101A"
+  },
+  {
+    "name": "TI-101",
+    "description": "Feed Water Temperature",
+    "unit": "°C",
+    "normal_min": 25,
+    "normal_max": 45,
+    "alarm_high": 55,
+    "equipment_tag": "V-101"
+  },
+  {
+    "name": "VI-101A",
+    "description": "Feed Water Pump A Vibration (Overall)",
+    "unit": "mm/s RMS",
+    "normal_min": 0,
+    "normal_max": 4.5,
+    "alarm_high": 7.1,
+    "trip_high": 11.2,
+    "equipment_tag": "P-101A"
+  },
+  {
+    "name": "VI-201A",
+    "description": "CW Pump A Vibration (Overall)",
+    "unit": "mm/s RMS",
+    "normal_min": 0,
+    "normal_max": 4.5,
+    "alarm_high": 7.1,
+    "trip_high": 11.2,
+    "equipment_tag": "P-201A"
+  },
+  {
+    "name": "TI-M101A-DE",
+    "description": "Motor P-101A DE Bearing Temperature",
+    "unit": "°C",
+    "normal_min": 30,
+    "normal_max": 75,
+    "alarm_high": 85,
+    "trip_high": 95,
+    "equipment_tag": "M-101A"
+  },
+  {
+    "name": "TI-M101A-NDE",
+    "description": "Motor P-101A NDE Bearing Temperature",
+    "unit": "°C",
+    "normal_min": 30,
+    "normal_max": 70,
+    "alarm_high": 80,
+    "trip_high": 90,
+    "equipment_tag": "M-101A"
+  },
+  {
+    "name": "TI-M101A-WIND",
+    "description": "Motor P-101A Winding Temperature",
+    "unit": "°C",
+    "normal_min": 30,
+    "normal_max": 110,
+    "alarm_high": 130,
+    "trip_high": 150,
+    "equipment_tag": "M-101A"
+  },
+  {
+    "name": "AI-M101A",
+    "description": "Motor P-101A Current",
+    "unit": "A",
+    "normal_min": 60,
+    "normal_max": 85,
+    "alarm_high": 95,
+    "trip_high": 105,
+    "equipment_tag": "M-101A"
+  },
+  {
+    "name": "TI-HX201-SHELL-IN",
+    "description": "HX-201 Shell Inlet Temperature",
+    "unit": "°C",
+    "normal_min": 60,
+    "normal_max": 90,
+    "alarm_high": 100,
+    "equipment_tag": "HX-201"
+  },
+  {
+    "name": "TI-HX201-TUBE-OUT",
+    "description": "HX-201 Tube Outlet Temperature",
+    "unit": "°C",
+    "normal_min": 40,
+    "normal_max": 65,
+    "alarm_high": 75,
+    "equipment_tag": "HX-201"
+  },
+  {
+    "name": "DPI-HX201",
+    "description": "HX-201 Shell Side Differential Pressure",
+    "unit": "bar",
+    "normal_min": 0.2,
+    "normal_max": 0.8,
+    "alarm_high": 1.5,
+    "equipment_tag": "HX-201"
+  },
+  {
+    "name": "PI-C201-DISCH",
+    "description": "Process Gas Compressor 1st Stage Discharge Pressure",
+    "unit": "bar",
+    "normal_min": 28,
+    "normal_max": 35,
+    "alarm_high": 37,
+    "trip_high": 38,
+    "equipment_tag": "C-201"
+  },
+  {
+    "name": "TI-C201-DISCH",
+    "description": "Process Gas Compressor 1st Stage Discharge Temperature",
+    "unit": "°C",
+    "normal_min": 100,
+    "normal_max": 140,
+    "alarm_high": 155,
+    "trip_high": 165,
+    "equipment_tag": "C-201"
+  },
+  {
+    "name": "VI-C201-DE",
+    "description": "Compressor C-201 DE Bearing Vibration",
+    "unit": "mm/s RMS",
+    "normal_min": 0,
+    "normal_max": 6.3,
+    "alarm_high": 10,
+    "trip_high": 16,
+    "equipment_tag": "C-201"
+  },
+  {
+    "name": "PI-B101-DRUM",
+    "description": "Boiler B-101 Steam Drum Pressure",
+    "unit": "kg/cm²",
+    "normal_min": 15,
+    "normal_max": 19,
+    "alarm_high": 20,
+    "trip_high": 21,
+    "equipment_tag": "B-101"
+  },
+  {
+    "name": "LI-B101-DRUM",
+    "description": "Boiler B-101 Steam Drum Level",
+    "unit": "mm",
+    "normal_min": -25,
+    "normal_max": 25,
+    "alarm_low": -50,
+    "alarm_high": 50,
+    "trip_low": -75,
+    "trip_high": 75,
+    "equipment_tag": "B-101"
+  },
+  {
+    "name": "TI-B101-FLUE",
+    "description": "Boiler B-101 Flue Gas Temperature (Stack)",
+    "unit": "°C",
+    "normal_min": 140,
+    "normal_max": 200,
+    "alarm_high": 250,
+    "equipment_tag": "B-101"
+  },
+  {
+    "name": "TI-CT101-CW-IN",
+    "description": "Cooling Tower Inlet (Hot Water) Temperature",
+    "unit": "°C",
+    "normal_min": 35,
+    "normal_max": 42,
+    "alarm_high": 48,
+    "equipment_tag": "CT-101"
+  },
+  {
+    "name": "TI-CT101-CW-OUT",
+    "description": "Cooling Tower Outlet (Cold Water) Temperature",
+    "unit": "°C",
+    "normal_min": 28,
+    "normal_max": 33,
+    "alarm_high": 36,
+    "equipment_tag": "CT-101"
+  },
+  {
+    "name": "LI-V301",
+    "description": "Product Tank T-301 Level",
+    "unit": "%",
+    "normal_min": 10,
+    "normal_max": 85,
+    "alarm_low": 5,
+    "alarm_high": 90,
+    "trip_high": 95,
+    "equipment_tag": "V-301"
+  },
+  {
+    "name": "TI-T201-TOP",
+    "description": "Distillation Column Top Temperature",
+    "unit": "°C",
+    "normal_min": 70,
+    "normal_max": 95,
+    "alarm_low": 60,
+    "alarm_high": 105,
+    "equipment_tag": "T-201"
+  },
+  {
+    "name": "TI-T201-BTM",
+    "description": "Distillation Column Bottom Temperature",
+    "unit": "°C",
+    "normal_min": 150,
+    "normal_max": 180,
+    "alarm_low": 140,
+    "alarm_high": 190,
+    "equipment_tag": "T-201"
+  },
+  {
+    "name": "PI-T201-TOP",
+    "description": "Distillation Column Top Pressure",
+    "unit": "bar",
+    "normal_min": 1.5,
+    "normal_max": 3.0,
+    "alarm_low": 1.0,
+    "alarm_high": 3.5,
+    "trip_high": 5.0,
+    "equipment_tag": "T-201"
+  },
+  {
+    "name": "AI-WTP-PERM-TDS",
+    "description": "RO Permeate TDS",
+    "unit": "ppm",
+    "normal_min": 0,
+    "normal_max": 50,
+    "alarm_high": 100,
+    "equipment_tag": "WTP-101"
+  }
+]

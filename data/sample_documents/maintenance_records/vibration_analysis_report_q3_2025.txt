@@ -1,0 +1,185 @@
+VIBRATION ANALYSIS & CONDITION MONITORING REPORT
+==================================================
+Report No: CM-VIB-2025-Q3
+Report Period: July 2025 — September 2025
+Prepared By: Vijay Prakash (EMP-031), Condition Monitoring Technician
+Reviewed By: Kavitha Rajan (EMP-009), Reliability Engineer
+Date: 2025-10-05
+
+1. EQUIPMENT COVERED
+======================
+This quarterly vibration survey covers all critical and high-priority rotating
+equipment as per the condition monitoring program (CMP-001). Total 28 equipment
+items monitored on a monthly route-based schedule.
+
+Equipment Category       Count    Measurement Points
+------------------       -----    ------------------
+Centrifugal Pumps        12       4 per unit (DE-H, DE-V, NDE-H, NDE-V)
+Reciprocating Compressors 3       6 per unit (main + cross-head bearings)
+Electric Motors          10       2 per unit (DE, NDE)
+Cooling Tower Fans        2       2 per unit (DE, NDE)
+Diesel Generator          1       4 points
+
+Total measurement points per survey: 116
+
+2. VIBRATION SEVERITY CRITERIA (per ISO 10816-3)
+==================================================
+Group 1: Large machines, rigid foundation (pumps >15kW, compressors)
+   Zone A (New/Reconditioned):     < 2.3 mm/s RMS
+   Zone B (Acceptable for operation): 2.3 — 4.5 mm/s RMS
+   Zone C (Limited operation):       4.5 — 7.1 mm/s RMS
+   Zone D (Damage occurring):       > 7.1 mm/s RMS
+
+Action Levels:
+   ALERT:  > 4.5 mm/s (increase monitoring frequency to weekly)
+   ALARM:  > 7.1 mm/s (plan corrective action within 2 weeks)
+   TRIP:   > 11.2 mm/s (immediate shutdown)
+
+3. Q3 2025 SURVEY RESULTS — SUMMARY
+=====================================
+
+STATUS OVERVIEW:
+   Zone A (Excellent):    18 equipment (64%)
+   Zone B (Good):          7 equipment (25%)
+   Zone C (Alert):         2 equipment (7%)
+   Zone D (Alarm):         1 equipment (4%)
+
+Equipment in ZONE C (Requires Attention):
+1. P-201A (CW Pump A) — DE Horizontal: 5.2 mm/s
+2. C-201 (Process Gas Compressor 1st Stage) — NDE Vertical: 5.8 mm/s
+
+Equipment in ZONE D (Immediate Action Required):
+1. P-302 (Slop Oil Pump) — DE Horizontal: 8.4 mm/s
+
+4. DETAILED ANALYSIS — EQUIPMENT REQUIRING ACTION
+===================================================
+
+4.1 P-302 — SLOP OIL PUMP (ZONE D — ALARM)
+   Equipment: Seepex BN 35-12 Progressive Cavity Pump, 7.5 kW
+   Location: Unit-3 / ETP / Pump House
+
+   Vibration Trend (DE Horizontal, mm/s RMS):
+   Jan-25: 2.1 | Feb-25: 2.4 | Mar-25: 3.0 | Apr-25: 3.5 | May-25: 4.2 |
+   Jun-25: 5.1 | Jul-25: 6.3 | Aug-25: 7.8 | Sep-25: 8.4
+
+   Spectrum Analysis:
+   - Dominant frequency: 1x RPM (1470 CPM) with high amplitude (6.2 mm/s)
+   - Sub-synchronous component at 0.43x RPM observed
+   - No bearing defect frequencies detected
+
+   Diagnosis: Progressive rotor/stator wear (typical failure mode for PC pumps).
+   The sub-synchronous frequency is characteristic of stator elastomer degradation.
+   Current rate of increase suggests stator failure within 4-6 weeks.
+
+   RECOMMENDATION: Schedule stator replacement within 2 weeks. Order: Seepex
+   stator assembly P/N BN35-12-NR (NBR elastomer). Estimated downtime: 8 hours.
+   Priority: HIGH
+   Work Order Raised: WO-2025-0412 (assigned to Suresh Patel, EMP-002)
+
+4.2 P-201A — COOLING WATER PUMP A (ZONE C — ALERT)
+   Equipment: KSB Etanorm 100-200, 90 kW
+   Location: Unit-2 / Cooling Tower / Pump Bay
+
+   Vibration Trend (DE Horizontal, mm/s RMS):
+   Jan-25: 3.2 | Feb-25: 3.1 | Mar-25: 3.4 | Apr-25: 3.6 | May-25: 4.0 |
+   Jun-25: 4.3 | Jul-25: 4.5 | Aug-25: 4.8 | Sep-25: 5.2
+
+   Spectrum Analysis:
+   - Dominant frequency: 2x RPM (2970 CPM) — indicative of misalignment
+   - Axial vibration: 3.8 mm/s (elevated relative to radial)
+   - Phase analysis: 180° phase difference between DE and NDE horizontal —
+     confirms angular misalignment
+   - No bearing defect frequencies
+   - Bearing temperature: DE 72°C (elevated but within alarm at 85°C)
+
+   Diagnosis: Angular misalignment between pump and motor shafts. Likely cause:
+   thermal growth differential or foundation settlement. Rate of change is slow —
+   not immediately critical but action needed within 1 month.
+
+   RECOMMENDATION: Schedule laser alignment check during next available window.
+   If misalignment confirmed > 0.05mm angular, re-align per SOP-ALIGNMENT-001.
+   Estimated downtime: 4-6 hours (requires switchover to P-201B standby).
+   Priority: MEDIUM
+   Work Order Raised: WO-2025-0418 (assigned to Sanjay Gupta, EMP-008)
+
+4.3 C-201 — PROCESS GAS COMPRESSOR 1st STAGE (ZONE C — ALERT)
+   Equipment: Siemens STC-GV 50/3, 250 kW
+   Location: Unit-2 / Compressor House
+
+   Vibration Trend (NDE Vertical, mm/s RMS):
+   Jan-25: 3.8 | Feb-25: 3.9 | Mar-25: 4.0 | Apr-25: 4.2 | May-25: 4.5 |
+   Jun-25: 4.8 | Jul-25: 5.0 | Aug-25: 5.4 | Sep-25: 5.8
+
+   Spectrum Analysis:
+   - Dominant frequencies: 1x and multiples of 1x RPM (740 CPM)
+   - Harmonics suggest looseness or impact-type excitation
+   - Cross-head bearing vibration normal
+   - NDE vertical amplitude increasing at 0.3 mm/s per month
+
+   Diagnosis: Suspected valve plate impact or looseness. Consistent with
+   worn discharge valve plate on 1st stage. Next scheduled valve inspection
+   (PM-COMP-6MONTH-001) is due in November 2025.
+
+   RECOMMENDATION: Advance scheduled valve inspection to October 2025.
+   Monitor vibration weekly until inspection. If vibration exceeds 7.1 mm/s
+   before scheduled date, shut down for immediate inspection.
+   Priority: MEDIUM
+   Work Order Raised: WO-2025-0425 (PM schedule advanced)
+
+5. EQUIPMENT WITH IMPROVING TRENDS
+=====================================
+- P-101A: Post bearing replacement (Jun-25), vibration dropped from 3.8 to
+  1.5 mm/s. Currently stable at 1.8 mm/s. Excellent condition.
+- HX-301 Fan Motor: After rebalancing of fan blades (May-25), vibration reduced
+  from 5.5 to 2.2 mm/s. Stable. Issue resolved.
+
+6. OIL ANALYSIS SUMMARY (Q3 2025)
+===================================
+Equipment      Oil Type           Fe    Cu    Cr    H2O    TAN     Action
+---------      --------           --    --    --    ---    ---     ------
+P-101A         ISO VG 46          28    12    3     0.02%  0.8     Normal
+P-201A         ISO VG 68          45    8     5     0.03%  1.2     Monitor (Fe elevated)
+C-201          Mobil Rarus 427    62    15    4     0.01%  1.5     ALERT (Fe >50, TAN >1.0)
+C-202          Mobil Rarus 427    38    10    3     0.01%  0.9     Normal
+AG-101         SAE 15W-40         22    5     2     0.05%  1.1     Normal (diesel engine)
+
+C-201 Oil Analysis Note: Elevated iron (Fe=62 ppm, normal <50 ppm) and TAN
+(1.5 mgKOH/g, change limit 2.0) suggest accelerated wear — correlates with
+vibration trend. Oil change recommended at next valve inspection.
+
+7. THERMOGRAPHY SUMMARY (Q3 2025)
+====================================
+- TR-101 (Power Transformer): All connections normal. Hottest spot: HV bushing
+  at 52°C (Delta-T = 8°C above ambient). Within normal for loaded transformer.
+- SW-101 (HT Switchgear): Cable terminations checked. All normal. No hot spots.
+- MCC-101 to MCC-105: 3 overloaded contactors identified:
+  * MCC-103/Starter-12 (P-302 motor): 85°C (replace contactor — plan with pump repair)
+  * MCC-104/Starter-05 (Agitator AG-103): 72°C (re-torque connections)
+  * MCC-105/Starter-08 (Conveyor CV-201): 68°C (re-torque connections)
+
+8. NEXT QUARTER PRIORITIES
+============================
+1. Complete P-302 stator replacement and post-repair vibration baseline
+2. P-201A alignment correction and verification
+3. C-201 valve inspection (advanced to October)
+4. Continue weekly monitoring on Zone C/D equipment
+5. Annual vibration baseline update for all equipment (January 2026)
+
+APPENDIX: INSTRUMENT CALIBRATION STATUS
+========================================
+Vibration Analyzer: CSI 2140 (S/N: V2140-5821)
+   Calibration Date: 2025-07-15
+   Next Due: 2026-01-15
+   Certificate No: CAL-2025-0089
+
+Accelerometers: IMI 603C01 (3 units)
+   Calibration Date: 2025-06-20
+   Next Due: 2025-12-20
+   Sensitivity: 100 mV/g ±5%
+
+Infrared Camera: FLIR E96 (S/N: E96-28451)
+   Calibration Date: 2025-05-10
+   Next Due: 2026-05-10
+
+Oil Analysis Lab: SGS India (NABL accredited)
+   Report Turnaround: 5 working days

@@ -1,0 +1,357 @@
+[
+  {
+    "code": "FM-SEAL-LEAK",
+    "description": "Mechanical seal leakage — excessive dripping or spray from seal housing",
+    "severity": "high",
+    "frequency": 12,
+    "mtbf_hours": 8760,
+    "equipment_types": [
+      "Centrifugal Pump",
+      "Positive Displacement Pump",
+      "Multistage Centrifugal Pump"
+    ],
+    "root_causes": "Dry running, thermal shock, misalignment, incorrect seal face material, shaft runout > 0.05mm"
+  },
+  {
+    "code": "FM-BEARING-FAIL",
+    "description": "Bearing failure — noise, vibration, overheating at bearing housing",
+    "severity": "critical",
+    "frequency": 8,
+    "mtbf_hours": 17520,
+    "equipment_types": [
+      "Centrifugal Pump",
+      "Electric Motor",
+      "Compressor"
+    ],
+    "root_causes": "Fatigue spalling, inadequate lubrication, contaminated grease, misalignment, overloading"
+  },
+  {
+    "code": "FM-IMPELLER-WEAR",
+    "description": "Impeller erosion/cavitation wear — reduced head and flow, vibration",
+    "severity": "medium",
+    "frequency": 4,
+    "mtbf_hours": 26280,
+    "equipment_types": [
+      "Centrifugal Pump",
+      "Multistage Centrifugal Pump"
+    ],
+    "root_causes": "Cavitation (low NPSH), abrasive particles in fluid, chemical attack, vane tip recirculation"
+  },
+  {
+    "code": "FM-CAVITATION",
+    "description": "Pump cavitation — rumbling noise, flow fluctuation, impeller damage",
+    "severity": "high",
+    "frequency": 6,
+    "mtbf_hours": 4380,
+    "equipment_types": [
+      "Centrifugal Pump"
+    ],
+    "root_causes": "Insufficient NPSH available, suction strainer blockage, high fluid temperature, excessive suction losses"
+  },
+  {
+    "code": "FM-TUBE-FOUL",
+    "description": "Heat exchanger tube fouling — reduced heat transfer, increased pressure drop",
+    "severity": "medium",
+    "frequency": 10,
+    "mtbf_hours": 4380,
+    "equipment_types": [
+      "Shell & Tube Heat Exchanger",
+      "Finned Tube Heat Exchanger"
+    ],
+    "root_causes": "Scaling (CaCO3/CaSO4), biological growth, particulate deposition, corrosion product accumulation"
+  },
+  {
+    "code": "FM-TUBE-LEAK",
+    "description": "Heat exchanger tube leak — product contamination, pressure loss",
+    "severity": "high",
+    "frequency": 3,
+    "mtbf_hours": 35040,
+    "equipment_types": [
+      "Shell & Tube Heat Exchanger"
+    ],
+    "root_causes": "Erosion-corrosion, tube vibration fatigue, pitting corrosion, stress corrosion cracking"
+  },
+  {
+    "code": "FM-VALVE-STICK",
+    "description": "Control valve sticking/seizure — erratic control, hunting",
+    "severity": "medium",
+    "frequency": 5,
+    "mtbf_hours": 8760,
+    "equipment_types": [
+      "Globe Control Valve",
+      "Butterfly Control Valve"
+    ],
+    "root_causes": "Packing friction, stem corrosion, process deposits, actuator diaphragm failure, positioner drift"
+  },
+  {
+    "code": "FM-MOTOR-OVH",
+    "description": "Electric motor overheating — high winding temperature alarm/trip",
+    "severity": "high",
+    "frequency": 4,
+    "mtbf_hours": 17520,
+    "equipment_types": [
+      "Squirrel Cage Induction Motor",
+      "Synchronous Motor"
+    ],
+    "root_causes": "Overloading, voltage imbalance >2%, blocked ventilation, high ambient temperature, single phasing"
+  },
+  {
+    "code": "FM-CORROSION-INT",
+    "description": "Internal corrosion — wall thinning, pitting, metal loss",
+    "severity": "critical",
+    "frequency": 2,
+    "mtbf_hours": 43800,
+    "equipment_types": [
+      "Atmospheric Storage Tank",
+      "Pressure Vessel",
+      "Pressure Reactor"
+    ],
+    "root_causes": "CO2 corrosion, H2S corrosion, under-deposit corrosion, microbiologically influenced corrosion (MIC)"
+  },
+  {
+    "code": "FM-VIBRATION-MISALIGN",
+    "description": "Excessive vibration due to misalignment — 2x RPM dominant",
+    "severity": "high",
+    "frequency": 7,
+    "mtbf_hours": 8760,
+    "equipment_types": [
+      "Centrifugal Pump",
+      "Electric Motor",
+      "Compressor"
+    ],
+    "root_causes": "Angular misalignment, parallel offset, soft foot, foundation settlement, thermal growth"
+  },
+  {
+    "code": "FM-GASKET-LEAK",
+    "description": "Flange gasket leak — visible leak or emission detection",
+    "severity": "medium",
+    "frequency": 8,
+    "mtbf_hours": 17520,
+    "equipment_types": [
+      "Shell & Tube Heat Exchanger",
+      "Plate Heat Exchanger",
+      "Pressure Vessel"
+    ],
+    "root_causes": "Bolt relaxation, thermal cycling, incorrect gasket type, improper bolt torquing sequence"
+  },
+  {
+    "code": "FM-COMPRESSOR-VALVE",
+    "description": "Compressor valve failure — increased temperature, reduced capacity",
+    "severity": "high",
+    "frequency": 6,
+    "mtbf_hours": 8760,
+    "equipment_types": [
+      "Reciprocating Compressor"
+    ],
+    "root_causes": "Valve plate fatigue, spring failure, liquid carryover, high delta-P across valve, contaminated gas"
+  },
+  {
+    "code": "FM-BELT-WEAR",
+    "description": "V-belt/coupling wear — noise, slippage, power transmission loss",
+    "severity": "low",
+    "frequency": 10,
+    "mtbf_hours": 4380,
+    "equipment_types": [
+      "Air Cooled Heat Exchanger",
+      "Cooling Tower"
+    ],
+    "root_causes": "Normal wear, misalignment of sheaves, incorrect belt tension, environmental degradation"
+  },
+  {
+    "code": "FM-INSTRUMT-DRIFT",
+    "description": "Instrument calibration drift — inaccurate readings, false alarms",
+    "severity": "medium",
+    "frequency": 15,
+    "mtbf_hours": 4380,
+    "equipment_types": [
+      "Globe Control Valve"
+    ],
+    "root_causes": "Sensor aging, process buildup on sensor, EMI, temperature effects, transmitter electronics failure"
+  },
+  {
+    "code": "FM-COATING-FAIL",
+    "description": "Internal coating/lining failure — exposure of base metal, accelerated corrosion",
+    "severity": "medium",
+    "frequency": 3,
+    "mtbf_hours": 35040,
+    "equipment_types": [
+      "Atmospheric Storage Tank",
+      "Agitated Vessel"
+    ],
+    "root_causes": "Chemical attack, abrasion, holiday in original coating, improper surface preparation, exceeded temperature rating"
+  },
+  {
+    "code": "FM-SAFETY-VALVE-LEAK",
+    "description": "Safety valve seat leak — audible leak, pressure drop",
+    "severity": "high",
+    "frequency": 4,
+    "mtbf_hours": 17520,
+    "equipment_types": [
+      "Spring Loaded Safety Valve"
+    ],
+    "root_causes": "Seat damage from popping, corrosion, process deposits on seating surface, vibration-induced chatter"
+  },
+  {
+    "code": "FM-MOTOR-INSUL",
+    "description": "Motor winding insulation degradation — low megger readings",
+    "severity": "critical",
+    "frequency": 2,
+    "mtbf_hours": 43800,
+    "equipment_types": [
+      "Squirrel Cage Induction Motor",
+      "Synchronous Motor"
+    ],
+    "root_causes": "Thermal aging, moisture ingress, voltage spikes, partial discharge, contamination"
+  },
+  {
+    "code": "FM-FOUNDATION-CRACK",
+    "description": "Equipment foundation cracking/settlement — increased vibration baseline",
+    "severity": "medium",
+    "frequency": 2,
+    "mtbf_hours": 87600,
+    "equipment_types": [
+      "Centrifugal Pump",
+      "Reciprocating Compressor"
+    ],
+    "root_causes": "Soil settlement, dynamic loading fatigue, chemical attack on concrete, inadequate design for dynamic loads"
+  },
+  {
+    "code": "FM-COOLING-TOWER-FILL",
+    "description": "Cooling tower fill degradation — reduced cooling efficiency, increased approach",
+    "severity": "medium",
+    "frequency": 2,
+    "mtbf_hours": 43800,
+    "equipment_types": [
+      "Cooling Tower"
+    ],
+    "root_causes": "Scaling, biological fouling, UV degradation of PVC fill, mechanical damage from maintenance"
+  },
+  {
+    "code": "FM-BOILER-TUBE-FAIL",
+    "description": "Boiler tube failure — water/steam leak, forced outage",
+    "severity": "critical",
+    "frequency": 1,
+    "mtbf_hours": 43800,
+    "equipment_types": [
+      "Water Tube Boiler"
+    ],
+    "root_causes": "Overheating (departure from nucleate boiling), hydrogen damage, caustic gouging, oxygen pitting, fatigue cracking"
+  },
+  {
+    "code": "FM-DG-START-FAIL",
+    "description": "Diesel generator fail to start — no start on demand",
+    "severity": "critical",
+    "frequency": 3,
+    "mtbf_hours": 8760,
+    "equipment_types": [
+      "Diesel Generator"
+    ],
+    "root_causes": "Battery failure, fuel system air lock, starter motor failure, control circuit fault, low coolant"
+  },
+  {
+    "code": "FM-TRANSFORMER-OIL",
+    "description": "Transformer oil degradation — high DGA values, reduced BDV",
+    "severity": "high",
+    "frequency": 2,
+    "mtbf_hours": 43800,
+    "equipment_types": [
+      "Oil Filled Transformer"
+    ],
+    "root_causes": "Thermal aging, moisture ingress, partial discharge, winding hot spots, cellulose decomposition"
+  },
+  {
+    "code": "FM-UPS-BATTERY",
+    "description": "UPS battery degradation — reduced backup time, cell failure",
+    "severity": "high",
+    "frequency": 4,
+    "mtbf_hours": 17520,
+    "equipment_types": [
+      "Online UPS"
+    ],
+    "root_causes": "Calendar aging, thermal runaway, sulfation, electrolyte dry-out, cell imbalance"
+  },
+  {
+    "code": "FM-RO-MEMBRANE",
+    "description": "RO membrane fouling/degradation — increased rejection rate drop, high TDS in permeate",
+    "severity": "medium",
+    "frequency": 4,
+    "mtbf_hours": 8760,
+    "equipment_types": [
+      "Reverse Osmosis System"
+    ],
+    "root_causes": "Scaling (silica, CaCO3), biofouling, membrane oxidation by chlorine, colloidal fouling"
+  },
+  {
+    "code": "FM-PACKING-LEAK",
+    "description": "Valve packing leak — visible leak at valve stem",
+    "severity": "low",
+    "frequency": 20,
+    "mtbf_hours": 4380,
+    "equipment_types": [
+      "Globe Control Valve",
+      "Ball Valve (Automated)"
+    ],
+    "root_causes": "Packing wear, stem scoring, thermal cycling, incorrect packing type, over/under tightening"
+  },
+  {
+    "code": "FM-COUPLING-FAIL",
+    "description": "Coupling failure — sudden vibration increase, noise, loss of drive",
+    "severity": "high",
+    "frequency": 3,
+    "mtbf_hours": 26280,
+    "equipment_types": [
+      "Centrifugal Pump",
+      "Reciprocating Compressor"
+    ],
+    "root_causes": "Fatigue, misalignment, overloading, elastomer degradation, incorrect coupling selection"
+  },
+  {
+    "code": "FM-LUBE-OIL-DEG",
+    "description": "Lubrication oil degradation — high TAN, low viscosity, water contamination",
+    "severity": "medium",
+    "frequency": 6,
+    "mtbf_hours": 4380,
+    "equipment_types": [
+      "Reciprocating Compressor",
+      "Diesel Generator"
+    ],
+    "root_causes": "Thermal breakdown, oxidation, water ingress, particle contamination, extended oil change interval"
+  },
+  {
+    "code": "FM-FLAME-FAILURE",
+    "description": "Burner flame failure — boiler trip on flame failure",
+    "severity": "critical",
+    "frequency": 3,
+    "mtbf_hours": 8760,
+    "equipment_types": [
+      "Water Tube Boiler",
+      "Thermic Fluid Heater"
+    ],
+    "root_causes": "Flame scanner fouling, fuel quality change, air/fuel ratio upset, igniter failure, scanner misalignment"
+  },
+  {
+    "code": "FM-LEVEL-TRANSM",
+    "description": "Level transmitter failure — false high/low level alarms",
+    "severity": "medium",
+    "frequency": 5,
+    "mtbf_hours": 8760,
+    "equipment_types": [
+      "Atmospheric Storage Tank",
+      "Pressure Vessel"
+    ],
+    "root_causes": "Impulse line blockage, diaphragm failure, electronics failure, process buildup, calibration drift"
+  },
+  {
+    "code": "FM-CORROSION-EXT",
+    "description": "External corrosion under insulation (CUI) — wall loss under insulation",
+    "severity": "high",
+    "frequency": 3,
+    "mtbf_hours": 26280,
+    "equipment_types": [
+      "Shell & Tube Heat Exchanger",
+      "Pressure Vessel",
+      "Tray Column"
+    ],
+    "root_causes": "Moisture ingress through damaged insulation, operating temperature 60-175°C (CUI susceptible range), chloride in insulation material, damaged vapor barrier"
+  }
+]
